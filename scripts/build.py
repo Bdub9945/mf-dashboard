@@ -108,8 +108,14 @@ for ev in CFG["events"]:
                 if d>=today: E.append({"org":ev["org"],"date":d.isoformat(),"title":L[i+1],"link":ev["url"]})
 seen=set(); D["events"]=[e for e in sorted(E,key=lambda e:e["date"]) if not ((e["org"],e["title"],e["date"]) in seen or seen.add((e["org"],e["title"],e["date"])))][:40]
 D["events_unparsed"]=CFG["event_links_unparsed"]; D["social"]=CFG["social"]
+# account watch (refreshes every refresh_hours to stay polite; otherwise carries forward last result)
+import sys; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__))); import accounts
+AW=PREV.get("account_watch"); hrs=CFG["account_watch"]["refresh_hours"]
+stale=not AW or AW.get("config_hash")!=accounts.cfg_hash(CFG) or os.environ.get("FORCE_ACCOUNTS") or (dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(AW["generated"])).total_seconds()>hrs*3600-600
+if stale: AW=accounts.run(CFG,AW,LOG)
+D["account_watch"]=AW
 json.dump(D,open(f"{ROOT}/data.json","w"),indent=1)
 os.makedirs(f"{ROOT}/usage",exist_ok=True)
 with open(f"{ROOT}/usage/usage.jsonl","a") as f:
-    f.write(json.dumps({"run":D["generated"],"runner":os.environ.get("GITHUB_ACTIONS") and "github-actions" or "local","fetches":len(LOG),"failed":sum(not l["ok"] for l in LOG),"bytes":sum(l["bytes"] for l in LOG),"paid_api_calls":0,"tokens_used":0,"cost_usd":0,"counts":{"national":len(D["news_national"]),"local":len(D["news_local"]),"market":len(M),"events":len(D["events"])},"detail":LOG})+"\n")
+    f.write(json.dumps({"run":D["generated"],"runner":os.environ.get("GITHUB_ACTIONS") and "github-actions" or "local","fetches":len(LOG),"failed":sum(not l["ok"] for l in LOG),"bytes":sum(l["bytes"] for l in LOG),"paid_api_calls":0,"tokens_used":0,"cost_usd":0,"counts":{"national":len(D["news_national"]),"local":len(D["news_local"]),"market":len(M),"events":len(D["events"]),"account_items":D["account_watch"]["summary"]["items"],"account_watch_refreshed":bool(stale)},"detail":LOG})+"\n")
 print(json.dumps({k:(len(v) if isinstance(v,list) else "") for k,v in D.items()}))

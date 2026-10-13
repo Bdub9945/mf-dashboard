@@ -1,33 +1,928 @@
 {
  "national_feeds": [
-  {"name":"NAA","url":"https://www.naahq.org/rss.xml"},
-  {"name":"Multifamily Dive","url":"https://www.multifamilydive.com/feeds/news/"},
-  {"name":"Bisnow Multifamily","url":"https://news.google.com/rss/search?q=site:bisnow.com+multifamily+when:14d&hl=en-US&gl=US&ceid=US:en"},
-  {"name":"Multi-Housing News","url":"https://news.google.com/rss/search?q=site:multihousingnews.com+when:14d&hl=en-US&gl=US&ceid=US:en"}
+  {
+   "name": "NAA",
+   "url": "https://www.naahq.org/rss.xml"
+  },
+  {
+   "name": "Multifamily Dive",
+   "url": "https://www.multifamilydive.com/feeds/news/"
+  },
+  {
+   "name": "Bisnow Multifamily",
+   "url": "https://news.google.com/rss/search?q=site:bisnow.com+multifamily+when:14d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+   "name": "Multi-Housing News",
+   "url": "https://news.google.com/rss/search?q=site:multihousingnews.com+when:14d&hl=en-US&gl=US&ceid=US:en"
+  }
  ],
  "local_feeds": [
-  {"name":"Google News (local MF)","url":"https://news.google.com/rss/search?q=(apartment+OR+multifamily)+(Maryland+OR+Baltimore+OR+%22Washington+DC%22+OR+Rochester+OR+Buffalo)+when:14d&hl=en-US&gl=US&ceid=US:en"}
+  {
+   "name": "Google News (local MF)",
+   "url": "https://news.google.com/rss/search?q=(apartment+OR+multifamily)+(Maryland+OR+Baltimore+OR+%22Washington+DC%22+OR+Rochester+OR+Buffalo)+when:14d&hl=en-US&gl=US&ceid=US:en"
+  }
  ],
- "local_keywords": ["Maryland","Baltimore","Annapolis","Bethesda","Silver Spring","Rockville","Columbia, MD","Frederick","Prince George","Montgomery County","Washington, D.C.","Washington DC","D.C.","District of Columbia","Rochester","Buffalo","Syracuse","Albany","Upstate","Western New York","Finger Lakes"],
+ "local_keywords": [
+  "Maryland",
+  "Baltimore",
+  "Annapolis",
+  "Bethesda",
+  "Silver Spring",
+  "Rockville",
+  "Columbia, MD",
+  "Frederick",
+  "Prince George",
+  "Montgomery County",
+  "Washington, D.C.",
+  "Washington DC",
+  "D.C.",
+  "District of Columbia",
+  "Rochester",
+  "Buffalo",
+  "Syracuse",
+  "Albany",
+  "Upstate",
+  "Western New York",
+  "Finger Lakes"
+ ],
  "competitors": [
-  {"name":"Yardi","feeds":["https://news.google.com/rss/search?q=%22Yardi%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:yardi.com&hl=en-US&gl=US&ceid=US:en"]},
-  {"name":"RealPage","feeds":["https://news.google.com/rss/search?q=%22RealPage%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:realpage.com&hl=en-US&gl=US&ceid=US:en"]},
-  {"name":"AppFolio","feeds":["https://news.google.com/rss/search?q=%22AppFolio%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:appfolio.com&hl=en-US&gl=US&ceid=US:en"]}
+  {
+   "name": "Yardi",
+   "feeds": [
+    "https://news.google.com/rss/search?q=%22Yardi%22+when:30d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:yardi.com&hl=en-US&gl=US&ceid=US:en"
+   ]
+  },
+  {
+   "name": "RealPage",
+   "feeds": [
+    "https://news.google.com/rss/search?q=%22RealPage%22+when:30d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:realpage.com&hl=en-US&gl=US&ceid=US:en"
+   ]
+  },
+  {
+   "name": "AppFolio",
+   "feeds": [
+    "https://news.google.com/rss/search?q=%22AppFolio%22+when:30d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:appfolio.com&hl=en-US&gl=US&ceid=US:en"
+   ]
+  }
  ],
  "events": [
-  {"org":"AOBA","url":"https://www.aoba-metro.org/events","parser":"date-stub"},
-  {"org":"MMHA","url":"https://www.mmhaonline.org/events","parser":"date-stub"},
-  {"org":"NAA","url":"https://www.naahq.org/events","parser":"text"}
+  {
+   "org": "AOBA",
+   "url": "https://www.aoba-metro.org/events",
+   "parser": "date-stub"
+  },
+  {
+   "org": "MMHA",
+   "url": "https://www.mmhaonline.org/events",
+   "parser": "date-stub"
+  },
+  {
+   "org": "NAA",
+   "url": "https://www.naahq.org/events",
+   "parser": "text"
+  }
  ],
  "event_links_unparsed": [
-  {"org":"Rochester Apartment Professionals / Greater Rochester assoc.","url":"https://www.google.com/search?q=Rochester+NY+apartment+association+events"},
-  {"org":"Buffalo / WNY apartment association","url":"https://www.google.com/search?q=Buffalo+NY+apartment+association+events"}
+  {
+   "org": "Rochester Apartment Professionals / Greater Rochester assoc.",
+   "url": "https://www.google.com/search?q=Rochester+NY+apartment+association+events"
+  },
+  {
+   "org": "Buffalo / WNY apartment association",
+   "url": "https://www.google.com/search?q=Buffalo+NY+apartment+association+events"
+  }
  ],
  "social": {
-  "linkedin_pages": ["https://www.linkedin.com/company/national-apartment-association/","https://www.linkedin.com/company/aoba/","https://www.linkedin.com/company/maryland-multi-housing-association/","https://www.linkedin.com/company/yardi-systems/","https://www.linkedin.com/company/realpage/","https://www.linkedin.com/company/appfolio/"],
-  "linkedin_hashtags": ["multifamily","apartments","proptech","propertymanagement"],
-  "x_accounts": ["NAAhq","MultifamilyDive","Yardi","RealPage","AppFolio"],
-  "facebook_pages": ["https://www.facebook.com/NationalApartmentAssociation","https://www.facebook.com/AOBAMetro"],
-  "instagram": ["https://www.instagram.com/naahq/"]
+  "linkedin_pages": [
+   "https://www.linkedin.com/company/national-apartment-association/",
+   "https://www.linkedin.com/company/aoba/",
+   "https://www.linkedin.com/company/maryland-multi-housing-association/",
+   "https://www.linkedin.com/company/yardi-systems/",
+   "https://www.linkedin.com/company/realpage/",
+   "https://www.linkedin.com/company/appfolio/"
+  ],
+  "linkedin_hashtags": [
+   "multifamily",
+   "apartments",
+   "proptech",
+   "propertymanagement"
+  ],
+  "x_accounts": [
+   "NAAhq",
+   "MultifamilyDive",
+   "Yardi",
+   "RealPage",
+   "AppFolio"
+  ],
+  "facebook_pages": [
+   "https://www.facebook.com/NationalApartmentAssociation",
+   "https://www.facebook.com/AOBAMetro"
+  ],
+  "instagram": [
+   "https://www.instagram.com/naahq/"
+  ]
+ },
+ "accounts": [
+  {
+   "name": "A.J. Dwoskin & Associates",
+   "url": "http://www.dwoskin.com",
+   "news_query": "\"A.J. Dwoskin & Associates\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Abbitt Management LLC",
+   "url": "http://www.abbittrentals.com",
+   "news_query": "\"Abbitt Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "ADCO Properties",
+   "url": "http://www.buffaloapartment.net",
+   "news_query": "\"ADCO Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Allegheny Partners",
+   "url": "http://www.alleghenypartners.com",
+   "news_query": "\"Allegheny Partners\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Allegheny Partners"
+  },
+  {
+   "name": "Allen & Rocks, Inc.",
+   "url": "http://www.allenandrocks.com",
+   "news_query": "\"Allen & Rocks\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Aneka Guna LLC",
+   "url": "http://www.southernstovelofts.com",
+   "news_query": "\"Aneka Guna\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "ARC Developers, Inc.",
+   "url": "http://www.arcdevco.com",
+   "news_query": "\"ARC Developers\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Aria Development Group",
+   "url": "http://www.ariadevelopmentgroup.com",
+   "news_query": "\"Aria Development Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Aulder Capital",
+   "url": "http://www.aulder.com",
+   "news_query": "\"Aulder Capital\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "B&F Management",
+   "url": "http://www.bfmgmt.com",
+   "news_query": "\"B&F Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Baldwin Real Estate",
+   "url": "http://www.baldwinmgmt.com",
+   "news_query": "\"Baldwin Real Estate\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Baldwin Real Estate"
+  },
+  {
+   "name": "Barac Company",
+   "url": "http://www.thebarac.com",
+   "news_query": "\"Barac Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Bayview Management",
+   "url": "http://www.bayviewmanagement.com",
+   "news_query": "\"Bayview Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "BCI Management, LLC",
+   "url": "http://www.bcimgmt.com",
+   "news_query": "\"BCI Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Better Housing Coalition",
+   "url": "http://www.betterhousingcoalition.org",
+   "news_query": "\"Better Housing Coalition\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "BLDG Management Co. Inc",
+   "url": "http://www.bldg.com",
+   "news_query": "\"BLDG Management Co.\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Blue Jay Property Management",
+   "url": "http://www.bluejaypm.com",
+   "news_query": "\"Blue Jay Property Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Blue Ocean Realty LLC",
+   "url": "http://www.blueoceanrealty.net",
+   "news_query": "\"Blue Ocean Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Bond New York Properties",
+   "url": "http://www.bondnewyork.com",
+   "news_query": "\"Bond New York Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Boyd Homes",
+   "url": "http://www.boydhomes.com",
+   "news_query": "\"Boyd Homes\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Branford Realty Corporation",
+   "url": "https://www.clintwoodapartments.com/",
+   "news_query": "\"Branford Realty Corporation\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Branford Realty"
+  },
+  {
+   "name": "Briar Meads Capital",
+   "url": "http://www.briarmeads.com",
+   "news_query": "\"Briar Meads Capital\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Brickstreet Property Management",
+   "url": "http://www.brickstreetpm.com",
+   "news_query": "\"Brickstreet Property Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Bromley Companies",
+   "url": "http://www.bromco.com",
+   "news_query": "\"Bromley Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Bromley Companies"
+  },
+  {
+   "name": "Buffalo Management Group",
+   "url": "http://www.buffalomanagementgroup.com",
+   "news_query": "\"Buffalo Management Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Buffalo Management Group"
+  },
+  {
+   "name": "Capital Investment Advisors",
+   "url": "http://www.capinvestad.com",
+   "news_query": "\"Capital Investment Advisors\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Carlyle Property Management",
+   "url": "http://www.carlylepropertymanagement.com",
+   "news_query": "\"Carlyle Property Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Carydale Apartments",
+   "url": "http://www.carydale.com",
+   "news_query": "\"Carydale Apartments\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Ciminelli Real Estate Corporation",
+   "url": "http://www.ciminelli.com",
+   "news_query": "\"Ciminelli Real Estate Corporation\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Clachan Properties",
+   "url": "http://www.clachanproperties.com",
+   "news_query": "\"Clachan Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Clark Whitehill Enterprises",
+   "url": "http://www.clarkwhitehill.com",
+   "news_query": "\"Clark Whitehill Enterprises\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Cogswell Realty",
+   "url": "http://www.cogswellrealty.com",
+   "news_query": "\"Cogswell Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Commodore Management Company",
+   "url": "https://gingery.net",
+   "news_query": "\"Commodore Management Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Commodore Management"
+  },
+  {
+   "name": "Comstock",
+   "url": "http://www.comstockcompanies.com",
+   "news_query": "\"Comstock\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "Comstock"
+  },
+  {
+   "name": "Corsair Management LLC",
+   "url": "http://www.corsairmanagement.com",
+   "news_query": "\"Corsair Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Corsair Management"
+  },
+  {
+   "name": "Crestline Realty Corp",
+   "url": "http://www.crestline-realty.com",
+   "news_query": "\"Crestline Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Crestline Realty"
+  },
+  {
+   "name": "CSC",
+   "url": "http://www.cscre.us",
+   "news_query": "\"CSC Real Estate\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "CSC Real Estate"
+  },
+  {
+   "name": "Dalan Management",
+   "url": "http://www.dalanre.com",
+   "news_query": "\"Dalan Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "DeChiaro Properties",
+   "url": "http://www.dechiaromd.com",
+   "news_query": "\"DeChiaro Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "DeGeorge Property Group, LLC",
+   "url": "http://www.degeorgemanagement.com",
+   "news_query": "\"DeGeorge Property Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Denstock Management",
+   "url": "http://www.denstock.net",
+   "news_query": "\"Denstock Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Dominion Management Services",
+   "url": "http://www.odrpm.com",
+   "news_query": "\"Dominion Management Services\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Dragas Companies",
+   "url": "http://www.dragas.com",
+   "news_query": "\"Dragas Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "E & G Group",
+   "url": "http://www.eandggroup.com",
+   "news_query": "\"E & G Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Eakin Properties",
+   "url": "http://www.eakinpropertiesinc.com",
+   "news_query": "\"Eakin Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Eastwood Management",
+   "url": "http://www.eastwoodmanagement.com",
+   "news_query": "\"Eastwood Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "EK Realty, LLC",
+   "url": "http://www.ekrealestatemanagementny.com",
+   "news_query": "\"EK Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "ELK Investors, Inc",
+   "url": "https://www.elkinvestors.com",
+   "news_query": "\"ELK Investors\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Elmridge Property Group, LLC",
+   "url": "http://www.elmridge.llc",
+   "news_query": "\"Elmridge Property Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Elmridge Property"
+  },
+  {
+   "name": "Empire Management",
+   "url": "http://www.empiremanagement.com",
+   "news_query": "\"Empire Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Empire State Realty Trust",
+   "url": "http://www.esrtreit.com",
+   "news_query": "\"Empire State Realty Trust\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Epoch Properties, Inc",
+   "url": "http://www.epoch.com",
+   "news_query": "\"Epoch Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "EPP Management LLC",
+   "url": "http://www.eppmanagement.net",
+   "news_query": "\"EPP Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Faller Companies",
+   "url": "http://www.fallermgt.com",
+   "news_query": "\"Faller Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Feldman Ruel",
+   "url": "http://www.feldmanruel.com",
+   "news_query": "\"Feldman Ruel\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "First Amherst Development",
+   "url": "http://www.firstamherst.com",
+   "news_query": "\"First Amherst Development\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "First Equity Associates Inc",
+   "url": "http://www.firstequityassociates.com",
+   "news_query": "\"First Equity Associates\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "First Priority Management",
+   "url": "http://www.firstprioritymgt.com",
+   "news_query": "\"First Priority Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "First Prise Properties",
+   "url": "http://www.firstpriseproperties.com",
+   "news_query": "\"First Prise Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "FLX Real Estate Management Group",
+   "url": "http://www.robertsondevelop.com",
+   "news_query": "\"FLX Real Estate Management Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Found Study",
+   "url": "http://www.foundstudy.com",
+   "news_query": "\"Found Study\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Fried Companies, Inc.",
+   "url": "http://www.friedcompanies.com",
+   "news_query": "\"Fried Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Frontier Management of New York, Inc.",
+   "url": "http://www.frontiercommunities.com",
+   "news_query": "\"Frontier Management of New York\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Gebhart Properties",
+   "url": "http://www.gebhartproperties.com",
+   "news_query": "\"Gebhart Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Gelman Management, Inc.",
+   "url": "http://www.gelman.com",
+   "news_query": "\"Gelman Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Genesis Properties",
+   "url": "http://www.genesisproperties.com",
+   "news_query": "\"Genesis Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Grace Properties of Virginia",
+   "url": "http://www.gracepropertiesofva.com",
+   "news_query": "\"Grace Properties of Virginia\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Great Eastern Management Company",
+   "url": "http://www.gemc.com",
+   "news_query": "\"Great Eastern Management Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Greyshore Management",
+   "url": "http://www.greyshoremanagement.com",
+   "news_query": "\"Greyshore Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Greystone Rentals NYC",
+   "url": "http://www.greystonerentals.com",
+   "news_query": "\"Greystone Rentals NYC\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Gumenick Properties",
+   "url": "http://www.gumenick.com",
+   "news_query": "\"Gumenick Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Hakimian Management Organization",
+   "url": "http://www.hakimian.com",
+   "news_query": "\"Hakimian Management Organization\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Harrison & Lear, Inc.",
+   "url": "http://www.harrison-lear.com",
+   "news_query": "\"Harrison & Lear\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "HELP Development Corp",
+   "url": "http://www.helpdevco.org",
+   "news_query": "\"HELP Development\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "HELP Development Corp"
+  },
+  {
+   "name": "I. Gordon Apartment Living",
+   "url": "http://www.igordon.com",
+   "news_query": "\"I. Gordon Apartment Living\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "J Alexander Management Company",
+   "url": "http://www.jalexrentals.com",
+   "news_query": "\"J Alexander Management Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Jankow Management, Inc.",
+   "url": "http://www.jankowcompanies.com",
+   "news_query": "\"Jankow Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "K & B Management",
+   "url": "",
+   "news_query": "\"K & B Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Keelty Homes",
+   "url": "http://www.keelty.com",
+   "news_query": "\"Keelty Homes\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Kenmore Development",
+   "url": "http://www.kendev.com",
+   "news_query": "\"Kenmore Development\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Kenmore Development"
+  },
+  {
+   "name": "Kesh Capital",
+   "url": "http://www.keshcapital.com",
+   "news_query": "\"Kesh Capital\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Kesh Capital"
+  },
+  {
+   "name": "KEW Management Corporation",
+   "url": "http://www.kewmanagement.com",
+   "news_query": "\"KEW Management Corporation\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Knott Realty Group",
+   "url": "http://www.knottrealty.com",
+   "news_query": "\"Knott Realty Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "KRS Holdings, Inc",
+   "url": "http://www.krsholdings.com",
+   "news_query": "\"KRS Holdings\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Lenkin Company",
+   "url": "http://www.lenkin.com",
+   "news_query": "\"Lenkin Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Lisa Management, Inc.",
+   "url": "http://www.lisamgmt.com",
+   "news_query": "\"Lisa Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Malkin Residential",
+   "url": "http://www.malkinproperties.com",
+   "news_query": "\"Malkin Residential\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Manhattan North Management",
+   "url": "http://www.manhattannorth.com",
+   "news_query": "\"Manhattan North Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Mark IV Enterprises",
+   "url": "http://www.markiventerprises.com",
+   "news_query": "\"Mark IV Enterprises\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Matchbox Realty",
+   "url": "http://www.matchboxrealty.com",
+   "news_query": "\"Matchbox Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "Matchbox Realty"
+  },
+  {
+   "name": "MED Developers",
+   "url": "http://www.meddevelopers.com",
+   "news_query": "\"MED Developers\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Metro Loft Management, LLC",
+   "url": "http://www.metroloftnyc.com",
+   "news_query": "\"Metro Loft Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Metro Properties, Inc.",
+   "url": "http://www.metropropertiesrichmond.com",
+   "news_query": "\"Metro Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Midland Management LLC",
+   "url": "https://www.midlandmanagement.com",
+   "news_query": "\"Midland Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Midwood Investment & Development",
+   "url": "http://www.midwoodid.com",
+   "news_query": "\"Midwood Investment & Development\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Neighborhood Properties",
+   "url": "http://www.neighborhoodprops.com",
+   "news_query": "\"Neighborhood Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "North Bay Group Llc",
+   "url": "http://www.northbaygroup.net",
+   "news_query": "\"North Bay Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "North York Capital",
+   "url": "http://www.northyorkcap.com",
+   "news_query": "\"North York Capital\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "NOVO Properties",
+   "url": "http://www.livenovo.com",
+   "news_query": "\"NOVO Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Ohaven Management Group",
+   "url": "http://www.ohaven.com",
+   "news_query": "\"Ohaven Management Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Page Brooke Developments",
+   "url": "http://www.pagebrooke.com",
+   "news_query": "\"Page Brooke Developments\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Pan Am Equities",
+   "url": "http://www.panamequities.com",
+   "news_query": "\"Pan Am Equities\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Park Grove Realty",
+   "url": "http://www.parkgrovellc.com",
+   "news_query": "\"Park Grove Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Pembroke Realty Group",
+   "url": "http://www.pembrokerealty.com",
+   "news_query": "\"Pembroke Realty Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "Pembroke Realty"
+  },
+  {
+   "name": "Perrel Management",
+   "url": "http://www.perrelapartments.com",
+   "news_query": "\"Perrel Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Pine Management",
+   "url": "http://www.pinemanagement.com",
+   "news_query": "\"Pine Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Promark Partners (Vanguard Realty Group)",
+   "url": "http://www.promarkpartners.com",
+   "news_query": "\"Promark Partners\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Vanguard Realty"
+  },
+  {
+   "name": "Prospect Management",
+   "url": "http://www.prospectm.com",
+   "news_query": "\"Prospect Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "PRP Real Assets",
+   "url": "http://www.prprei.com",
+   "news_query": "\"PRP Real Assets\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Quadrangle Management",
+   "url": "http://www.quadrangledevelopment.com",
+   "news_query": "\"Quadrangle Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Quadrangle Development"
+  },
+  {
+   "name": "Rakusin & Becker Management, Inc.",
+   "url": "http://www.topazhouse.com",
+   "news_query": "\"Rakusin & Becker Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "RCH Capital Partners",
+   "url": "http://www.rchcapitalpartners.com",
+   "news_query": "\"RCH Capital Partners\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Real Estate Dimensions, LLC",
+   "url": "http://www.realestatedimensions.com",
+   "news_query": "\"Real Estate Dimensions\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Real NY Properties",
+   "url": "http://www.realnyproperties.com",
+   "news_query": "\"Real NY Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Red Apple Group Inc.",
+   "url": "http://www.ragny.com",
+   "news_query": "\"Red Apple Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Renaud Consulting",
+   "url": "http://www.renaudconsulting.net",
+   "news_query": "\"Renaud Consulting\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Rinnier Development Company",
+   "url": "http://www.rinnier.com",
+   "news_query": "\"Rinnier Development Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "River View Companies",
+   "url": "http://www.riverview-companies.com",
+   "news_query": "\"River View Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Rolling Park Management",
+   "url": "http://www.rollingpark.com",
+   "news_query": "\"Rolling Park Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "RP Fralin Inc.",
+   "url": "http://www.rpfralininc.com",
+   "news_query": "\"RP Fralin\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Saba Group Inc",
+   "url": "http://www.thesabagroup.com",
+   "news_query": "\"Saba Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Savarino Properties, LLC",
+   "url": "http://www.savarinocompanies.com",
+   "news_query": "\"Savarino Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Sentinel Properties",
+   "url": "http://www.sentprop.com",
+   "news_query": "\"Sentinel Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Sermar Management, LLC",
+   "url": "http://www.sermarmanagement.com",
+   "news_query": "\"Sermar Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Shaool Management",
+   "url": "http://www.shaoolmgt.com",
+   "news_query": "\"Shaool Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Shore Assets, Inc.",
+   "url": "http://www.shorecp.com",
+   "news_query": "\"Shore Assets\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "SJG Properties",
+   "url": "http://www.sjgproperties.com",
+   "news_query": "\"SJG Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "SJP Properties",
+   "url": "http://www.sjpproperties.com",
+   "news_query": "\"SJP Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Skylight Real Estate Partners",
+   "url": "http://www.skylightrep.com",
+   "news_query": "\"Skylight Real Estate Partners\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Skylight Real Estate"
+  },
+  {
+   "name": "Spaxel LLC",
+   "url": "http://www.spaxel.com",
+   "news_query": "\"Spaxel\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "SR Management Company",
+   "url": "http://www.srmgmtco.com",
+   "news_query": "\"SR Management Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Stewart Langley Properties",
+   "url": "http://www.stewartlangleyproperties.com",
+   "news_query": "\"Stewart Langley Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Storch Realty, Inc.",
+   "url": "http://www.storchrealty.com",
+   "news_query": "\"Storch Realty\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Storch Realty"
+  },
+  {
+   "name": "Summit Senior Living",
+   "url": "http://www.summitsenior.net",
+   "news_query": "\"Summit Senior Living\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Symphony Property Management",
+   "url": "http://www.symphonymgmt.com",
+   "news_query": "\"Symphony Property Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Tauber Properties",
+   "url": "http://www.tauberproperties.com",
+   "news_query": "\"Tauber Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "The BDC Group",
+   "url": "http://www.thebdcgroup.com",
+   "news_query": "\"The BDC Group\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "The Downtown, LLC",
+   "url": "http://www.thedowntownapts.com",
+   "news_query": "\"The Downtown\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "The Downtown Apartments"
+  },
+  {
+   "name": "Thornhill Properties Inc",
+   "url": "http://www.thornhillbaltimore.com",
+   "news_query": "\"Thornhill Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Thornhill Properties"
+  },
+  {
+   "name": "Tomlin & Associates, Inc.",
+   "url": "http://www.tomlinproperty.com",
+   "news_query": "\"Tomlin & Associates\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)",
+   "match": "Tomlin & Associates"
+  },
+  {
+   "name": "Tower Companies",
+   "url": "http://www.towercompanies.com",
+   "news_query": "\"Tower Companies\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Towne Housing Real Estate",
+   "url": "http://www.townehousing.com",
+   "news_query": "\"Towne Housing Real Estate\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Triumph Real Estate Management",
+   "url": "http://www.triumphrealestate.nyc",
+   "news_query": "\"Triumph Real Estate Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "University Apartments LLC",
+   "url": "http://www.u-apts.com",
+   "news_query": "\"University Apartments\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "Virginia Supportive Housing",
+   "url": "http://www.virginiasupportivehousing.org",
+   "news_query": "\"Virginia Supportive Housing\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "W.S. Carnes, Inc.",
+   "url": "http://www.wscarnes.com",
+   "news_query": "\"W.S. Carnes\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "WAO Properties",
+   "url": "http://www.waoproperties.com",
+   "news_query": "\"WAO Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Washco Management",
+   "url": "http://www.washcomanagement.net",
+   "news_query": "\"Washco Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "WHH Trice & Company",
+   "url": "http://www.whhtrice.com",
+   "news_query": "\"WHH Trice & Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Whitmore Company, LLC",
+   "url": "http://www.thewhitmoreco.com",
+   "news_query": "\"Whitmore Company\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)"
+  },
+  {
+   "name": "WISH",
+   "url": "http://www.internsdc.com",
+   "news_query": "\"Washington Intern Student Housing\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development) (Maryland OR Virginia OR \"Washington, D.C.\" OR \"New York\" OR Baltimore OR Richmond OR Buffalo OR Rochester OR Norfolk)",
+   "match": "Washington Intern Student Housing"
+  },
+  {
+   "name": "Wyse Properties",
+   "url": "http://www.wyseproperties.com",
+   "news_query": "\"Wyse Properties\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  },
+  {
+   "name": "Zuckerman Gravely Management",
+   "url": "http://www.zuckermangravelymanagement.com",
+   "news_query": "\"Zuckerman Gravely Management\" (apartments OR multifamily OR housing OR \"real estate\" OR property OR development)"
+  }
+ ],
+ "account_watch": {
+  "refresh_hours": 6,
+  "gn_window": "when:60d",
+  "recent_days": 60,
+  "max_concurrency": 4,
+  "timeout_s": 15,
+  "user_agent": "Mozilla/5.0 (compatible; mf-dashboard-account-watch/1.0; +https://bdub9945.github.io/mf-dashboard/)"
  }
 }

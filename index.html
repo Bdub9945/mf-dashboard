@@ -15,11 +15,12 @@ h2{font:600 14px var(--head);margin:0 0 4px;color:var(--accent);text-transform:u
 .it{padding:4px 0;border-bottom:1px solid var(--line)}.m{color:var(--muted);font-size:11px}.tabs button,#theme{background:var(--line);color:var(--text);border:0;border-radius:var(--radius);padding:3px 9px;margin-right:4px;cursor:pointer;font:600 12px var(--body)}.tabs button.on{background:var(--accent);color:#fff}[data-theme=navy] .tabs button.on,[data-theme=slate] .tabs button.on{color:#000}
 table{width:100%;border-collapse:collapse}td{padding:3px;border-bottom:1px solid var(--line);vertical-align:top}td:nth-child(2){font:700 15px var(--head);color:var(--accent2)}.ph{background:var(--ph-bg);color:var(--ph-tx);border-left:3px solid var(--accent);padding:6px;margin:4px 0;font-size:12px}
 #events{display:flex;gap:6px;overflow-x:auto;padding:6px}.ev{flex:0 0 220px;background:var(--bg);border-left:3px solid var(--accent);padding:6px}textarea{width:100%;height:calc(100% - 50px);background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:var(--radius);font:13px var(--body)}
-.cols{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}.cols a{word-break:break-all}</style></head><body>
+.cols{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}.cols a{word-break:break-all}.hm a{color:var(--muted)}.hm a.on{color:var(--accent)}.cat{display:inline-block;font:600 10px var(--body);padding:0 5px;margin-right:4px;border-radius:var(--radius);background:var(--line);color:var(--accent2)}.new{background:var(--accent);color:#fff}.q{margin-top:6px}.q summary{cursor:pointer}.qi{display:inline-block;margin:2px 8px 2px 0;font-size:12px}
+</style></head><body>
 <header><h1><b>Multifamily</b> Pulse — MD · DC · Upstate NY</h1><span><span class="m" id="gen"></span> <select id="theme" title="Theme"><option value="entrata">Entrata Red</option><option value="slate">Slate Electric</option><option value="navy">Navy Amber</option></select></span></header>
 <div class="row top">
  <div class="card"><h2>Industry News</h2><div class="tabs"><button class="on" data-t="news_national">National</button><button data-t="news_local">Local (MD/DC/Upstate NY)</button></div><div id="news"></div></div>
- <div class="card"><h2>Competitors</h2><div class="tabs" id="ctabs"></div><div id="comp"></div><div class="ph">X posts from @Yardi / @RealPage / @AppFolio: no free, legitimate method exists. The X API free tier can't read timelines; reading needs a paid tier (Basic, about $200/mo). Placeholder.</div></div>
+ <div class="card"><h2 class="hm"><a href="#" data-m="compwrap" class="on">Competitors</a> <span class="m">|</span> <a href="#" data-m="aw">Account Watch <span id="awn" class="m"></span></a></h2><div id="compwrap"><div class="tabs" id="ctabs"></div><div id="comp"></div><div class="ph">X posts from @Yardi / @RealPage / @AppFolio: no free, legitimate method exists. The X API free tier can't read timelines; reading needs a paid tier (Basic, about $200/mo). Placeholder.</div></div><div id="aw" hidden><div class="tabs" id="awtabs"></div><div class="m" id="awsum"></div><div id="awlist"></div><details class="q"><summary class="m" id="quieth"></summary><div id="quiet"></div></details><details class="q"><summary class="m" id="awsth"></summary><div id="awst"></div></details></div></div>
 </div>
 <div class="row bot">
  <div class="card"><h2>Social</h2><div class="cols" id="social"></div></div>
@@ -34,7 +35,7 @@ const fd=d=>d?new Date(d+(d.length<=10?'T12:00':'Z')).toLocaleDateString('en-US'
 const list=a=>a.length?a.map(i=>`<div class=it><a target=_blank href="${esc(i.link)}">${esc(i.title)}</a><div class=m>${esc(i.source)} · ${fd(i.date)}</div></div>`).join(''):'<div class=m>No items this run.</div>';
 fetch('data.json?'+Date.now()).then(r=>r.json()).then(D=>{
  gen.textContent='Data refreshed '+new Date(D.generated).toLocaleString('en-US',{timeZone:'America/New_York'})+' ET · hourly';
- const nt=t=>{news.innerHTML=list(D[t]);document.querySelectorAll('.top .tabs:first-of-type button').forEach(b=>b.classList.toggle('on',b.dataset.t==t))};
+ const nt=t=>{news.innerHTML=list(D[t]);document.querySelectorAll('[data-t]').forEach(b=>b.classList.toggle('on',b.dataset.t==t))};
  document.querySelectorAll('[data-t]').forEach(b=>b.onclick=()=>nt(b.dataset.t));nt('news_national');
  const cs=Object.keys(D.competitors);ctabs.innerHTML=cs.map(c=>`<button data-c="${c}">${c}</button>`).join('');
  const ct=c=>{comp.innerHTML=list(D.competitors[c]);ctabs.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.c==c))};
@@ -46,6 +47,20 @@ fetch('data.json?'+Date.now()).then(r=>r.json()).then(D=>{
  <div><b>X</b><div class=ph>Reading posts needs the paid X API (Basic, about $200/mo). Links only.</div>${S.x_accounts.map(a=>lk('https://x.com/'+a,'@'+a)).join('')}</div>
  <div><b>Facebook</b><div class=ph>Reading a Page feed needs a Meta app with Page Public Content Access review. Links only.</div>${S.facebook_pages.map(u=>lk(u)).join('')}</div>
  <div><b>Instagram</b><div class=ph>Needs the Meta Graph API (business account plus app review). Links only.</div>${S.instagram.map(u=>lk(u)).join('')}</div>`;
+ const hm=document.querySelectorAll('.hm a');hm.forEach(a=>a.onclick=e=>{e.preventDefault();hm.forEach(b=>{b.classList.toggle('on',b==a);document.getElementById(b.dataset.m).hidden=b!=a})});
+ const A=D.account_watch;if(A){const C=A.companies,act=C.filter(c=>c.items.length),qt=C.filter(c=>!c.items.length),S=A.summary;
+  awn.textContent='('+S.items+')';
+  awsum.textContent=`${S.companies} accounts · ${S.with_items} with items · checked ${new Date(A.generated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET (every 6h)`;
+  const cats=['All','Acquisition','Hire/Leadership','Merger','Development','Other'];
+  const all=act.flatMap(c=>c.items.map(i=>({...i,co:c.name}))).sort((a,b)=>(b.new-a.new)||(b.date||'').localeCompare(a.date||''));
+  const show=k=>{awtabs.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.k==k));const L=all.filter(i=>k=='All'||i.category==k);
+   awlist.innerHTML=L.length?L.map(i=>`<div class=it>${i.new?'<span class="cat new">NEW</span>':''}<span class=cat>${esc(i.category)}</span><b>${esc(i.co)}</b> · <a target=_blank href="${esc(i.link)}">${esc(i.title)}</a><div class=m>${esc(i.source)}${i.date?' · '+fd(i.date):''}</div></div>`).join(''):'<div class=m>No items in this category.</div>'};
+  awtabs.innerHTML=cats.map(k=>`<button data-k="${k}">${k} ${k=='All'?all.length:all.filter(i=>i.category==k).length}</button>`).join('');
+  awtabs.querySelectorAll('button').forEach(b=>b.onclick=()=>show(b.dataset.k));show('All');
+  const lab=c=>c.url?`<a target=_blank href="${esc(c.news_page||c.url)}">${esc(c.name)}</a>`:esc(c.name);
+  quieth.textContent=`Quiet accounts (${qt.length}) – no recent items`;quiet.innerHTML=qt.map(c=>`<span class=qi>${lab(c)}${c.status!='reachable'?` <span class=m>(${c.status})</span>`:''}</span>`).join('');
+  const bad=C.filter(c=>c.status!='reachable');awsth.textContent=`Site status: ${S.reachable} news page/feed found · ${S.no_news_page} no news page · ${S.unreachable} unreachable · ${S.no_url} no URL`;
+  awst.innerHTML=bad.map(c=>`<span class=qi>${lab(c)} <span class=m>(${c.status})</span></span>`).join('');}
 });
 // scratchpad: localStorage + optional GitHub Contents API sync (token stays in this browser only)
 const K='mf_pad',G=JSON.parse(localStorage.mf_gh||'null');pad.value=localStorage[K]||'';let tm;
