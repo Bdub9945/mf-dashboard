@@ -1,0 +1,33 @@
+{
+ "national_feeds": [
+  {"name":"NAA","url":"https://www.naahq.org/rss.xml"},
+  {"name":"Multifamily Dive","url":"https://www.multifamilydive.com/feeds/news/"},
+  {"name":"Bisnow Multifamily","url":"https://news.google.com/rss/search?q=site:bisnow.com+multifamily+when:14d&hl=en-US&gl=US&ceid=US:en"},
+  {"name":"Multi-Housing News","url":"https://news.google.com/rss/search?q=site:multihousingnews.com+when:14d&hl=en-US&gl=US&ceid=US:en"}
+ ],
+ "local_feeds": [
+  {"name":"Google News (local MF)","url":"https://news.google.com/rss/search?q=(apartment+OR+multifamily)+(Maryland+OR+Baltimore+OR+%22Washington+DC%22+OR+Rochester+OR+Buffalo)+when:14d&hl=en-US&gl=US&ceid=US:en"}
+ ],
+ "local_keywords": ["Maryland","Baltimore","Annapolis","Bethesda","Silver Spring","Rockville","Columbia, MD","Frederick","Prince George","Montgomery County","Washington, D.C.","Washington DC","D.C.","District of Columbia","Rochester","Buffalo","Syracuse","Albany","Upstate","Western New York","Finger Lakes"],
+ "competitors": [
+  {"name":"Yardi","feeds":["https://news.google.com/rss/search?q=%22Yardi%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:yardi.com&hl=en-US&gl=US&ceid=US:en"]},
+  {"name":"RealPage","feeds":["https://news.google.com/rss/search?q=%22RealPage%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:realpage.com&hl=en-US&gl=US&ceid=US:en"]},
+  {"name":"AppFolio","feeds":["https://news.google.com/rss/search?q=%22AppFolio%22+when:30d&hl=en-US&gl=US&ceid=US:en","https://news.google.com/rss/search?q=site:appfolio.com&hl=en-US&gl=US&ceid=US:en"]}
+ ],
+ "events": [
+  {"org":"AOBA","url":"https://www.aoba-metro.org/events","parser":"date-stub"},
+  {"org":"MMHA","url":"https://www.mmhaonline.org/events","parser":"date-stub"},
+  {"org":"NAA","url":"https://www.naahq.org/events","parser":"text"}
+ ],
+ "event_links_unparsed": [
+  {"org":"Rochester Apartment Professionals / Greater Rochester assoc.","url":"https://www.google.com/search?q=Rochester+NY+apartment+association+events"},
+  {"org":"Buffalo / WNY apartment association","url":"https://www.google.com/search?q=Buffalo+NY+apartment+association+events"}
+ ],
+ "social": {
+  "linkedin_pages": ["https://www.linkedin.com/company/national-apartment-association/","https://www.linkedin.com/company/aoba/","https://www.linkedin.com/company/maryland-multi-housing-association/","https://www.linkedin.com/company/yardi-systems/","https://www.linkedin.com/company/realpage/","https://www.linkedin.com/company/appfolio/"],
+  "linkedin_hashtags": ["multifamily","apartments","proptech","propertymanagement"],
+  "x_accounts": ["NAAhq","MultifamilyDive","Yardi","RealPage","AppFolio"],
+  "facebook_pages": ["https://www.facebook.com/NationalApartmentAssociation","https://www.facebook.com/AOBAMetro"],
+  "instagram": ["https://www.instagram.com/naahq/"]
+ }
+}

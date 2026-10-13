@@ -1,0 +1,57 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Multifamily Pulse – MD · DC · Upstate NY</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Oswald:wght@500;700&family=PT+Serif&display=swap" rel="stylesheet">
+<style>
+/* Theme 1: Entrata-inspired. Palette from public www.entrata.com Webflow CSS vars (--primary--entrata-*) */
+:root,[data-theme=entrata]{--bg:#191919;--card:#232323;--line:#3a3a3a;--text:#ffffff;--muted:#a29b90;--accent:#e42127;--accent2:#e64247;--accent-dk:#bf1c21;--link-h:#e64247;--ph-bg:#3c1416;--ph-tx:#f0d7d1;--head:"Oswald","Nohemi Compress",Arial,sans-serif;--body:"Inter",Arial,sans-serif;--radius:2px}
+/* Theme 2: Dark slate + electric */
+[data-theme=slate]{--bg:#0b1120;--card:#141c2f;--line:#26324a;--text:#e6edf7;--muted:#8a9bb8;--accent:#00e5ff;--accent2:#a3ff12;--accent-dk:#0091a8;--link-h:#00e5ff;--ph-bg:#1b2a1a;--ph-tx:#c8ff8a;--head:"Inter",sans-serif;--body:"Inter",sans-serif;--radius:6px}
+/* Theme 3: High-contrast navy + amber */
+[data-theme=navy]{--bg:#06122b;--card:#0d1f45;--line:#1f3566;--text:#ffffff;--muted:#b6c2dc;--accent:#ffb000;--accent2:#ffd166;--accent-dk:#cc8a00;--link-h:#ffd166;--ph-bg:#3a2a00;--ph-tx:#ffe199;--head:"Oswald",sans-serif;--body:"Inter",sans-serif;--radius:0}
+*{box-sizing:border-box}body{margin:0;font:13px var(--body);background:var(--bg);color:var(--text);height:100vh;display:grid;grid-template-rows:auto 1fr 1fr auto;gap:6px;padding:6px}
+header{display:flex;justify-content:space-between;align-items:center;border-bottom:3px solid var(--accent);padding-bottom:4px}h1{font:700 20px var(--head);margin:0;text-transform:uppercase;letter-spacing:.5px}h1 b{color:var(--accent)}
+h2{font:600 14px var(--head);margin:0 0 4px;color:var(--accent);text-transform:uppercase;letter-spacing:.6px}
+.row{display:grid;gap:6px;min-height:0}.top{grid-template-columns:1fr 1fr}.bot{grid-template-columns:2fr 1.2fr 1fr}
+.card{background:var(--card);border-radius:var(--radius);border-top:2px solid var(--accent);padding:8px;overflow:auto;min-height:0}a{color:var(--text);text-decoration:none}a:hover{color:var(--link-h)}
+.it{padding:4px 0;border-bottom:1px solid var(--line)}.m{color:var(--muted);font-size:11px}.tabs button,#theme{background:var(--line);color:var(--text);border:0;border-radius:var(--radius);padding:3px 9px;margin-right:4px;cursor:pointer;font:600 12px var(--body)}.tabs button.on{background:var(--accent);color:#fff}[data-theme=navy] .tabs button.on,[data-theme=slate] .tabs button.on{color:#000}
+table{width:100%;border-collapse:collapse}td{padding:3px;border-bottom:1px solid var(--line);vertical-align:top}td:nth-child(2){font:700 15px var(--head);color:var(--accent2)}.ph{background:var(--ph-bg);color:var(--ph-tx);border-left:3px solid var(--accent);padding:6px;margin:4px 0;font-size:12px}
+#events{display:flex;gap:6px;overflow-x:auto;padding:6px}.ev{flex:0 0 220px;background:var(--bg);border-left:3px solid var(--accent);padding:6px}textarea{width:100%;height:calc(100% - 50px);background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:var(--radius);font:13px var(--body)}
+.cols{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px}.cols a{word-break:break-all}</style></head><body>
+<header><h1><b>Multifamily</b> Pulse — MD · DC · Upstate NY</h1><span><span class="m" id="gen"></span> <select id="theme" title="Theme"><option value="entrata">Entrata Red</option><option value="slate">Slate Electric</option><option value="navy">Navy Amber</option></select></span></header>
+<div class="row top">
+ <div class="card"><h2>Industry News</h2><div class="tabs"><button class="on" data-t="news_national">National</button><button data-t="news_local">Local (MD/DC/Upstate NY)</button></div><div id="news"></div></div>
+ <div class="card"><h2>Competitors</h2><div class="tabs" id="ctabs"></div><div id="comp"></div><div class="ph">X posts from @Yardi / @RealPage / @AppFolio: no free, legitimate method exists. The X API free tier can't read timelines; reading needs a paid tier (Basic, about $200/mo). Placeholder.</div></div>
+</div>
+<div class="row bot">
+ <div class="card"><h2>Social</h2><div class="cols" id="social"></div></div>
+ <div class="card"><h2>Market Numbers</h2><table id="mkt"></table></div>
+ <div class="card"><h2>Scratchpad</h2><div class="m" id="padst">Saved in this browser (localStorage).</div><textarea id="pad"></textarea><div class="m"><a href="#" id="sync">⚙ Optional cross-device sync via GitHub</a></div></div>
+</div>
+<div class="card" style="padding:0"><h2 style="padding:6px 6px 0">Events in Territory</h2><div id="events"></div></div>
+<script>
+const th=localStorage.mf_theme||"entrata";document.documentElement.dataset.theme=th;theme.value=th;theme.onchange=()=>{document.documentElement.dataset.theme=theme.value;localStorage.mf_theme=theme.value};
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fd=d=>d?new Date(d+(d.length<=10?'T12:00':'Z')).toLocaleDateString('en-US',{month:'short',day:'numeric',year:d.length<=10?'numeric':undefined}):'';
+const list=a=>a.length?a.map(i=>`<div class=it><a target=_blank href="${esc(i.link)}">${esc(i.title)}</a><div class=m>${esc(i.source)} · ${fd(i.date)}</div></div>`).join(''):'<div class=m>No items this run.</div>';
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(D=>{
+ gen.textContent='Data refreshed '+new Date(D.generated).toLocaleString('en-US',{timeZone:'America/New_York'})+' ET · hourly';
+ const nt=t=>{news.innerHTML=list(D[t]);document.querySelectorAll('.top .tabs:first-of-type button').forEach(b=>b.classList.toggle('on',b.dataset.t==t))};
+ document.querySelectorAll('[data-t]').forEach(b=>b.onclick=()=>nt(b.dataset.t));nt('news_national');
+ const cs=Object.keys(D.competitors);ctabs.innerHTML=cs.map(c=>`<button data-c="${c}">${c}</button>`).join('');
+ const ct=c=>{comp.innerHTML=list(D.competitors[c]);ctabs.querySelectorAll('button').forEach(b=>b.classList.toggle('on',b.dataset.c==c))};
+ ctabs.querySelectorAll('button').forEach(b=>b.onclick=()=>ct(b.dataset.c));ct(cs[0]);
+ mkt.innerHTML=D.market.map(m=>`<tr><td><b>${esc(m.area)}</b><div class=m>${esc(m.metric)}</div></td><td>${m.unit=='$/mo'?'$'+m.value.toLocaleString():m.value.toLocaleString()+(m.unit=='%'?'%':' units')}${m.yoy!=null?`<div class=m>${m.yoy>0?'+':''}${m.yoy}% YoY</div>`:''}</td><td class=m><a target=_blank href="${m.url}">${esc(m.source)}</a><br>${m.period}</td></tr>`).join('');
+ events.innerHTML=D.events.map(e=>`<div class=ev><div class=m>${fd(e.date)} · ${esc(e.org)}</div><a target=_blank href="${esc(e.link)}">${esc(e.title)}</a></div>`).join('')+D.events_unparsed.map(e=>`<div class=ev><div class=m>Dates not auto-loaded (site unreachable)</div><a target=_blank href="${esc(e.url)}">${esc(e.org)} →</a></div>`).join('');
+ const S=D.social,lk=(u,t)=>`<div class=it><a target=_blank href="${u}">${esc(t||u.replace(/https:\/\/(www\.)?/,''))}</a></div>`;
+ social.innerHTML=`<div><b>LinkedIn</b><div class=ph>No public API for company-page or hashtag feeds, and scraping breaks LinkedIn's ToS. Links only. A live feed needs LinkedIn Marketing API partner approval.</div>${S.linkedin_pages.map(u=>lk(u)).join('')}${S.linkedin_hashtags.map(h=>lk('https://www.linkedin.com/feed/hashtag/'+h,'#'+h)).join('')}</div>
+ <div><b>X</b><div class=ph>Reading posts needs the paid X API (Basic, about $200/mo). Links only.</div>${S.x_accounts.map(a=>lk('https://x.com/'+a,'@'+a)).join('')}</div>
+ <div><b>Facebook</b><div class=ph>Reading a Page feed needs a Meta app with Page Public Content Access review. Links only.</div>${S.facebook_pages.map(u=>lk(u)).join('')}</div>
+ <div><b>Instagram</b><div class=ph>Needs the Meta Graph API (business account plus app review). Links only.</div>${S.instagram.map(u=>lk(u)).join('')}</div>`;
+});
+// scratchpad: localStorage + optional GitHub Contents API sync (token stays in this browser only)
+const K='mf_pad',G=JSON.parse(localStorage.mf_gh||'null');pad.value=localStorage[K]||'';let tm;
+async function ghGet(){const r=await fetch(`https://api.github.com/repos/${G.repo}/contents/notes.md?ref=notes`,{headers:{Authorization:'token '+G.tok}});if(!r.ok)return null;const j=await r.json();return{sha:j.sha,txt:decodeURIComponent(escape(atob(j.content.replace(/\n/g,''))))}}
+async function ghPut(){const c=await ghGet();await fetch(`https://api.github.com/repos/${G.repo}/contents/notes.md`,{method:'PUT',headers:{Authorization:'token '+G.tok},body:JSON.stringify({message:'notes',branch:'notes',content:btoa(unescape(encodeURIComponent(pad.value))),sha:c&&c.sha})});padst.textContent='Synced to GitHub '+new Date().toLocaleTimeString()}
+if(G)ghGet().then(c=>{if(c){pad.value=c.txt;localStorage[K]=c.txt;padst.textContent='Loaded from GitHub (cross-device)'}});
+pad.oninput=()=>{localStorage[K]=pad.value;padst.textContent='Saved locally';clearTimeout(tm);if(G)tm=setTimeout(ghPut,2000)};
+sync.onclick=e=>{e.preventDefault();const repo=prompt('GitHub repo for notes (owner/name). Notes go to a "notes" branch:',G?G.repo:'');if(!repo)return;const tok=prompt('Fine-grained GitHub token with Contents read/write on that repo only. It stays in this browser and is never committed:');if(tok){localStorage.mf_gh=JSON.stringify({repo,tok});location.reload()}};
+</script></body></html>
