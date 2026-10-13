@@ -4,3 +4,4 @@ Static dashboard (index.html + data.json). Hosted on GitHub Pages; `.github/work
 - Usage log: `usage/usage.jsonl` (one line per run: fetch count, failures, bytes, paid_api_calls=0, cost_usd=0).
 - No secrets in the repo. Optional scratchpad sync uses a fine-grained token the user enters in the browser; it stays in localStorage and writes notes.md to a `notes` branch.
 - Not affiliated with any employer system; public sources only.
+- Market numbers: Census CPS/HVS (annual state rental vacancy), Census BPS (monthly state permits), Zillow ZORI (metro rents). No FRED (CSV graph endpoint is blocked from Actions).

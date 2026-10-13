@@ -41,21 +41,46 @@ loc=[i for i in nat if any(k in (i["title"]+" "+i["desc"]).lower() for k in kw)]
 loc+=[i for f in CFG["local_feeds"] for i in rss(f["url"],f["name"]) if any(k in i["title"].lower() for k in kw) and re.search(r"apartment|multifamily|multi-family|rent|housing|landlord|tenant|lease|residential|development",i["title"],re.I)]
 D["news_local"]=dedupe(loc)[:40]
 D["competitors"]={c["name"]:dedupe([dict(i,source=i["source"]) for u in c["feeds"] for i in rss(u,c["name"])])[:20] for c in CFG["competitors"]}
-# market numbers
+# market numbers (Census public files; FRED CSV graph endpoint blocks/times out from Actions)
 M=[]
 try: PREV=json.load(open(f"{ROOT}/data.json"))
 except Exception: PREV={}
-def fred(sid,label,area,unit):
-    x=get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}")
-    if not x or "html" in x[:100].lower():
-        old=[m for m in PREV.get("market",[]) if m.get("source")==f"FRED {sid}"]
-        if old: M.append(dict(old[0],cached=True))
-        return
-    rows=[r for r in csv.reader(io.StringIO(x))][1:]; rows=[r for r in rows if r[1] not in ("",".")]
-    if rows: M.append({"area":area,"metric":label,"value":round(float(rows[-1][1]),1),"unit":unit,"period":rows[-1][0],"source":f"FRED {sid}","url":f"https://fred.stlouisfed.org/series/{sid}"})
-for st,nm in [("MD","Maryland"),("DC","Washington DC"),("NY","New York State")]:
-    fred(f"{st}RVAC","Rental vacancy rate",nm,"%")
-    fred(f"{st}BPPRIVSA","New private housing units permitted (monthly, SA)",nm,"units")
+STATES={"11":"Washington DC","24":"Maryland","36":"New York State"}
+# Annual rental vacancy rates by state (CPS/HVS)
+hvs=get("https://www.census.gov/housing/hvs/files/annual25/rvr_state_25.csv")
+if hvs and "label" in hvs[:40]:
+    rd=list(csv.reader(io.StringIO(hvs))); hdr=rd[0]
+    years=[(i,h) for i,h in enumerate(hdr) if h.startswith("rvr") and h[3:].isdigit()]
+    yi,yh=years[-1]; period=yh[3:]
+    want={"District of Columbia":"11","Maryland":"24","New York":"36"}
+    for r in rd[1:]:
+        lab=(r[0] or "").strip()
+        if lab in want and len(r)>yi and r[yi] not in ("",".",):
+            M.append({"area":STATES[want[lab]],"metric":"Rental vacancy rate (annual)","value":round(float(r[yi]),1),"unit":"%","period":period,"source":"Census CPS/HVS","url":"https://www.census.gov/housing/hvs/data/prevann.html"})
+else:
+    for m in PREV.get("market",[]):
+        if m.get("metric","").startswith("Rental vacancy"): M.append(dict(m,cached=True))
+# Monthly building permits by state (Census BPS ASCII)
+bps=None; bps_period=""; bps_url=""
+y,mo=dt.date.today().year,dt.date.today().month
+for _ in range(18):
+    fn=f"st{y%100:02d}{mo:02d}c.txt"; url=f"https://www2.census.gov/econ/bps/State/{fn}"
+    x=get(url)
+    if x and x.lstrip().startswith("Survey"):
+        bps=x; bps_period=f"{y:04d}-{mo:02d}"; bps_url=url; break
+    mo-=1
+    if mo==0: mo=12; y-=1
+if bps:
+    for r in list(csv.reader(io.StringIO(bps)))[2:]:
+        if len(r)<17: continue
+        fips=r[1].strip()
+        if fips not in STATES: continue
+        try: units=int(r[6])+int(r[9])+int(r[12])+int(r[15])
+        except Exception: continue
+        M.append({"area":STATES[fips],"metric":"New private housing units permitted (monthly)","value":units,"unit":"units","period":bps_period,"source":"Census BPS","url":"https://www.census.gov/construction/bps/"})
+else:
+    for m in PREV.get("market",[]):
+        if "permitted" in m.get("metric","").lower(): M.append(dict(m,cached=True))
 z=get("https://files.zillowstatic.com/research/public_csvs/zori/Metro_zori_uc_sfrcondomfr_sm_month.csv")
 if z:
     rd=list(csv.reader(io.StringIO(z))); h=rd[0]
