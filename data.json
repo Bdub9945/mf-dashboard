@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T00:18:55.080854+00:00",
+ "generated": "2026-10-16T05:43:03.674661+00:00",
  "news_national": [
   {
    "title": "Owner Of Massive Chicago Apartment Building Faces Lawsuit - Bisnow",
@@ -98,6 +98,13 @@
    "date": "2026-10-15T13:18:32",
    "source": "Multifamily Housing News",
    "desc": "Lincoln JV Obtains $133M for LA Project\u00a0\u00a0Multifamily Housing News"
+  },
+  {
+   "title": "San Francisco Multifamily Summit - Bisnow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTFqSzl6SVNIOGV2VU05LWdmaVBDZzlwODRBVklYNGE0a2diM3lIVGFWNlkwTGlkeVZGTmFtRFVWR3NfcDFiUGo5WTVIQ0prbDZULWR4UWhxZzZxempPU2pMTnhnWmZjRzRSSi1pVDZPemZJemlzaDREeWVsMWJGWVI4Z3hNZl9HcFZ3NmVrSWxRdWZKMFFCdGl2UE1GVmFJblpWTUJMNA?oc=5",
+   "date": "2026-10-15T13:17:12",
+   "source": "Bisnow",
+   "desc": "San Francisco Multifamily Summit\u00a0\u00a0Bisnow"
   },
   {
    "title": "Boston Financial Closes $191M LIHTC Fund - Multifamily Housing News",
@@ -273,13 +280,6 @@
    "date": "2026-10-14T13:51:06",
    "source": "Multifamily Housing News",
    "desc": "Exclusive: Bridge Takes Back Keys of 2 Texas Assets\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "Multifamily prices fell 2.56% in Q2: Trepp",
-   "link": "https://www.multifamilydive.com/news/multifamily-values-loan-maturity-10-year-treasury/833015/",
-   "date": "2026-10-14T13:48:47",
-   "source": "Multifamily Dive",
-   "desc": "While losses moderated in the first two quarters of 2026, the apartment industry\u2019s maturity wall and rising cost of capital could further erode values."
   }
  ],
  "news_local": [
@@ -455,13 +455,6 @@
     "desc": "Nikita Yardi is tracing the ecological impacts of land-use changes in India\u2019s grasslands!\u00a0\u00a0YouTube"
    },
    {
-    "title": "Student Housing\u2019s Shifting Fundamentals: A Q&A With Tyson Huebner - Multifamily Housing News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXNrMDBNZHNMV3UtdFdBUGNfM18zV21wUTRpQi1ZbHZmWmR1NXZhRVpxXy1rMElHajJveWxWVllUYlNmdm8zczFHZkhVQjg5VDJmYVdPdmdEeDRoRVhvc2V2dmotUnVZRjhqWU5fVFVKTDFnenVfbW43YklGNUNaYVo1dEJmSlVzNkJWdElCVmR0V2hkSFBUWnhzdHY?oc=5",
-    "date": "2026-10-09T13:17:09",
-    "source": "Multifamily Housing News",
-    "desc": "Student Housing\u2019s Shifting Fundamentals: A Q&A With Tyson Huebner\u00a0\u00a0Multifamily Housing News"
-   },
-   {
     "title": "U.S. Multifamily Market Regaining Its Balance As Yearslong Supply Wave Tapers Off - Bisnow",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWpaSVlDVnA0N3M1S295dzBXSzliTlNnMFNjT0NiUnFEN1djQUdSUUo1V0twcURlUGtoMk1lcEdTQ3BHdFNSd0Y3dU9oNEUteHFwQXkwOVVtdzVsbUk1T2dTV2VQLWpfalNZRlVDNXk3UUxyNjVPbm1YQXFnUDRPdEk0WENuajVDR2ZaejAxc092a0haM0I0cy1XUGZRd0hFeTdvd0JDN00tOHE3YXFZbnlsSGRwdHhs?oc=5",
     "date": "2026-10-08T16:51:29",
@@ -537,6 +530,13 @@
     "date": "2026-10-01T07:00:00",
     "source": "Lelezard",
     "desc": "Sidero Labs introduces Talos Linux for AI and Talos Cupar for running sovereign AI on private infrastructure\u00a0\u00a0Lelezard"
+   },
+   {
+    "title": "Virtuoso Enterprise for Multifamily - Yardi",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43QjF6ODh6Z1hYR0JGMjdZM0hiUEY0Rm5WN0pRVlNpQ3ZDOFhIRmhudWJneUVJN296c0tWRGRHU0ZJYS1OdXVTVXZ2UWZSc2VDTVFFUkpB?oc=5",
+    "date": "2026-10-01T07:00:00",
+    "source": "Yardi",
+    "desc": "Virtuoso Enterprise for Multifamily\u00a0\u00a0Yardi"
    }
   ],
   "RealPage": [
@@ -618,13 +618,6 @@
     "desc": "Realpage CEO explains pause on EliseAI integration\u00a0\u00a0Multifamily Dive"
    },
    {
-    "title": "US state AGs again barred from intervening in RealPage antitrust suit - MLex",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ec0NyN0g2b0xpVmNWejJYS2tWOTJGMXJ2Q251VFg4a2pxY1JrSURuLTItTVg0UzdHa0Zia0VEcnZKUlBrelMyc2lra2NuUlNPWnZpQmhTekw5d9IBWkFVX3lxTE9Ec0NyN0g2b0xpVmNWejJYS2tWOTJGMXJ2Q251VFg4a2pxY1JrSURuLTItTVg0UzdHa0Zia0VEcnZKUlBrelMyc2lra2NuUlNPWnZpQmhTekw5dw?oc=5",
-    "date": "2026-10-12T14:17:00",
-    "source": "MLex",
-    "desc": "US state AGs again barred from intervening in RealPage antitrust suit\u00a0\u00a0MLex"
-   },
-   {
     "title": "US states will 'keep fighting' RealPage, Connecticut AG says - MLex",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNblp5N3QtY1FRZnVHQlZ0NlAzc0VKOFdETldtclhKb0NRMUZGMXpjTmZ3aUpHNzZfeGY5bUZ0cjQ1RmhJS21kTlRaaHZWVjlnWWkzQUs0VHpGMVNXY1ROLW13bFZlRUdMQ2VSRVY0dGhlYTROZFN3cE9vTUpreERORUJEdXNOWFY3aEVMMzRrRmRxWG1CMGNsNXpNY0dqdnEwRkHSAVpBVV95cUxNTExyMmk4dVhTYTJDbzRXdmNIYjlFcENCR1gzSGJLVlVabnJjeE5sUklhWXVySGdYdVpLVUVxTjdVeTNaaDBxZTRTRFJ3X2pqUzJRMEtLQnZjcWc?oc=5",
     "date": "2026-10-06T15:27:58",
@@ -679,13 +672,27 @@
     "date": "2026-10-01T15:35:09",
     "source": "Realpage",
     "desc": "Market Intelligence: Pacific and Mountain West Q4 Update\u00a0\u00a0Realpage"
+   },
+   {
+    "title": "Federal judge blocks New York\u2019s ban on algorithmic rent pricing - NEWS10 ABC",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTGNsS2NnMWoxVTZZcnNVY2J0T3dtbG4yTGhlX1JEeVI3MUNmTU85bl9BWU90aFJ0elJDcHFseDg2cWZQRnVNNTllYnN2VmV6SHI1cWNMZ1NpbnNOTTVzMFM4aF9McXRzQ3FLUHJkWEprQmdD0gF6QVVfeXFMUEFKZXFXdFFna2JkajRGeVllV3ZncjF2YmpyZV9oNUJycWpzbG1tWGsyLTFnckdpQThSUkFyRG1BaERfNHBhTF9VYlJydzlJSlpNRVFXeXh2NnRGSDIyTWhSR2gzX2RqQWpuY0hnUG1pUFhKX2ZQQnlFdEE?oc=5",
+    "date": "2026-10-01T07:00:00",
+    "source": "NEWS10 ABC",
+    "desc": "Federal judge blocks New York\u2019s ban on algorithmic rent pricing\u00a0\u00a0NEWS10 ABC"
    }
   ],
   "AppFolio": [
    {
+    "title": "AppFolio Onboarding Best Practices for 2026 - AppFolio",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMGhkbXN2cklLUE9CQlBXNEl6cHhzOEk4MDBIeVNGQzF1QWZ2VXdTUmVkYlJ5a2o4NTQwSFVqb1RwNU02c1F6LUh6NFZuLURsbjhNU3poY202MUYyMlFXaHNYWTVJQ2My?oc=5",
+    "date": "2026-10-16T00:14:06",
+    "source": "AppFolio",
+    "desc": "AppFolio Onboarding Best Practices for 2026\u00a0\u00a0AppFolio"
+   },
+   {
     "title": "Owner Login - AppFolio - AppFolio",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ2ZKY0hHa01vSUxSVGg0SkM1cWhlcDV4dFZzZzVUR0pmWDRrRnFybXJqN3FscnJPUDlkNkxIYnpVbFBFSDFpTURtalBxV1BHSVZ5ZkFLc3ZyMkV3YlhF?oc=5",
-    "date": "2026-10-15T21:04:59",
+    "date": "2026-10-16T00:04:04",
     "source": "AppFolio",
     "desc": "Owner Login - AppFolio\u00a0\u00a0AppFolio"
    },
@@ -809,18 +816,11 @@
     "desc": "Should UBS Downgrade Require Action From AppFolio Stock Investors?\u00a0\u00a0Simply Wall Street"
    },
    {
-    "title": "AppFolio downgraded by UBS as share recovery leaves less upside - Yahoo! Finance Canada",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTElSbkh1OFZ5RWZwZS01VFZMX0hTUk1veDJtUjdNREdoR1hhNnRIOE5Cb3ZKeTJxcF8tZ3JFelpzRjZUU1NmYVQ3aHN1M0Izc3F2OUNMMGJGRHpCMDFKZzFJTHVteS1mRDdkYkxXZHFKSXMySGhZWXZuRGZkUXZabU1qWmh6S0puYjF1b0k1Mno?oc=5",
+    "title": "AppFolio downgraded by UBS as share recovery leaves less upside - Yahoo Finance",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTl6NXYwS2xEbVFvSGhsQ3dZelFMT21felRRTnAtLXVuSzVXVWE1UHc1NUNTQ2hDZFdnYmZfWVF1VTVqTEkybjRKWmVveHBpZlY3U3Zjd2t0Z29UdUF2MWFnUnNsZVBZVzk4bmFzb1JlVHFXeVEtVXI0SEpiQl9la0p3TlFLdkR2X1U3U3JsUEJJRjJQOHByTk1WcEZOVDhTdGl2QklB?oc=5",
     "date": "2026-10-07T17:45:00",
-    "source": "Yahoo! Finance Canada",
-    "desc": "AppFolio downgraded by UBS as share recovery leaves less upside\u00a0\u00a0Yahoo! Finance Canada"
-   },
-   {
-    "title": "Halozyme, BKV, AppFolio - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QNHF0TTBOY2FVQTdHZ3dVUGJlSUJ3UkJteE5FZDE1NmRWVXNtV0dhSXQ2T2hhRlF1VklMVHhSaXViOEt4Q3cyRmVTWjlqM0JzbmJFa010NjkyZ3ZZNDBCUkFGQVRQOFRMcm1aSTJmWGxqRE1Id3drNg?oc=5",
-    "date": "2026-10-07T16:06:06",
-    "source": "TradingView",
-    "desc": "Halozyme, BKV, AppFolio\u00a0\u00a0TradingView"
+    "source": "Yahoo Finance",
+    "desc": "AppFolio downgraded by UBS as share recovery leaves less upside\u00a0\u00a0Yahoo Finance"
    }
   ]
  },
@@ -882,40 +882,40 @@
   {
    "area": "Washington, DC metro",
    "metric": "Zillow Observed Rent Index (typical rent)",
-   "value": 2433,
+   "value": 2407,
    "unit": "$/mo",
-   "yoy": 0.8,
-   "period": "2026-08-31",
+   "yoy": 1.4,
+   "period": "2026-09-30",
    "source": "Zillow Research ZORI",
    "url": "https://www.zillow.com/research/data/"
   },
   {
    "area": "Baltimore, MD metro",
    "metric": "Zillow Observed Rent Index (typical rent)",
-   "value": 1948,
+   "value": 1937,
    "unit": "$/mo",
-   "yoy": 2.6,
-   "period": "2026-08-31",
+   "yoy": 2.7,
+   "period": "2026-09-30",
    "source": "Zillow Research ZORI",
    "url": "https://www.zillow.com/research/data/"
   },
   {
    "area": "Buffalo, NY metro",
    "metric": "Zillow Observed Rent Index (typical rent)",
-   "value": 1449,
+   "value": 1451,
    "unit": "$/mo",
-   "yoy": 3.5,
-   "period": "2026-08-31",
+   "yoy": 3.8,
+   "period": "2026-09-30",
    "source": "Zillow Research ZORI",
    "url": "https://www.zillow.com/research/data/"
   },
   {
    "area": "Rochester, NY metro",
    "metric": "Zillow Observed Rent Index (typical rent)",
-   "value": 1536,
+   "value": 1532,
    "unit": "$/mo",
-   "yoy": 2.5,
-   "period": "2026-08-31",
+   "yoy": 2.8,
+   "period": "2026-09-30",
    "source": "Zillow Research ZORI",
    "url": "https://www.zillow.com/research/data/"
   }
@@ -1108,7 +1108,7 @@
  },
  "account_watch": {
   "config_hash": "50fb9d4b2593",
-  "generated": "2026-10-15T22:11:17.863518+00:00",
+  "generated": "2026-10-16T05:47:54.568543+00:00",
   "companies": [
    {
     "name": "A.J. Dwoskin & Associates",
@@ -1129,11 +1129,12 @@
    {
     "name": "Abbitt Management LLC",
     "url": "http://www.abbittrentals.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.abbittrentals.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Abbitt+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -1501,7 +1502,7 @@
     "status": "reachable",
     "news_page": "https://www.betterhousingcoalition.org/what-were-doing/featured/",
     "feed": "https://www.betterhousingcoalition.org/feed/",
-    "home_hash": "219702cd89a5",
+    "home_hash": "bf5716027ed9",
     "error": null,
     "final_url": "https://www.betterhousingcoalition.org/",
     "google_news": {
@@ -1755,7 +1756,7 @@
     "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": "a95844419748",
+    "home_hash": "7580c6e7f31c",
     "error": null,
     "final_url": "https://carydale.com/",
     "google_news": {
@@ -1841,12 +1842,11 @@
    {
     "name": "Commodore Management Company",
     "url": "https://gingery.net",
-    "status": "no news page",
+    "status": "unreachable",
     "news_page": null,
     "feed": null,
-    "home_hash": "a4c8ac008b53",
+    "home_hash": null,
     "error": null,
-    "final_url": "https://gingery.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Commodore+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -2035,7 +2035,7 @@
     "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": "7e45abc70357",
+    "home_hash": "c5f859f6b009",
     "error": null,
     "final_url": "https://www.dragas.com/",
     "google_news": {
@@ -2415,11 +2415,12 @@
    {
     "name": "First Amherst Development",
     "url": "http://www.firstamherst.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.firstamherst.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22First+Amherst+Development%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -2672,11 +2673,12 @@
    {
     "name": "Greystone Rentals NYC",
     "url": "http://www.greystonerentals.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.greystonerentals.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Greystone+Rentals+NYC%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -2948,11 +2950,12 @@
    {
     "name": "KEW Management Corporation",
     "url": "http://www.kewmanagement.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.kewmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22KEW+Management+Corporation%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -2964,11 +2967,12 @@
    {
     "name": "Knott Realty Group",
     "url": "http://www.knottrealty.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.knottrealty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Knott+Realty+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -3373,7 +3377,7 @@
     "status": "reachable",
     "news_page": "https://livenovo.com/news/",
     "feed": "https://livenovo.com/feed/",
-    "home_hash": "f98e2a73ccd6",
+    "home_hash": "6ca91f30a304",
     "error": null,
     "final_url": "https://livenovo.com/",
     "google_news": {
@@ -3440,11 +3444,12 @@
    {
     "name": "Park Grove Realty",
     "url": "http://www.parkgrovellc.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.parkgrovellc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Park+Grove+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -3920,11 +3925,12 @@
    {
     "name": "Savarino Properties, LLC",
     "url": "http://www.savarinocompanies.com",
-    "status": "unreachable",
+    "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": null,
+    "home_hash": "da39a3ee5e6b",
     "error": null,
+    "final_url": "http://www.savarinocompanies.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Savarino+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -4321,7 +4327,7 @@
     "status": "reachable",
     "news_page": null,
     "feed": "https://tauberproperties.com/feed/",
-    "home_hash": "c07e81759b91",
+    "home_hash": "b6f56b1d3efc",
     "error": null,
     "final_url": "https://tauberproperties.com/",
     "google_news": {
@@ -4507,7 +4513,7 @@
     "status": "reachable",
     "news_page": "https://townehousing.com/talk-towne/",
     "feed": null,
-    "home_hash": "3d10a5fcd9ce",
+    "home_hash": "04564f4633ab",
     "error": null,
     "final_url": "https://townehousing.com/",
     "google_news": {
@@ -4726,8 +4732,8 @@
    "with_items": 22,
    "items": 88,
    "reachable": 67,
-   "no_news_page": 59,
-   "unreachable": 26,
+   "no_news_page": 65,
+   "unreachable": 20,
    "no_url": 1
   }
  }
