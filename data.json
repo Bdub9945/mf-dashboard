@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T18:22:40.296296+00:00",
+ "generated": "2026-10-17T21:22:26.393793+00:00",
  "news_national": [
   {
    "title": "Boston Offers Tax Breaks To Boost Development - Bisnow",
@@ -667,11 +667,11 @@
     "desc": "RealPage wins pause on New York\u2019s algorithmic rent-setting ban\u00a0\u00a0Yahoo Finance"
    },
    {
-    "title": "Market Intelligence: Pacific and Mountain West Q4 Update - Realpage",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWNYUW1HclJ0UXppMlk5RDhqUkFJYnBXeXZ2U09QOTRrN0E2eFVFaU1zc2tkUDAyZjhUS0dHUV9wazZ0RG9NUzZ6N1g5ckVubXlaemJsRVJrcmlYbl9ROThRSUo0N1hYMFNHV25yWUwxbG1yOExXWThWVUdNQnJyZElFd2Y5ZFhTVEJzUndDUUhzSURXUkE?oc=5",
-    "date": "2026-10-01T15:35:09",
-    "source": "Realpage",
-    "desc": "Market Intelligence: Pacific and Mountain West Q4 Update\u00a0\u00a0Realpage"
+    "title": "DOJ's RealPage Deal Doesn't End States' Antitrust Claims - Law360",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0ZJNGhtbkl5MGxiZHpvOVYtNWZnUnZpd01SdHdYbXU4ekdMRXMzSlFEX2F2bkJEeDNtTXAzVy1lX1NING5hRDFJX3JCTG5PSmtka3FBMzNqb3paNjNkUWxCQnczTXU0dWxyS3B4SmFXUU0zUHNUSGgwRWtJcmR6cEJ0OXhIZFA4RlkwQXZLLUVleXpybnUwbS04UWtQa0Utb21PQjlRZ1RWd3c2ZTdmY19icDJDY2py0gFzQVVfeXFMTmc0OFVVa2ItN0oxYkl0c3h6Y3pNTUxGRVFwMnBiajJEWXYtZVN2TU9PcUNMRVREWVlMQlJ1NzU4V0cyMTBZSWp1ak1USXRxMmhwcjhUQ21rMXRZclQzd1dfZVBfT0Z1QkFua2x4VUVNY1FEaw?oc=5",
+    "date": "2026-10-02T00:14:25",
+    "source": "Law360",
+    "desc": "DOJ's RealPage Deal Doesn't End States' Antitrust Claims\u00a0\u00a0Law360"
    }
   ],
   "AppFolio": [
@@ -790,7 +790,7 @@
    {
     "title": "Is AppFolio (APPF) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY290aVMwZmFYNy1ESkF2MEJUejhNcDRjbzI0YUo2UTVWMVgxa3F2WVlvc2RFNWx0Z0EzTzFUTXlpbm45VEtDV05fQ3h0NWdFdWtHNGFMeUhDbDZDWWlEUm5ST3ZuU3M0NVd5LTFWaGh6WmFZd1RXRl8yZk9NVU9WUFFkb3JadlJjWjh3LWl0cFMtRF9hZEJvMDE0QVVZQQ?oc=5",
-    "date": "2026-10-09T15:45:02",
+    "date": "2026-10-09T07:00:00",
     "source": "Yahoo Finance",
     "desc": "Is AppFolio (APPF) a Solid Growth Stock? 3 Reasons to Think \"Yes\"\u00a0\u00a0Yahoo Finance"
    },
@@ -1101,7 +1101,7 @@
  },
  "account_watch": {
   "config_hash": "50fb9d4b2593",
-  "generated": "2026-10-17T15:29:45.094134+00:00",
+  "generated": "2026-10-17T21:27:10.434598+00:00",
   "companies": [
    {
     "name": "A.J. Dwoskin & Associates",
@@ -1494,7 +1494,7 @@
     "status": "reachable",
     "news_page": "https://www.betterhousingcoalition.org/what-were-doing/featured/",
     "feed": "https://www.betterhousingcoalition.org/feed/",
-    "home_hash": "bf5716027ed9",
+    "home_hash": "1164aa734a4b",
     "error": null,
     "final_url": "https://www.betterhousingcoalition.org/",
     "google_news": {
@@ -1755,7 +1755,7 @@
      "url": "https://news.google.com/rss/search?q=%22Carydale+Apartments%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
     },
-    "home_changed": true,
+    "home_changed": false,
     "items": [],
     "seen": []
    },
@@ -1834,12 +1834,11 @@
    {
     "name": "Commodore Management Company",
     "url": "https://gingery.net",
-    "status": "no news page",
+    "status": "unreachable",
     "news_page": null,
     "feed": null,
-    "home_hash": "a4c8ac008b53",
+    "home_hash": null,
     "error": null,
-    "final_url": "https://gingery.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Commodore+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
@@ -3340,7 +3339,7 @@
      "url": "https://news.google.com/rss/search?q=%22North+Bay+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
      "ok": true
     },
-    "home_changed": true,
+    "home_changed": false,
     "items": [
      {
       "title": "Development and Management Experience",
@@ -3378,7 +3377,7 @@
     "status": "reachable",
     "news_page": "https://livenovo.com/news/",
     "feed": "https://livenovo.com/feed/",
-    "home_hash": "f98e2a73ccd6",
+    "home_hash": "364d6960d4c2",
     "error": null,
     "final_url": "https://livenovo.com/",
     "google_news": {
@@ -4324,7 +4323,7 @@
     "status": "reachable",
     "news_page": null,
     "feed": "https://tauberproperties.com/feed/",
-    "home_hash": "871d0fea9ce7",
+    "home_hash": "9d5e394edfe5",
     "error": null,
     "final_url": "https://tauberproperties.com/",
     "google_news": {
@@ -4510,7 +4509,7 @@
     "status": "reachable",
     "news_page": "https://townehousing.com/talk-towne/",
     "feed": null,
-    "home_hash": "e15b96477e7f",
+    "home_hash": "7849240ae1fb",
     "error": null,
     "final_url": "https://townehousing.com/",
     "google_news": {
@@ -4729,8 +4728,8 @@
    "with_items": 23,
    "items": 89,
    "reachable": 67,
-   "no_news_page": 57,
-   "unreachable": 28,
+   "no_news_page": 56,
+   "unreachable": 29,
    "no_url": 1
   }
  }
