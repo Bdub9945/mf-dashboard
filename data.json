@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T06:50:12.573287+00:00",
+ "generated": "2026-10-17T11:32:07.752417+00:00",
  "news_national": [
   {
    "title": "Boston Offers Tax Breaks To Boost Development - Bisnow",
@@ -347,18 +347,18 @@
    "desc": "Rochester woman attacked by dog at Park Square Apartments afraid to return home\u00a0\u00a0WHEC.com"
   },
   {
-   "title": "News | National apartment developer to relocate Maryland headquarters - CoStar",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3lVaVZMcHBIQmdKOWNCNXJWTjNKZ0EzSENFNVpjWGlHSVFvd2dYMGx2UEM3Ry00LV9Ic0xPZ0lFQm1ONFNkRmxXaGxMLU5fUERqQ29GMFVXb1VmT3ZpbzVFZmZ2YUNhWEhiZjI1SmRHTFdVQTFtVXlOSEdSbEZpT242bzU2d1FPUlpEdDFOb01leVM2aDVqWTUtSlNLOTJveVJjZnN3?oc=5",
-   "date": "2026-10-08T18:23:47",
-   "source": "CoStar",
-   "desc": "News | National apartment developer to relocate Maryland headquarters\u00a0\u00a0CoStar"
-  },
-  {
    "title": "Northmarq brokers sale of 315-unit apartment community in Maryland Heights - REJournals",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXBob09iRDJYR2FydkwzMVhjd3lvLXJLNFVTUTQ3WUpxbTkyVk9NSTU4WHdwR1dkYzlYRDA0dFBEWUI3RzlSQnc3M1h6aTlNRG5jVzZsU2FRc2dPU2RKdThxd2FpSTJpSlJ2N0dzRllneHdlLVlMWnluSmdwQmdtM2U3OXFXY1lJUTFKSHNBSm9MQjFpTzJUeXgyNG9saHc?oc=5",
    "date": "2026-10-08T09:40:21",
    "source": "REJournals",
    "desc": "Northmarq brokers sale of 315-unit apartment community in Maryland Heights\u00a0\u00a0REJournals"
+  },
+  {
+   "title": "News | National apartment developer to relocate Maryland headquarters - CoStar",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3lVaVZMcHBIQmdKOWNCNXJWTjNKZ0EzSENFNVpjWGlHSVFvd2dYMGx2UEM3Ry00LV9Ic0xPZ0lFQm1ONFNkRmxXaGxMLU5fUERqQ29GMFVXb1VmT3ZpbzVFZmZ2YUNhWEhiZjI1SmRHTFdVQTFtVXlOSEdSbEZpT242bzU2d1FPUlpEdDFOb01leVM2aDVqWTUtSlNLOTJveVJjZnN3?oc=5",
+   "date": "2026-10-08T07:00:00",
+   "source": "CoStar",
+   "desc": "News | National apartment developer to relocate Maryland headquarters\u00a0\u00a0CoStar"
   },
   {
    "title": "Apartment fire erupts in west Baltimore's Harlem Park neighborhood - WBFF",
@@ -400,7 +400,7 @@
    },
    {
     "title": "Digital Digest: The Latest Tech News \u2013 Vistra, Yardi - Family Wealth Report",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2Z6MzdDY25WekdqVFVoMHFxaC1sc1BoUGtmVjdGdkdQbVUzOG8tUXU1c3MzYW03NDYzcHZOblJ3WUI2a3dHZGF2dHdCOTNUdXpSc0Mtak1ndGxwR0Fwalk4RmlLRGJFblBBNEdJT0ptWFBaSEJQdE5ZZU8zdkZ6Y2V1emJaQWVkYXQ5VUlYRlZZcTdvSE40M3Vxd2FoU25BLWtzTXE3R2x2SnZmNHZjbDZiSDV6UHdIcFZ0WktDLTE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1FpbW1yMzRlZ2FZUFRFU180TWZRenJzelZkMEhxMXFyMUExaDNOQUhzWmFZaEVaTDlNTWp4QjVoZV96MUpYRWRlYVRTaENjNTlURmFaZ2dzNXVBT3VnV2Jnb1Nua1lZa21YM21ma21MSzUxeVlmdGVMVlZDRWNOWHBtWWRyTFg4WU9pWldzV3FMcVd5WHFQUkluTzBiLUxZM2RlWW5rczRxU2lUSm5WbmdRV1psQkpYZkpR?oc=5",
     "date": "2026-10-15T11:34:57",
     "source": "Family Wealth Report",
     "desc": "Digital Digest: The Latest Tech News \u2013 Vistra, Yardi\u00a0\u00a0Family Wealth Report"
@@ -428,8 +428,8 @@
    },
    {
     "title": "Landlord Discovery OK'd In Yardi Rental Rate Software Suit - Law360",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RbDZBMlZzMUVRWFVHWDFOVUwwU0QwNENGcWE1d2x6RUNDN1RqLTl2dDV5WWRueEljV2ZJSUNDMjBWbUZFekVKeHRJLVpfek5WMEFNVTBn0gFWQVVfeXFMTVFsNkEyVnMxRVFYVUdYMU5VTDBTRDA0Q0ZxYTV3bHpFQ0M3VGotOXZ0NXlZZG54SWNXZklJQ0MyMFZtRkV6RUp4dEktWl96TlYwQU1VMGc?oc=5",
-    "date": "2026-10-14T03:22:00",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3cyVmEzZzZwa2lYQ2xwOGxMQ3pVUnd4REZfb3hLZFo4emZna2lrYkJHc3hTeFRZeUkwVG5ObHltendRcWw2bXV6SzFOeXhmUnBXNzB4eXNObXhRX2tZaVFwcFpKbDBIZkQ0Q1hqVm53M1BhX3UzZ2hqaG5yd3NWb2huZ1hORXFCZlZtSWJKbnJZeFBiZWdIcEs3N0pEV1NPYTVHM3FNLUpLbkFJdnNfUGNEbjFXUWIzZldJU3lBbGRiaXh6YkJMblZfcnPSAXNBVV95cUxNNkRHQUJ0UEpodGxaUXozY3Y3NnFqa2FMTnN2SVUzWFFxRmN5VkVkRElaU3k4WVA2eDliRm1kSW9WUHNTUlpMMGRwWDlUd2p2bmphYThDYWNTZklQcXRHWExUb0d1MEhmdEVibDRPX0tjem8w?oc=5",
+    "date": "2026-10-14T03:22:40",
     "source": "Law360",
     "desc": "Landlord Discovery OK'd In Yardi Rental Rate Software Suit\u00a0\u00a0Law360"
    },
@@ -469,6 +469,13 @@
     "desc": "Nikita Yardi is tracing the ecological impacts of land-use changes in India\u2019s grasslands!\u00a0\u00a0YouTube"
    },
    {
+    "title": "Student Housing\u2019s Shifting Fundamentals: A Q&A With Tyson Huebner - Multifamily Housing News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXNrMDBNZHNMV3UtdFdBUGNfM18zV21wUTRpQi1ZbHZmWmR1NXZhRVpxXy1rMElHajJveWxWVllUYlNmdm8zczFHZkhVQjg5VDJmYVdPdmdEeDRoRVhvc2V2dmotUnVZRjhqWU5fVFVKTDFnenVfbW43YklGNUNaYVo1dEJmSlVzNkJWdElCVmR0V2hkSFBUWnhzdHY?oc=5",
+    "date": "2026-10-09T13:17:09",
+    "source": "Multifamily Housing News",
+    "desc": "Student Housing\u2019s Shifting Fundamentals: A Q&A With Tyson Huebner\u00a0\u00a0Multifamily Housing News"
+   },
+   {
     "title": "Bowden Cos. Enters Florida Panhandle With 200-Unit Buy - Multifamily Housing News",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdWd6MlhSM3M0SkJZdW9jS3VkM3A3R1BsNllNcjIxQ1JiUG83aFV1bDcwQ2M5eWIxZGo0ZHBKVl94bGk4SF9nRTloYVJrVnhyc3VzMkVYYUlVUmptMWNEeVVnbktRNjVhRjFiVnNLYUdUVUNBdjBhU1hYRjN0Sm1PbEZOZVdIUFpscWtfemtmRm4?oc=5",
     "date": "2026-10-09T12:25:49",
@@ -497,6 +504,13 @@
     "desc": "Yardi Matrix: Advertised rents move lower in September\u00a0\u00a0Yield PRO"
    },
    {
+    "title": "Yale Integrates Smart Access into Yardi Resident App - Campus Security Today",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGIySFRfREQxYTZ5Wmd6ZmFDQmVVbF9Td1NvMlpGY0h2elczX3ZCc2JDTXZVODZ1VHFpa3BWNjVtME1LWjNHY0xZOXFlLWU1dVF4MGUycG1MMEloU0doNjB4MVRGLUY4RU9Nb3d5TFNCbUtDaEljamE2S21QVWlLM3BWNjBQVFRweEJweWtWRy1ZVzE2ZFlFWHpfY29NdVVUemJZR1p0MTJjOS1XMGc?oc=5",
+    "date": "2026-10-06T19:42:46",
+    "source": "Campus Security Today",
+    "desc": "Yale Integrates Smart Access into Yardi Resident App\u00a0\u00a0Campus Security Today"
+   },
+   {
     "title": "Yale Partners with Yardi to Bring Simple Digital Key Access to Multifamily Communities - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSThZOXB2M1hBcVdxREkzak5NY2ROdHB4LU1qUTZtSHpJdzl2M0JJaXlnTEdnTnM4Y0ZoU1ZkSVo1ZFVDMFdwQTJTV29KRjZpMjYxYlFsZElxT29kcnE5bjlwaVFYVkJvYUV6X0Vqa1RsNDE1OFVTcmNLOV9kV21zSERCeDUtS3FONGpjNnhCLXpmRmNfMnNHcGR3?oc=5",
     "date": "2026-10-06T07:00:00",
@@ -516,20 +530,6 @@
     "date": "2026-10-05T07:00:00",
     "source": "Yahoo Finance",
     "desc": "NAS Real Investment Management GmbH Selects Yardi's Connected Real Estate Platform for Commercial Portfolio\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "Clemson University sees slowing rent growth. It\u2019s part of a national trend. - Post and Courier",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1BKQnFXUldXLWhFYTFocEJXdjJHaGg4SVJLM2dlbjV3azZGSXpqb19Lc3ZGeFFqLXFUMmo1cTEwYjlqU1VuN0l4QUlUczBBU2ttN1J4RzNsYU13QmtvYkZoalBObVZJci1Nakc2VkdWaU5XUVZoTl9aMXkybXoyUkRHcGl1bU83U0YwVjhWT0hlcmx1eVdiazhib21HMzJKRGlqMk1SQmlSTkxWb3FGb3kwWHZ1eXZsREFGVU1HZEZSNU1MWWgwYU8yQjZNaGtsdXV2WjRUN3YteUU?oc=5",
-    "date": "2026-10-02T14:00:00",
-    "source": "Post and Courier",
-    "desc": "Clemson University sees slowing rent growth. It\u2019s part of a national trend.\u00a0\u00a0Post and Courier"
-   },
-   {
-    "title": "Chicago Office Sales Lead Midwest, Pricing Lags Behind - CommercialSearch",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWkszaTg3bEROdW5OWmRWVk9IMUNlY096N0RCVm9OLWFiUWRKSmgxajNBV19XbHVKNFh6WWpOZ3BCbFVCV1JWYTMtLTVhZFQ5X2poVHB4LWlkdVBkeXFjVHhCT2R3VDZhdDgyNkxTWjBEc25xVlE?oc=5",
-    "date": "2026-10-02T07:00:00",
-    "source": "CommercialSearch",
-    "desc": "Chicago Office Sales Lead Midwest, Pricing Lags Behind\u00a0\u00a0CommercialSearch"
    }
   ],
   "RealPage": [
@@ -632,13 +632,6 @@
     "desc": "US states will 'keep fighting' RealPage, Connecticut AG says\u00a0\u00a0MLex"
    },
    {
-    "title": "Renters Seek Class Cert. For RealPage Antitrust Suit - Law360",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWlSa2l6NVFDbXBQY2hpdVkyQk5Sd0xqdmp1bC0xNGVXSUNveHhmLUhmbGY3ckY2ekVYSHdkQVdDRlh1d3M2c3JVR2QxQ3dmeGVLbU9BeXk3N2VNbHBreDF0UWVSbm14dDcwTzZ2SEtPSVFxV2NUOS14QS1kdFEyQ2hVRE1IT2lsVWw1S0E4SkRpeVZtdi1heTRXdWozQi1NQmExcXNFWnRvUHhwU2FGaGxVSdIBc0FVX3lxTE44SFFsb0t3MjF0QXdwclhVQzdfV21WTkVubHlLeW1yZEpvWVNyX3BMcEFWeFFTc2t2OS1lLTViSHhDZVZGRFlEWG1NSzVrS0JXNXRiNXg3Q2hVenJsVXA2MkdIU3NPallLaW9OWkRUNnB0NXM?oc=5",
-    "date": "2026-10-05T19:29:43",
-    "source": "Law360",
-    "desc": "Renters Seek Class Cert. For RealPage Antitrust Suit\u00a0\u00a0Law360"
-   },
-   {
     "title": "Attorney General Raoul Announces Court Win In Continuing Antitrust Lawsuit Against RealPage - RiverBender.com",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOHZVTlZvVFBBZmlqMUY5dUNxYXF1UkxxVkdvTWlfVEFTeWc4YkVVSGltNERwUHlIS0NoZmdheWhTMGRFajVOeWlnbE40eTNnUEw1Ui12dDZoM1pEamZxY244M2RkVmoxYnB6bEdLeHQtSjlMOUN4Y2hVTndZcFlmamduelN1MlhULUhkbm1YSVZiWm9HYjVZQnNESDZ1ZU4yM0tsRXdoeDhCMzB2V0FKY0JsakdHTjljUHI0YWthYjBkM2EyMEhsc05CbWg1RWdRNk1ZSTBTZ05sUQ?oc=5",
     "date": "2026-10-05T07:00:00",
@@ -660,6 +653,13 @@
     "desc": "Ruling allowing RealPage US antitrust case to proceed lauded by Calif. AG\u00a0\u00a0MLex"
    },
    {
+    "title": "Court Sides with Attorney General Bonta in RealPage Case, Denies RealPage and Landlords\u2019 Attempt to Evade Responsibility in Rent Pricing Lawsuit - EIN News",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNelpQS3p2MDBiSng0ZmgxVC15anh0ZlN4eUYzazZZRGQzSlRjYklBQV9TaktVOEpvZzM3amgtbFhQTTc5ZXpWTm1xMlk0MmRrVDhfd2VzWDFGNExKaUN4ZDdUWmg3MzJYYnJweDJKaWtPVGRYUzZZTG51V3UtQ09PcVJWcmFWZGZNQlVGMW1UT1JZeUk3bFNjMUVzS254YmtCUGVaN1k4dDZMcG1yeG92dzlFdGhMQTdoX3BuN0VYM2txV2JIcENReGg5T0ZreGxHNlhhMm5mMDlJbEdxazFVaWtKeUJUbTlVdHRIUW9vM0VuYUJOQk1rTTkwSHVIdzVLcFAxaUFqSTdNczEwVHVsWVpB?oc=5",
+    "date": "2026-10-02T22:57:00",
+    "source": "EIN News",
+    "desc": "Court Sides with Attorney General Bonta in RealPage Case, Denies RealPage and Landlords\u2019 Attempt to Evade Responsibility in Rent Pricing Lawsuit\u00a0\u00a0EIN News"
+   },
+   {
     "title": "RealPage wins pause on New York\u2019s algorithmic rent-setting ban - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVd3a1NkbTVmM2JBQjB2Z1JGdk9JbzNIU2FZY2RoRmRMQkcyRW9YckxqcnZ1YjdCanNQMXpqeTk0MWV1cWJULXRnbWlYWm9mSld3UnoxNm94VHBlTzNWNl9hRF9WQU1sZllJVEt4RWh3X25GdGZyNGtwRW5wbXp0N1RmX3ZDUFBrTnU0cnVHaFZRdWMyT3JwMTZXaUYyeFU?oc=5",
     "date": "2026-10-02T07:00:00",
@@ -667,14 +667,28 @@
     "desc": "RealPage wins pause on New York\u2019s algorithmic rent-setting ban\u00a0\u00a0Yahoo Finance"
    },
    {
-    "title": "New Jersey AG files amended federal antitrust complaint against RealPage, landlords - MLex",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xMGU0LUVZYW1FX1NiR0NmZmxFSmRoYlpqYVd1NUswU2VwNHZPaUVWUWNGZS0xN0VDaUNEU0MtejVrOW1QWF80QXZkb0lkcEVUZnRoQtIBWkFVX3lxTE9EY1F6S2IwUzkzdFRrQnotS19fcmVPZkotZlA3S00yWG1Fa0l4Vl92Tm1RdGdUZWNic19RNnV3Rkc5ZVVhbGE1MEdMdnZnUmE3SG5NTVRVWmdxdw?oc=5",
-    "date": "2026-10-02T07:00:00",
-    "source": "MLex",
-    "desc": "New Jersey AG files amended federal antitrust complaint against RealPage, landlords\u00a0\u00a0MLex"
+    "title": "Market Intelligence: Pacific and Mountain West Q4 Update - Realpage",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWNYUW1HclJ0UXppMlk5RDhqUkFJYnBXeXZ2U09QOTRrN0E2eFVFaU1zc2tkUDAyZjhUS0dHUV9wazZ0RG9NUzZ6N1g5ckVubXlaemJsRVJrcmlYbl9ROThRSUo0N1hYMFNHV25yWUwxbG1yOExXWThWVUdNQnJyZElFd2Y5ZFhTVEJzUndDUUhzSURXUkE?oc=5",
+    "date": "2026-10-01T15:35:09",
+    "source": "Realpage",
+    "desc": "Market Intelligence: Pacific and Mountain West Q4 Update\u00a0\u00a0Realpage"
    }
   ],
   "AppFolio": [
+   {
+    "title": "Did Earnings Expectations Just Shift AppFolio's (APPF) Investment Narrative? - Simply Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVlA0X1JEbkFBOWRwZzMzeUhpVW1wUzFTNUFtekFqTExDRWtVNmZkSHpmcnZDRUNRSFZ2anZYb21PVlR0X19kc0lpQ202ZFBhS1J4Sk9zeU1YRzNSSGl5YkRNN1dlRWEyYUQ2OEVINHJtdnVJaGZEVUgwWm83OWppbkZvU0dmZzY5N1RFWGNZOWNhbVZPTWR6Q3QzQU0xRENmYlVxMDJwVk5BU3VQbzRtaVZtQXpEbEdHWkpvekxZV3hZZE9jdGN5V0dZb9IBywFBVV95cUxPVlA0X1JEbkFBOWRwZzMzeUhpVW1wUzFTNUFtekFqTExDRWtVNmZkSHpmcnZDRUNRSFZ2anZYb21PVlR0X19kc0lpQ202ZFBhS1J4Sk9zeU1YRzNSSGl5YkRNN1dlRWEyYUQ2OEVINHJtdnVJaGZEVUgwWm83OWppbkZvU0dmZzY5N1RFWGNZOWNhbVZPTWR6Q3QzQU0xRENmYlVxMDJwVk5BU3VQbzRtaVZtQXpEbEdHWkpvekxZV3hZZE9jdGN5V0dZbw?oc=5",
+    "date": "2026-10-17T09:44:12",
+    "source": "Simply Wall Street",
+    "desc": "Did Earnings Expectations Just Shift AppFolio's (APPF) Investment Narrative?\u00a0\u00a0Simply Wall Street"
+   },
+   {
+    "title": "AppFolio, Inc. $APPF Holdings Reduced by First Citizens Bank & Trust Co. - MarketBeat",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlhYNTJLRlZHUmpxUE53OU1wZDJlOVlUQ1F6aFpKdGJwV3RxcFFobG5kYXZ6RElHQkcxa0pxdVdqMV9uc0FyNHhIUU1rdW1td3ZvM0swaUVJbXFnM1ZUQUt0aHdWSWdVdldxMm9RU0tJdjhRcWdkN05yZkQ4WWtFNzdENU5ZYjdNRkU5ZHRpQWliSkJGckhjSlF3bmNJVUNxYXd5VDFlVzRaS2JRaFR4ZWRPcVdKcEpGbDJpbGdFLU5mZ1dKX3c?oc=5",
+    "date": "2026-10-17T07:39:25",
+    "source": "MarketBeat",
+    "desc": "AppFolio, Inc. $APPF Holdings Reduced by First Citizens Bank & Trust Co.\u00a0\u00a0MarketBeat"
+   },
    {
     "title": "AppFolio (APPF) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHVfdFlNV2tRcm5GUEZ4NDBfUi0yOXM1bmxQMWszN0ltTEFTSGplcld3SDBhbzdrOUFpZzkwZElaekI5ZUlvNnBpdGJXZ3FKYk9KeUk4VUk3MUdrOHNVZVNSSW5TUE02MllRR255TzdidGJZQ01sS0lNMC03OGlhQ18tMTh6MHhuMHJYcFhOY2hLcFlfclZTcmhRTkc?oc=5",
@@ -800,20 +814,6 @@
     "date": "2026-10-08T20:19:28",
     "source": "The Manila Times",
     "desc": "AppFolio, Inc. Announces Date of Third Quarter 2026 Financial Results Conference Call\u00a0\u00a0The Manila Times"
-   },
-   {
-    "title": "Should UBS Downgrade Require Action From AppFolio Stock Investors? - Simply Wall Street",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzV1c0pmdGhYLXdSX2ZrTVB5a0V4QndnX2N6MlNIRVBxSF9neGJudFRJVkhjZHkwWWY1ME1DM2MyMzEyM1lZb0xFZ2o2TFNETmZDVXdvQmlRSWN5WEJfT0U2cy1hSzlRcFdQVUZfVC13bThSRkx4VS1UeHBITzJRV2dobElScUdDc1k3TUxDUEQ0TXZMZm9aRFdqWmFzVWdDdGx0Y1BVMklwTmkwN3V6djRsSFAyaUowVzNZZWN4Zkx5Ykp2NVHSAcsBQVVfeXFMT2NvUEVMaTR6ejhZR09BZ3dmemRrUXhaaE5fR1NXV00wVmItN1c3VW8yQ1JxZ09FQXVvYUpiUGZRa0tSS3ZubTNMNFVTb2o1YlZabDBZU285NnhHZm1fX2ZTVWlNMWZ3SnFNakdYWjRnS2dtb2U5ZGJrRHgwNlA1OE9HTWtOTjZMNE5ka0x2UGR6V2xYR1NhUmE0NW5yZ2htcDhNUEZySHpNWm4zMzJWTWxYNkFJdTdTeUVoUkh1R3FMeTh4OTdObXpzaEk?oc=5",
-    "date": "2026-10-07T20:49:56",
-    "source": "Simply Wall Street",
-    "desc": "Should UBS Downgrade Require Action From AppFolio Stock Investors?\u00a0\u00a0Simply Wall Street"
-   },
-   {
-    "title": "Halozyme, BKV, AppFolio - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QNHF0TTBOY2FVQTdHZ3dVUGJlSUJ3UkJteE5FZDE1NmRWVXNtV0dhSXQ2T2hhRlF1VklMVHhSaXViOEt4Q3cyRmVTWjlqM0JzbmJFa010NjkyZ3ZZNDBCUkFGQVRQOFRMcm1aSTJmWGxqRE1Id3drNg?oc=5",
-    "date": "2026-10-07T16:06:06",
-    "source": "TradingView",
-    "desc": "Halozyme, BKV, AppFolio\u00a0\u00a0TradingView"
    }
   ]
  },
