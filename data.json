@@ -1,138 +1,12 @@
 {
- "generated": "2026-11-04T05:57:51.283265+00:00",
+ "generated": "2026-11-04T14:16:14.435241+00:00",
  "news_national": [
-  {
-   "title": "Data Centers On Notice As Texas Flips Blue - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHdvbldsalJ0anhTUFdhaWxDdmJFNXk0RmdFcjFFZlVQU3lPT1dxeDhJM0NrWTBSbi1PRlZhcHQtd0tiQjZKZ0FiNlJjU2RXS0R5aGVqR250bVZPbU9UMmhFbXdBY29uRGppaUhndGFtOUNucjlNN1VyT1k1SE93RjYzeGJocHFYZUt4NGNzejRmWDRTeEdjZG9zY3pUcF9jUDhYejZUc3RTS3M1bnJZ?oc=5",
-   "date": "2026-11-04T05:40:57",
-   "source": "Bisnow",
-   "desc": "Data Centers On Notice As Texas Flips Blue\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Hynes Vows To Bring Property Tax Stability As New Cook County Assessor - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3JLRmVrSDdGVlRneTU0TkJpcmg5N29wSEZnUlRmY3c1VE5NdnJDenpCLU1rRXU4VlprZUx1cDJaTGxINlp2SVU1WDJtRGhjZ2doUXotdkRvajNEaGVRYm1RRVRta2c2Z2xYLU9ObVhkMl9pVzdyZU9wTzNxV1JNQkE5NGJyWXJ3UThaUEhpTzFLQk1MdUtjRWJBN0lPM1ZQcjBsM1Z5TVRmSmtaQXMtYmdOb3JWOXNQ?oc=5",
-   "date": "2026-11-04T05:04:58",
-   "source": "Bisnow",
-   "desc": "Hynes Vows To Bring Property Tax Stability As New Cook County Assessor\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Byron Donalds Wins Race For Florida Governor - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHE1bUxBZjdpak80bVNSZ1NHRmF6NFhwa0hrNUZSVXNhUDRlX3RRek84WGdsQkVVSzIzUmxpUE9BcTRZWkMzYjVSV181QmU3TjNWQ2JIOUY2WUh3Wk5pUVFmcWVwTEVaa3k0S1NIUUNoR3ptNTQ0ajQtczA4d3h3MW5MQUN4UXR6YzlMRENBLTUwcVRQbDRHd2tZdTJibk5IdDEtOU53b25DV3IxaHhnNmtFTWZzU3FZQXFOdlFDUlNxb1gxaGVURU02UEI?oc=5",
-   "date": "2026-11-04T04:28:21",
-   "source": "Bisnow",
-   "desc": "Byron Donalds Wins Race For Florida Governor\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Developer Plots 1.3M SF Development In Joliet - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkREclhtS3FPMXNNbHl6ajl1UWRlajlEWVUyc3NTd05iU0tvazF0WjZQZTQxMEJkRGpZYW5JZmVDdnZ1Mmg3N01uWWp1Q291SndsZzQwdGREZzlWQ1hJYWRab0hMT1AtamI1akw0WGN6T1J6LVNjYzV3Ni1saTdfZkVDc1FOelVxSzdYbHJkUS15Z0VFVjdsX1JxMmFlWlNYc0hiRWFUMDVXWEtEb3dZcDc1aFdlazBiMU5RTw?oc=5",
-   "date": "2026-11-04T02:59:21",
-   "source": "Bisnow",
-   "desc": "Developer Plots 1.3M SF Development In Joliet\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Midterms Results: What We Know So Far About CRE's Shake-Out - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNek5QUGFaeHRrZUYtUjhyT281SndwNmpfOVh4VzBXdlo1YkJKbHhsNGRsdlVZd2t6VFQ2LTN0V3FNOW4zclZENm94OWZXWnNjRE1vOXFlYjBhWS1Sb3RTcFJoeTJWRjIwbXc3TkdsdU1TMXNrZF9LTWdjNHRzbE85S0dyUjZkVlpRTDBRXzZud1VQY0ZVTUlhYTdZUER3cHJGVXNYemtucnFtV0JIMWtWSVpsQQ?oc=5",
-   "date": "2026-11-04T02:46:27",
-   "source": "Bisnow",
-   "desc": "Midterms Results: What We Know So Far About CRE's Shake-Out\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Tenant Departure Leaves Broad Street Office Half-Empty - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2hUZTI1Y2ExYmlIeDZqMkpndFYzZVRGemdTbldFNTFxUUVGSDBPRTc4LXhQVzRBLWI5V05wY2VVN3R1aVhfQjAwVEsxRGlvWGxDc1ExNGJMelBTRnNSVHJXUWE0RXlPdTgtVGZyMXlJTkI2VVIwaUhha2tKclBBdlVibkRZaVU?oc=5",
-   "date": "2026-11-04T02:02:41",
-   "source": "Bisnow",
-   "desc": "Tenant Departure Leaves Broad Street Office Half-Empty\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "2.7M SF Campus Trades In Houston's Largest Industrial Sale - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVENNNkNfMzRTMG5PVUtna1F2VVRpTUxyMW1pbG9oOXVCZnF5U3IzdDAyXzdMbUxpLUh4eXNBSFowUE9tRUJPNENLOEtyb1BKMDdaSGJMQy10TVB6TTB5YW42a1BVQ2RrZ2ZuX05JLXRaX2VfWDdhVlJEaFpXUGhWVUt2cXpZUE1Nc0RITnc0cURPb0dDXzlZSUc0SVJ1ZV9pME1j?oc=5",
-   "date": "2026-11-04T00:59:02",
-   "source": "Bisnow",
-   "desc": "2.7M SF Campus Trades In Houston's Largest Industrial Sale\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Piedmont Realty Exiting Houston With Office Property Sales - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzN4OWl4UXJNTTBVeFI5OEw0LXVWa096X20yTFM0NldvTzhDa3hzN0xzdW1DaW80cy1YbC1yTFZCbFhhTHVDNjMzNllTajJBSTlaUEhzZV9XR0QyN05kOW9TQ1c4M05IcFRWM3J5d1VERzhacDdsbzdoWExYWDVBNmowX1dFd3VSbDRwSWRrTWZNRTNpcFlEQ1B0UDJKMlV4TEtwc21ENEhLQQ?oc=5",
-   "date": "2026-11-04T00:49:19",
-   "source": "Bisnow",
-   "desc": "Piedmont Realty Exiting Houston With Office Property Sales\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Austin Industrial Summit 2027: Maximize Opportunities - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yWWFqaVV1NHNGT3FqRUNRNnNYd0pxMkhVUmhKajV3eVJOZGg1ek9ncGdPbWVnT2p6N2VzM1h0MFQyYnJoTDhwclBIdWR0d05pUWpMSGRlVTNUTzBYTUZRajNzX2J4YU52NDFVb0NoQ1lwajZSMjB2M1hCTQ?oc=5",
-   "date": "2026-11-03T23:09:49",
-   "source": "Bisnow",
-   "desc": "Austin Industrial Summit 2027: Maximize Opportunities\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Netherlands Living Investment Conference 2027 - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xa0JTUFBiRU02eURCODNHQlRPOXhrWU0zelZfOUhyeHlxNGkyMl8tVlo5eGNqNjhzRlVNN0d2V0xOMHVlM1YwQnpJdWdRUUcyb0EzdFFlV2QxZkdUUk93NGFzOFlreTZCaG9sSkpzekNOWWtrM2pvbExLT2dVMGs?oc=5",
-   "date": "2026-11-03T20:52:04",
-   "source": "Bisnow",
-   "desc": "Netherlands Living Investment Conference 2027\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Sedesco Buys Another Billionaires' Row Parcel - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWI0c3oyQkNLUXBicFJ4SFg3ZWIwV0JtaE10b2kwM0Voc1kwSllXS0NLSFIzSmx2a3pWYXlsUEZwRFg0ZXBUQ29sSi1rU05tNUJuWUFGT21TNDQxMm93NENsSXUyVENueG9YOWJxY2JfYUZad0tneWczUWJucWtDOWxJa1BVV0VFWUNOcGN1YXl6d3IzSjFtcm1hakFQTGxvYUNPaGhNRFE1enM1eDE3aU9hMDExcFR0RzhDejBNQQ?oc=5",
-   "date": "2026-11-03T20:38:09",
-   "source": "Bisnow",
-   "desc": "Sedesco Buys Another Billionaires' Row Parcel\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Prince George's County Weighs Microhousing - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkZzWU44YzdKR09xX1I2a1ZKYlk1YXpuZldfc3A5Q0h1U2hSd3RMUjZCX0k0YnNtNGgwQzZQb2tBTzJBVVBMekowSXRBVklsX28xR0QxaXo3RlNLQ0NlUTFaZk5XVFNtR0g1a1N5ZjBaVFpVdUdpUkMtbkFHQ25hUGFsRnAtRDY1eFhnUURtcTBhanlFSDJWelZyRnBOTlV3NGtjb3ljcktaVDBWYWkwYkNET0RmN2VhNTUweThlbmtZb3g4WTFTLQ?oc=5",
-   "date": "2026-11-03T20:12:36",
-   "source": "Bisnow",
-   "desc": "Prince George's County Weighs Microhousing\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Fannie Mae, Freddie Mac Rewrite Underwriting Standards For NYC's Rent Freeze - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUExNUY4Z01TNzNqaG1qOEx4aUpjcWw4SlUzRlRoN2Rxa2dRcVl5emVxckZndE5hWUJOSGQ2TlkwZFN2eFlocjIwQ2JnM09SZUhSQ1hoQUQ1QkFMal92THRTR2dacDk5SU9JalZWa1lUYXdJdlUyTk9kaGNIelFUcm5kcmpSWEZ6amVPY2JCbDg1Q0xUOE9ISXpGdS1yaW5MSmcwZUJsTUxCUWNXYnFZejVNWlVha0xxN21scHlWaEswZXVGMnRF?oc=5",
-   "date": "2026-11-03T19:45:14",
-   "source": "Bisnow",
-   "desc": "Fannie Mae, Freddie Mac Rewrite Underwriting Standards For NYC's Rent Freeze\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "'It's A World Of Winners And Losers': New Edge CEO Plots Future In A Changed Office Reality - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1TdEs5Zm00NFp5aG9sUG5sb2dGVWtMZWVOSUF1Wnh5SFo4LXpnd0pRUk1Qb1dYM2hLUnQzWjZGaG5HMUhlTVlodFRIMUttdlJ5WDZ6SUNXUXA1YXpvVVFaVmNEWkJPNXFQU1BuRGJqU1ZSQ1luTTllYkZDQ2NleGpsVE5hQVUydTBrRlpkU3RrS2RieXpGT0dtOXdmaVVvQzRHaWo1eWFUWmtZM29hLTBENnd4UVJ4cUFF?oc=5",
-   "date": "2026-11-03T19:23:56",
-   "source": "Bisnow",
-   "desc": "'It's A World Of Winners And Losers': New Edge CEO Plots Future In A Changed Office Reality\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "RealPage Antitrust Case Ends With Nearly $360M In Settlements For Renters - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0JkSmxXaFFDMTkxUXJaMXBlakViUERfS05ud2xpR3BRTlY2TGdpa0huSE9kMlZVeEpqY01PUU5Jd295bTNQTVZKMnF2bklYTnBsZFZhbmxEazRWeFF5R1JKUmNreWRwNUwtQXlLck1IM3lERFpnNTF1SE1YQng3NXdDTjlaanlHTTJxcFJlVWNZY0V0V0dMZmRFS1BtT19ONHZUWXNsMmQ5Ul9sNk5VUDFtN19ZYm8?oc=5",
-   "date": "2026-11-03T18:38:35",
-   "source": "Bisnow",
-   "desc": "RealPage Antitrust Case Ends With Nearly $360M In Settlements For Renters\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "ZOM Living Entity Files Chapter 11 Amid Legal Battle - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTNGVHdJUTIxTGhPZ0YtMmthQ05JTFNYaGt1ME5WWk1UVkNOZUpBZXMyN2F4d2lld3ZYdGpHbkNtRU9VUXp2cmtNVnMtSWRVbVNRanpSOGlEMDF4alpjSk5lNG93UF9LVEgyQ1FNYkJZdEd2QnRmandNc0dKVFRCSzhUUl9Yb1FPbVpCOGVTYWdLZzBoYzFhUzc3TXk4N194X1VJbUZMV2pJY2hjRnhBTXA5NFlqUFFVR1pBdQ?oc=5",
-   "date": "2026-11-03T18:03:18",
-   "source": "Bisnow",
-   "desc": "ZOM Living Entity Files Chapter 11 Amid Legal Battle\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Houston's Future: C-Suite Conversation 2027 - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQem5qT2hwdkJxQTllM2FuMWRfT2IxS015QWdKejB4SUlGbUdJSkNaZV9TdUVYU3FrSzVVbnhlMjRrcndfRHB4ZzY3YlhXUkJjSjE5V2xLNlJnbzdETUdGM3NxLVZpQURIVHA0MWNQSGlUSFV5ZTV6ekV3eFZFSWUzVTdZaUYxV3puWW1j?oc=5",
-   "date": "2026-11-03T16:48:20",
-   "source": "Bisnow",
-   "desc": "Houston's Future: C-Suite Conversation 2027\u00a0\u00a0Bisnow"
-  },
   {
    "title": "UDR beats Q3 estimates and raises guidance, after Apollo deal",
    "link": "https://www.multifamilydive.com/news/udr-apollo-ffo-/873654/",
    "date": "2026-11-03T16:05:12",
    "source": "Multifamily Dive",
    "desc": "The REIT\u2019s executives saw rents increasing, retention hitting record highs and San Francisco thriving at the end of Q3, as they continue making stock buybacks."
-  },
-  {
-   "title": "Alta Developers Receives $140M For Fort Lauderdale High-Rise - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPai1ndDVla3VOSG1OcUoySDUzZGtpazU3OERVM2NYczdYTzJZcC1tYnBBQjFzeUlwdXFrVTdlQTdQWkxMdzBVbTFmTXFlVmdRNHdocVdyTzFQTFhkeU5fSEZ2YkstSFVOeXNfdFF2TFVNcHEzcEZwV1JaUWN1enM5NklOQkV2Vk80QkY4VkVnUHdGOXVqS2RJSw?oc=5",
-   "date": "2026-11-03T15:27:57",
-   "source": "Multifamily Housing News",
-   "desc": "Alta Developers Receives $140M For Fort Lauderdale High-Rise\u00a0\u00a0Multifamily Housing News"
   },
   {
    "title": "HUD launches \u2018express lane\u2019 for LIHTC multifamily construction loans",
@@ -142,41 +16,6 @@
    "desc": "The idea is for HUD to \u201cmove these reviews quickly and expeditiously because these are lower-risk deals,\u201d said Frank Cassidy, former FHA commissioner and assistant secretary for housing at HUD."
   },
   {
-   "title": "NYC Office-to-Resi Conversion Secures $231M - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVpicTgwbE5ONmZ6cFM5ZTFfOTBOZnZ1WUJ5SXVfSmw5eXRwSUdBZkpLQVNFTThUdzh1MkRocUlfb3NtYzNoTGoyWFAzNVdRcXVNbWZDT0JOY0s5bElnbE1PMi1KU1ZjMjlqemhXcDlobmFMMHlBSlAtRmtCcE1oV2h5UWY4VVkyemlPQnBhQjVjdXg4c0FnNkczVVpZLVd0MXN5amxDa1NaQ1U?oc=5",
-   "date": "2026-11-03T14:46:24",
-   "source": "Multifamily Housing News",
-   "desc": "NYC Office-to-Resi Conversion Secures $231M\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "2027 Outlook: Risks, Opportunities and What\u2019s Next - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzVZN2V3MEpmeUNfRzhnbU9qSkVlSDlfT2RVbDBiQjZpVmpBSE5PSTNRcnVFYjZOLVpMZ1NJTVpqVjFnNUpkcFR5QmlHSFduRHFrZjB6TjdTNkFxX0hiTXpqZVR6cUFfOUpNNEwtakFLV2lIeklxVk5Bbllfb0ZvT29PVVgxTFc4?oc=5",
-   "date": "2026-11-03T14:29:57",
-   "source": "Multifamily Housing News",
-   "desc": "2027 Outlook: Risks, Opportunities and What\u2019s Next\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "Toronto Multifamily & Rental Summit Insights - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEpLS2tVLVA1MkJyZU91bnd0ZWgtYXJCVkh0RkVZaWhyY0VxUFBYSmRJS1gwMmlSdVVBV25BTHBxWTJYeUFWZ0lkeUc0bmdjVl9Cb2hoQ2JNVDRBbDNXTG42Y25GTUFvcW9QZVRqTU0yQ0djTTc2TWN1alNaT3VIUUR2d09lYXhDbWY5SUR1WnZ3eFhJS2RZTUw4aVVpc2NiRzhsag?oc=5",
-   "date": "2026-11-03T14:06:17",
-   "source": "Bisnow",
-   "desc": "Toronto Multifamily & Rental Summit Insights\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Exclusive: Sack Capital Cashes In $56M for Silicon Valley Asset - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeG9Ib0xLa2JlNWN3Q1RzN2dwZXdhSElnOXNOOGdDNjcwdHFMSUxyVzNDeGxPUzktOHIySzBSRUlIWU53UzFycWl5N1dvZVN5U09WRnRwTm1qcmZTYUh0Q1BqU1M3TTBIVXdlUXFrSjZjZ1dIV3pTMUJiVzVTMFYtbnlhd095VFNFbkVTcDBOWkdPeHh0LU5DUzVJVQ?oc=5",
-   "date": "2026-11-03T12:53:28",
-   "source": "Multifamily Housing News",
-   "desc": "Exclusive: Sack Capital Cashes In $56M for Silicon Valley Asset\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "Blackstone Apartment REIT Eyes $3.3B Refi - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWRvbFM2cWtLLVFaZHN5VXE1T3NEcm9PQzdWUlBmZFhTR2RWYk9vLW43UHNXU2VNNmtGVFdEaW1KUFBjNTBjUHVkYmpGbXl0QjhFb2pQUmlHMm55MGp0SDBFMC1HM3h2a3NxUG9yZ0dubTlzYWd1eDEwc2xRRXpPTFJ2MVhCWVNPaEhHcXEzS1E1Zw?oc=5",
-   "date": "2026-11-03T12:10:56",
-   "source": "Multifamily Housing News",
-   "desc": "Blackstone Apartment REIT Eyes $3.3B Refi\u00a0\u00a0Multifamily Housing News"
-  },
-  {
    "title": "Realpage rent-pricing case wraps with nearly $360M to renters",
    "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
    "date": "2026-11-03T08:44:00",
@@ -184,645 +23,130 @@
    "desc": "A federal court approved the settlement agreement, but it is \u201cnot the final word necessarily\u201d in algorithmic pricing litigation, per one legal expert."
   },
   {
-   "title": "Kast Construction Names New CEO: The South Florida Deal Sheet - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW1VTlJYWTNkN2Q3XzhrMDBBektVRHdHYjRRNzFJeFFtMktfMVhDVWdCRjJsV0dUNkxXOEV4Vm1zTmsxeW9SdXczNVRGOUxOblZDV1RzVlYtaEtxNThTMU43VEliSHRSQXFzVlk5UGN4NXhPa1hjbDdzQjJYcS1LX2hkSkV5S19XLS1Uc3o4MWR6S0VKUjZZN05LaDlORkEwVXA5NV80dnprM0doanhyN2VOVQ?oc=5",
-   "date": "2026-11-03T01:23:23",
-   "source": "Bisnow",
-   "desc": "Kast Construction Names New CEO: The South Florida Deal Sheet\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Golden Apartment Building Sells For $62M To Chicago Firm - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGoxSEFCY1laVS1mUExFZnhyY1M4SWhOM05CRVl3Y1ZzOWdCZS1hNXA2bllXWHdBTlgxRmV4ZmRsbUl3aXZjQ21aWDd4ak9XSWJxb3RjdGp2TFNDV0xjTmFsQmtzTWQ2OG5qbzlwTlpkdFU5MmstX1gtbW85RDVrUmw2aHZOQ1djdGFYUDJscmdPS3Vac3JxVzdmQ0wwdmY3Q1Z2cGpKMzc?oc=5",
-   "date": "2026-11-03T01:17:58",
-   "source": "Bisnow",
-   "desc": "Golden Apartment Building Sells For $62M To Chicago Firm\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "New Opportunity Zones May Help Finish California Projects, Not Start Them - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0QtbkpQX195S2p1VldTUW5xZGt6QVZQek8zUjcyZTI2dlMxZTFqbnZaYlBGdGhWUDhlWGcydjZwelhzTXZQMWRKUTU1YTljU0NodEtRd1E1bEJHTUNkckFkblY1NFNxV1VjOGN0Qm9TZVYwUUhrMW5Hb01YNjkzYjFYa2p1bWNqbVY0TGFtN0xIbnJWcVRuSkVOdGZnTUpEVlVrbTluLVl1Vm9OS1NQX213b2ZBSzU1dGNkb0ZneDlzZw?oc=5",
-   "date": "2026-11-03T01:10:11",
-   "source": "Bisnow",
-   "desc": "New Opportunity Zones May Help Finish California Projects, Not Start Them\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Life Sciences Firm Signs Full-Building Lease In Lewisville - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU1FGODg0UWUzRU1IbFQxNmNuWDdreU9IVGJYUFhwOWJET1E2MkR1VnJFWFgzcXFVWXFpaDZkYnhtWHBONlZYNGloa1c5cllOZl9tV2FITy1tV2tKT3Jzc3MteFRmREE0bzAwUUZadHNPTEdvYmdIV2xrNlF1WGlPZjM1TDFZRkp6RlBfVExCRktuUXNtOG8zcS1lYXJ6UE5GRjBHN3JCMVBhNGE0RFBEVDlIVWNUb2tQbGhCbg?oc=5",
-   "date": "2026-11-03T01:01:12",
-   "source": "Bisnow",
-   "desc": "Life Sciences Firm Signs Full-Building Lease In Lewisville\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "SelectLeaders\u2019 Client Seeks Director of Property Management at Hospitality-Driven Multifamily Management Company - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZHRRRnZRWG9YNHZ4RGZuemxYQmlTN3JVRGhrNXdhcndhbXdteXBndFpkSlY4aDdZcTItaExfb0lrMmpHVXk0Q3VKbFExbWdvYWdEZXhoeEswUlpoWmk3OVZobDdfVWNvU3U1Wlgtb3FzM0p3RHdTZkVhdDM1QXZZVnZBY2toX0hzaXRUdFdpR0tYeFB4eXo2bklybHk3d1h2cHZCS0prYXBVWEM1MEM3ejRjT3J5SW9VVUt5RkEtMXpja041bW14bGFsSTlHT0QyYUpuR0pBS096TVd0OEdV?oc=5",
-   "date": "2026-11-02T23:40:34",
-   "source": "Bisnow",
-   "desc": "SelectLeaders\u2019 Client Seeks Director of Property Management at Hospitality-Driven Multifamily Management Company\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "How New Student Housing Towers Have Reshaped University City - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXZYaGZmanlZd0NYMGU4eVhjZFNZeUZtRlFBRUdJZk1WQkh1TzVvRTRxNDluU3JyN3Q4QXNGS2lQMUgtN0tscGdsY09tYkdLcmp5VUdkRnU1WHBiMVd1VkdrVUF1OTNEWEdLekQxdlN1OENKUURFTmtYOGdoTTZXZ3k5QWxzQnpVdWlUQ1RXekdCNUNaZVEtMGlqcmlJODFTdDdsbHNn?oc=5",
-   "date": "2026-11-02T23:10:58",
-   "source": "Bisnow",
-   "desc": "How New Student Housing Towers Have Reshaped University City\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Broward County Office Draws Miami-Dade Tenants - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTM2a0VUcFV3X3c5NEV3dkVNYXFRRGEyZXRzTTJPUU4tRFBhVjhIb0dKaGxKcWgyemNWNlJqeU5GUENuRDduUHowMDk5SVozWThORGROOGxWUWFJZWU4eE5CVmtuNnZnc2NyWkVnNUdOSktQaE1kQ204bERxSlJuUXNRZ2FLaFI2YVJwd2VoVDBqUzlsMzRpV0h0NExYMmFHQjRKNnpzY24tLXQyMGlFMWVDdjBoaTNL?oc=5",
-   "date": "2026-11-02T21:29:21",
-   "source": "Bisnow",
-   "desc": "Broward County Office Draws Miami-Dade Tenants\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Nord Group's Lawyer Moves To Quit, Says Entities Can't Pay Him - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTk5sOWN6c29jUzZFeFJyUTJYY01ETFNCcjIyNVh0OUw3VnhHV3kwV3RDT3lwVnkyaDlSTHk0U1A0Q0tOWl9wc3JPdWRoRU1Id19hTVYxOE9rWUR2Y19xVU5rNnlranJ4NlFvc2FDaXNTSTRtZVY2RHVtVktwSnNxSGNtQmY5bE85RFJHZjZrakplLU5pWjhFQ19GTmR5NDFPX1BMOWdCS2xqQQ?oc=5",
-   "date": "2026-11-02T20:59:54",
-   "source": "Bisnow",
-   "desc": "Nord Group's Lawyer Moves To Quit, Says Entities Can't Pay Him\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "GLPI Execs Unconcerned By Bally's Casino Project Delay - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm14OHc5RUF1T0pZQWJDTjZ5Y1BwRlZMU09LY3o4cjBrMkZBQVVTTzZDbHJSNWFKZHdzbHJWWVBFMlVhaXp0UnY5SWREb1NXTkhYaFFGM1l5dzRsbVFqSlRZMGl1SEVTQXgyZm1jcmkyZ2M4MFhkSHFuM2g2RWVSbXFraDBoT2RITHBhQXBlUDBKMUFZRmpVZmZRWXREMlpONjE1M3NHangyUzR5SGV5REpoMm84M1g4QUhRbFFTcw?oc=5",
-   "date": "2026-11-02T19:04:12",
-   "source": "Bisnow",
-   "desc": "GLPI Execs Unconcerned By Bally's Casino Project Delay\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "ISIF Invests \u20ac100M In Dublin's IPUT Real Estate - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRFFrc0xKdGliekhVaVZPRDhTazAtbjlGOUR3WHFYUXVrOXMzblBmZUM5NF9qNWFSOFJfcTNJSkhVU202dnBUR2Q4Q1p5SjA0VVdXalllbGpnTTZmWVM2S2JvWmRqbzA5SmNleGFHYk1GQk5RbDBxT2dRSnpWNmUyaEdfZGVzTFZZVzNHZnVkV09rMUFuZ1B3?oc=5",
-   "date": "2026-11-02T18:36:36",
-   "source": "Bisnow",
-   "desc": "ISIF Invests \u20ac100M In Dublin's IPUT Real Estate\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Los Angeles CRE CEO Conference for 2027 Insights - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWRCUExiVXctTnBMUm1OWGFXNGpzSE9nY3hpOGNDb093OFRqcmlWWjFBVld3Q2RudW9OLWVWd18xd1RyUVZQek5CMkZnM1ZLc0o0VlFETmJCcTBqeUh6QlF1WHFfWG1SaElDNDR3bTlQR09sZ3MwbFRMSnN6bklFRQ?oc=5",
-   "date": "2026-11-02T17:26:14",
-   "source": "Bisnow",
-   "desc": "Los Angeles CRE CEO Conference for 2027 Insights\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "MHN Executive Council: What\u2019s Your Unpopular Opinion About Multifamily? (Part 1) - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmV6S0d4d3R2QlVXZF9tWlF3WHEycXBCZm9KcDZ4UzZjMXlVcDVBZkV6OU5PUWJfcmVzZzRJcC10akt1bEg5d3lqbWE5bzdVUWVxLXpBWW92UV90OVh1VVhaNjl1UjQwTDZzZVc1Ump4NDQxamgzSnRGOTg4czlsRjNMWkVBYVFtdFJrdzEtdmNqN1NuY0k0d0hpcTVxNGtDMFF3ZG0zY3o?oc=5",
-   "date": "2026-11-02T15:55:14",
-   "source": "Multifamily Housing News",
-   "desc": "MHN Executive Council: What\u2019s Your Unpopular Opinion About Multifamily? (Part 1)\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "Terra, Fortune Land $220M for Miami-Area Luxury Condo Project - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZEZSRm1INWRRWlNXeHdKWWgyME5BMXFPaXAwOC1SbHd5UWZUVDN5N2NwbndjUUpjbXluYTdrVEZwbW1LZnUzeUkxSktMWGJRdjBaazFENUJNakhSal9XOEtWVDJWUXFYQ21hNTh4alB2YUdDVDU0a1BWWTNGZGhZSnZGTmJQWmhsRmowUS1Nb3VURWFxbGc5bA?oc=5",
-   "date": "2026-11-02T15:07:58",
-   "source": "Multifamily Housing News",
-   "desc": "Terra, Fortune Land $220M for Miami-Area Luxury Condo Project\u00a0\u00a0Multifamily Housing News"
-  },
-  {
-   "title": "Housing Is on the Ballot in California. Here\u2019s What to Watch. - Multifamily Housing News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmlWaFBUT0pQdFVvVmJyUDJrcUNWcTdoOGJ5Z1FJbU1tc1BublNtb0R4NTVEYVkxakgya1FvV1c1VWt3bWJhcmZEeGtUbTN0WDdsRk15VzNjdmc1YTRCS2g2VklZbXVfbnpLZHdIc18zNFlPdFJyQmR4aFUxU3U1WmdLanQzb2I2UEoxOUVkX3lXWEVHN3p2Y19hY3hCRkk?oc=5",
-   "date": "2026-11-02T14:59:37",
-   "source": "Multifamily Housing News",
-   "desc": "Housing Is on the Ballot in California. Here\u2019s What to Watch.\u00a0\u00a0Multifamily Housing News"
-  }
- ],
- "news_local": [
-  {
-   "title": "Prince George's County Weighs Microhousing - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkZzWU44YzdKR09xX1I2a1ZKYlk1YXpuZldfc3A5Q0h1U2hSd3RMUjZCX0k0YnNtNGgwQzZQb2tBTzJBVVBMekowSXRBVklsX28xR0QxaXo3RlNLQ0NlUTFaZk5XVFNtR0g1a1N5ZjBaVFpVdUdpUkMtbkFHQ25hUGFsRnAtRDY1eFhnUURtcTBhanlFSDJWelZyRnBOTlV3NGtjb3ljcktaVDBWYWkwYkNET0RmN2VhNTUweThlbmtZb3g4WTFTLQ?oc=5",
-   "date": "2026-11-03T20:12:36",
-   "source": "Bisnow",
-   "desc": "Prince George's County Weighs Microhousing\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Body of 57-Year-Old Woman Found in Rochester Apartment, Investigation Underway - KROC-AM",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vSjRyVHpVUERaT243Q1VvZEFYeW00ZmtNSm5kNkN2ZUtoTE8zNXBoLTlFclBEZ1hFaWw3YWN4Y25VdHRIVXpSemFhSXZBU2MxRm1zbVB5WUJneVFVZ0ZQTlpxSGNGZw?oc=5",
-   "date": "2026-11-03T15:16:38",
-   "source": "KROC-AM",
-   "desc": "Body of 57-Year-Old Woman Found in Rochester Apartment, Investigation Underway\u00a0\u00a0KROC-AM"
-  },
-  {
-   "title": "Rochester woman found dead in apartment; investigation ongoing - KTTC | Rochester, MN",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnltVWdONklDenE0ZUNsYk1QSVQyTTZudUpCdXdlYmFkN1dXRFNpMnMyRnhnX1V0TTJiM0x4OVB3a01CV1hiZHhqcHhxTlBCNUlRcG5tcENXaVRCaTUxelNKMHVkZHlyaFQ1SFJjMThhRHRLb2tIVXRfajViMzFfLXZ3V2VScmNRRWNTcEFRMHlvOVhObEHSAaoBQVVfeXFMT1l2UHVDM0xWV1VMUXQzcTgyQjI0TmsxQzhZd3V3dm9SUkdyUmp1b2NxQ2RtUGtiOWI4SFdKOEQ2R1pWZFBfXzJmanZJSjNmMHFXc1g5UGlHTG9hZFFUaDNsc2R2ZGRuZkxXZW1oVEpiUFZjRlQxUDkxSW1uSG43b2RKbk5DZklnVXFhYWxfLUR5blJsaDVNcnNHYmxRajZCdVA4T3FDRTRKOUE?oc=5",
-   "date": "2026-11-03T15:08:00",
-   "source": "KTTC | Rochester, MN",
-   "desc": "Rochester woman found dead in apartment; investigation ongoing\u00a0\u00a0KTTC | Rochester, MN"
-  },
-  {
-   "title": "Washington, D.C. multifamily sales volume surpasses 2025 total - Northmarq",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUJJQ0VyRkJPQ2Y2SldkaU9GVnhHOS1pRUpYcjFFbmZWRVRwSHdLeFdGZzhoVGJ6aUVMbERmMUhEcFY0VC1kVm1JM3ZHekJkRHZXWGEwVDdiMUxnOXhCN1FmR2kzek9IRGhycnVIVDNoRVk2MzFJRU9fem16OUZRWjFCZUYzYVVtU2p0Y0N6QWJKcURIX09XRjRMQUM5NG9qbjhTVFoxY3ZEZkNyWXJrOQ?oc=5",
-   "date": "2026-10-30T18:06:31",
-   "source": "Northmarq",
-   "desc": "Washington, D.C. multifamily sales volume surpasses 2025 total\u00a0\u00a0Northmarq"
-  },
-  {
-   "title": "Woman, 23, killed in shooting at Baltimore apartment building - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDYzWE5BRUUyY0c3V0hVOTNOUkJkWFp5MFdaOHVjLXZFeDNFVUFJeC1EcjFEd0JDTlBQMk9WN1RrdmxVeGZsOE44Q2JicVd6RUVHZlpQcmFnb1JVT2xiWW16cmJheHNpd090Zkh4WE44X0tvYXJJLURYZmhZSUNEU0VmSEdPbWJvcnIzZWhZXzNoLVJNVVV1LXBMUkVPUDlBbEE?oc=5",
-   "date": "2026-10-29T21:42:00",
-   "source": "CBS News",
-   "desc": "Woman, 23, killed in shooting at Baltimore apartment building\u00a0\u00a0CBS News"
-  },
-  {
-   "title": "Shooting at apartment building in downtown Baltimore leaves woman dead, man detained for questioning - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmdleW5IbnJpWi1pdXpXYXU2bXhONTM3enRzRm5ZVzRYRGdNaFRPRU5aU1dtWU1pWERxbDVHSUtramJpcTRlc3JEelV3WVptaTFFQ0ZrZG9uWmJJcEtHcXhSNnFZVTE3MHhGcGJDY0hjQ1J1aHMxWWVCekZfQTh1TDFpQ1VmSHAtZmc?oc=5",
-   "date": "2026-10-29T13:19:00",
-   "source": "CBS News",
-   "desc": "Shooting at apartment building in downtown Baltimore leaves woman dead, man detained for questioning\u00a0\u00a0CBS News"
-  },
-  {
-   "title": "Baltimore police investigating shooting at dowtown apartment building - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGp2RUdwdmdfejlQbS1MMWJYLUtneWNNazRFZ2tmb1NaMnVlZnRPZkxGRTBrZEpmTzRSLTFLU1RTYmZrV3NIXzBWS0otS19GMFBPdnlKd0xBeXVKX0hOVHcwalM2WWhYVWZiMHdPdzE2SWFTMmY0RHpOQkU4ZHp5bDQzVkVqNy16OWlMaFUzRUJfTVRlR3RGY240NmJ3RnlQSER4ZU1vTmdEd2Rtb1Fz?oc=5",
-   "date": "2026-10-29T11:28:00",
-   "source": "CBS News",
-   "desc": "Baltimore police investigating shooting at dowtown apartment building\u00a0\u00a0CBS News"
-  },
-  {
-   "title": "28 people displaced, 2 cats dead after Aberdeen apartment building fire - Baltimore Sun",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zd3piVUVQM1NzZHo1bDNfVEM2UWkyNlljOEQxUEkxVFY3RXc1NW13Um0zUHBQM29tLUNGbXdQYS1iWi1iYW9MdFNfT3Jkc016dHBIdDVFTXYwaUt4MUQ3QVR5NlhJcGk0RDljdnJfVjBTRjg?oc=5",
-   "date": "2026-10-28T23:16:07",
-   "source": "Baltimore Sun",
-   "desc": "28 people displaced, 2 cats dead after Aberdeen apartment building fire\u00a0\u00a0Baltimore Sun"
-  },
-  {
-   "title": "28 people displaced in apartment building fire in Aberdeen, Maryland - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWo2UnZMVEtwRjZzREstb1lvbTQ5dGMzdkY1YnB4XzFxeTBCQ2NsdkU0Y2hfeDQwbmVYMjhZaTlsT281UnJrSkQ3WnZkUXM5djZLeHM5QkpJVG1XT3hrWktiNzhtTGpicTNKYjVGOXBma29YUEViRmVRRmFTcFR1dW9VMkctTE5CQlZ1NjlpNWRXVVVYZzhKY1dB?oc=5",
-   "date": "2026-10-28T20:30:00",
-   "source": "CBS News",
-   "desc": "28 people displaced in apartment building fire in Aberdeen, Maryland\u00a0\u00a0CBS News"
-  },
-  {
-   "title": "Parolee found guilty of stabbing woman multiple times in Geneva apartment \u2013 RochesterFirst - RochesterFirst",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWxaaGJmeFo0WHdHWFplTlBCTlNTRUZEQnI2ajhMajVnb1NjcGJRY3h5cGk4NzJRcWtnakFUS0RrRVBLNHNya3RIaTZzUjE5czVpV25UaUc1R0JkZ0hqZWYzejRxZmtsamx3MXppUEd4ZDlDclI2dDBoanVjdklTMjczUjktcXN6bk9nUS15cXJRZnNtMTc5YjV1QjFVeVk4dlNIV2tKOUlwMUJhbVlRbGZadWZLdjJyVzhuUg?oc=5",
-   "date": "2026-10-28T16:05:05",
-   "source": "RochesterFirst",
-   "desc": "Parolee found guilty of stabbing woman multiple times in Geneva apartment \u2013 RochesterFirst\u00a0\u00a0RochesterFirst"
-  },
-  {
-   "title": "Marcus & Millichap Arranges $9.5M Sale of Multifamily Property in Washington DC - Yield PRO",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcGt0ZDEtR1lHZHNkY2t4RXJWZmp3a3FfNU5HNGM3YVNoV05SWjlLNjBZbnJSWEhYWlBCa1plaVBXa0FqNVR6RlBoVXRtSEhFem5yRjdQU09tZC0yU0JB?oc=5",
-   "date": "2026-10-28T14:54:22",
-   "source": "Yield PRO",
-   "desc": "Marcus & Millichap Arranges $9.5M Sale of Multifamily Property in Washington DC\u00a0\u00a0Yield PRO"
-  },
-  {
-   "title": "Two Maryland men charged with assaulting deputies at a Fauquier County apartment complex - WUSA9",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOFhpOEpvOFFQOXp1ZFVhSkdSVE5kYVpEN0EyZGZfbkotUkFWX2FVN2E5RjR3NE5RQUQxUEpEN1A2SXJHMC1FbjJrZEhpdHNVYWpaTlJ3RHFRSUowcTdrbHdBMDgtdWRjaDBHaGZzZ1pMMUxYVVE5VWFPMVdoMTcyVFBlN3lWbE02NnBQLXU5TFEzRFpaZ3FFMWVHak1SQ3J5ZEwzMDRmd3hnMmc?oc=5",
-   "date": "2026-10-25T18:19:00",
-   "source": "WUSA9",
-   "desc": "Two Maryland men charged with assaulting deputies at a Fauquier County apartment complex\u00a0\u00a0WUSA9"
-  },
-  {
-   "title": "Man dies after Hagerstown Police shoot him during response to apartment fire - The Baltimore Banner",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2I2SmVSdVdrWF8wSlhqRlhGRkIxQ0lLblNRWVo5bWZ3Z1ItRXZOWkxTekhJT0Z5VjVYcHEzSHlLbzVoVEl2czB4WnpXVzVEVHdMcXF3ZkxUQmZZelpxZTd6Ym85MEVJZnBqWGtQZWd4ZFlHQ1ExZ25YZi1HSl95X0xwWkhtckU4LS1KZjFUWWdSRVJLdW52VXNmSXZ6UkxVdno4bFQxMXJqUUNkUmcyU0pyb0ZCX051ZVQ1ZUtBNlI?oc=5",
-   "date": "2026-10-24T07:00:00",
-   "source": "The Baltimore Banner",
-   "desc": "Man dies after Hagerstown Police shoot him during response to apartment fire\u00a0\u00a0The Baltimore Banner"
-  },
-  {
-   "title": "Cortland CEO On The Firm's Big D.C. Multifamily Bet - Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWm1TTVVRU3RkNWYzRVlkYy0yTTZ3LVVwcW95Y2JuaGhSOVdTQ2w1TC10enlaRVJwcHh6RzB6LXV6a082d0JjRXBtSVNmZzVxc1o3Rm9VeUpORlhUMXJ1MDZZcllnM09ZZ21jYlZSM2ltVGM0Y2hweU5TazVaMUhrY0FJNVl1ZEhfelF1QjRsV1VaMjlydG5uRHZBZVZWU3FVOU5VdDE1NlZraXZEUF9iS1Q1ZklKLTd3WjNkSDFqV3NNWXlVeVByeEgwVQ?oc=5",
-   "date": "2026-10-23T07:00:00",
-   "source": "Bisnow",
-   "desc": "Cortland CEO On The Firm's Big D.C. Multifamily Bet\u00a0\u00a0Bisnow"
-  },
-  {
-   "title": "Baltimore sues RentCafe, Yardi, Pennrose Management Co. over alleged junk fees - Multifamily Dive",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1l0Q0tMQ1pjZzl3TkwxQy1RUTBZaEp3N002SkRXczM5X2xqM3NVN2NVdWZ4VnhCU0g3c1FDR1FFX184Z2g2WkR3VFVJSnlubEVCYkRrRFptMHk0R21SNnVoN2V4cE45WGJZOVVDQkZ5RkxwazBkMGlWbDBMZXhkZXpGZWNNUURpNkFmMWQ3Zi1rWlhJZ2hDQVNGbGs?oc=5",
-   "date": "2026-10-22T07:00:00",
+   "title": "Q3 multifamily sales jumped 139% on Vivmark deal",
+   "link": "https://www.multifamilydive.com/news/multifamily-transactions-cap-rate-aprtment-values/873467/",
+   "date": "2026-11-02T12:11:39",
    "source": "Multifamily Dive",
-   "desc": "Baltimore sues RentCafe, Yardi, Pennrose Management Co. over alleged junk fees\u00a0\u00a0Multifamily Dive"
+   "desc": "Although the mega-merger made 2026\u2019s third quarter the highest on record, apartment values fell 4.6% year over year and 6.2% at an annualized rate between Q2 and Q3."
   },
   {
-   "title": "Ghost gun recovered, 18-year-old arrested at Rochester apartment building - RochesterFirst",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFRYZGgzQzE3cWdmVm82UEdWZXNlMDlWb3ZhTHJGU1JJQ09pVHRWM3kxSG9NZENzdFE4ZF94YzBxWFYzNHc4bHFmTGc5dUcyZEdsU3FrYjJLNmtDZ1Bwb0YxMnFJVlhoUnRPSU1Va1piTjR6TV95NGJlVXJoZUQ5cDQtMkFJODEtVVZCR1gtUmw1YXNCaDhIY0FvY21Sc3lVZzdtaFI5NVdIUkpva1dB0gG0AUFVX3lxTE1RYTN3dTQ4T2dMUzBBXzllSnh6TzV1d3E4XzdqS0Y4SHZZbkJqMmdtdl9KWjlsZkdQZTljaDg0bGRQN0dCUHBvWGp2bW0xcGdoWl9INUZpeHlZMkl5WThjUktUUG1WNnl1a2N3S296Z3RuNldaYldOZ0kySktZeG9xaVJkcnFVamhQLUNxd1hZSlNXNHVsbHVzVDVhX2dmMnVSZEVaSHFIU0FmTWpnY2ZRbVU2YQ?oc=5",
-   "date": "2026-10-21T07:00:00",
-   "source": "RochesterFirst",
-   "desc": "Ghost gun recovered, 18-year-old arrested at Rochester apartment building\u00a0\u00a0RochesterFirst"
+   "title": "3 new apartment projects open their doors",
+   "link": "https://www.multifamilydive.com/news/apartment-projects-open-virginia-connecticut-georgia/873383/",
+   "date": "2026-11-02T09:01:00",
+   "source": "Multifamily Dive",
+   "desc": "Pennrose, Hillpointe and other multifamily developers recently cut ribbons on new buildings in Connecticut, Georgia and Virginia."
+  },
+  {
+   "title": "4 hidden costs of handling bulk trash one pickup at a time",
+   "link": "https://www.multifamilydive.com/spons/4-hidden-costs-of-handling-bulk-trash-one-pickup-at-a-time/873068/",
+   "date": "2026-11-02T05:00:00",
+   "source": "Multifamily Dive",
+   "desc": "Bulk trash is predictable, but most portfolios pay for it like a surprise. Here\u2019s what that costs."
+  },
+  {
+   "title": "The Ninety-Second Answer: When Everyday Leasing Conversations Lead to Fair Housing Claims",
+   "link": "https://naahq.org/webinars/ninety-second-answer-when-everyday-leasing-conversations-lead-fair-housing-claims",
+   "date": "2026-10-31T19:08:39",
+   "source": "NAA",
+   "desc": "The Ninety-Second Answer: When Everyday Leasing Conversations Lead to Fair Housing Claims\nnclement\nSat, 10/31/2026 - 15:08"
+  },
+  {
+   "title": "Beyond the Rent: What is the true cost of your equity?",
+   "link": "https://www.multifamilydive.com/news/multifamily-loan-maturity-equity-investor/873365/",
+   "date": "2026-10-30T14:01:31",
+   "source": "Multifamily Dive",
+   "desc": "Many owners face the challenge of bringing more money into their deal. Sometimes, the cost may outweigh the benefits."
+  },
+  {
+   "title": "MAA\u2019s revenue dipped in Q3 from Sun Belt weakness",
+   "link": "https://www.multifamilydive.com/news/maa-q3-earnings-revenue-sun-belt/873181/",
+   "date": "2026-10-29T17:25:00",
+   "source": "Multifamily Dive",
+   "desc": "Despite the later-than-expected bounceback in rents, \u201cwe see a favorable foundation for the next phase of recovery,\u201d President and CEO Brad Hill said on the REIT\u2019s earnings call."
+  },
+  {
+   "title": "HappyCo buys Banner Technologies",
+   "link": "https://www.multifamilydive.com/news/apartment-maintenance-technology-budgeting-software/873264/",
+   "date": "2026-10-29T17:16:21",
+   "source": "Multifamily Dive",
+   "desc": "The acquisition, which aims to \u201cclose the gap between maintenance and CapEx planning,\u201d was made possible after an investment from Lone View Capital in September, according to HappyCo Founder and CEO Jindou Lee."
+  },
+  {
+   "title": "Essex ups 2026 guidance amid vigorous Northern California performance",
+   "link": "https://www.multifamilydive.com/news/essex-q3-earnings-west-coast/872844/",
+   "date": "2026-10-28T16:30:00",
+   "source": "Multifamily Dive",
+   "desc": "\u201cWest Coast multifamily fundamentals offer a compelling case for continued growth above the U.S. average,\u201d CEO Angela Kleiman said on the REIT\u2019s third-quarter earnings call."
+  },
+  {
+   "title": "UNITS Magazine November 2026",
+   "link": "https://naahq.org/units-magazine-november-2026",
+   "date": "2026-10-18T18:44:22",
+   "source": "NAA",
+   "desc": "UNITS Magazine November 2026\nnclement\nSun, 10/18/2026 - 14:44\n\n  \n    \n      \n  \n    \n      \n      \n\n\n    \n  \n\n  \n    \n      \n      \n  \n    Issue Date\n              Sun, 11/01/2026 - 12:00\n\n          \n\n    \n  \n\n  \n    \n      \n      \n  \n    Featured Article\n              Wellness Extends its Reach an"
+  },
+  {
+   "title": "Different Not Difficult: Talking Across Cultures & Comfort",
+   "link": "https://naahq.org/webinars/different-not-difficult-talking-across-cultures-comfort",
+   "date": "2026-10-15T16:40:33",
+   "source": "NAA",
+   "desc": "Different Not Difficult: Talking Across Cultures & Comfort\nnclement\nThu, 10/15/2026 - 12:40"
+  },
+  {
+   "title": "The Room Where It Happens: Who Has a Seat, and Who Has a Say?",
+   "link": "https://naahq.org/webinars/room-where-it-happens-who-has-seat-and-who-has-say",
+   "date": "2026-10-15T16:32:21",
+   "source": "NAA",
+   "desc": "The Room Where It Happens: Who Has a Seat, and Who Has a Say?\nnclement\nThu, 10/15/2026 - 12:32"
+  },
+  {
+   "title": "Who Ya Gonna Call? Different Perspectives & Better Communities",
+   "link": "https://naahq.org/webinars/who-ya-gonna-call-different-perspectives-better-communities",
+   "date": "2026-10-15T16:18:58",
+   "source": "NAA",
+   "desc": "Who Ya Gonna Call? Different Perspectives & Better Communities \nnclement\nThu, 10/15/2026 - 12:18"
+  },
+  {
+   "title": "UNITS Magazine October 2026",
+   "link": "https://naahq.org/units-magazine-october-2026",
+   "date": "2026-09-25T05:03:06",
+   "source": "NAA",
+   "desc": "UNITS Magazine October 2026\nnclement\nFri, 09/25/2026 - 01:03\n\n  \n    \n      \n  \n    \n      \n      \n\n\n    \n  \n\n  \n    \n      \n      \n  \n    Issue Date\n              Thu, 10/01/2026 - 12:00\n\n          \n\n    \n  \n\n  \n    \n      \n      \n  \n    Featured Article\n              Master-Planned Communities\n   "
+  },
+  {
+   "title": "units Insider \u2013 Episode 1",
+   "link": "https://naahq.org/webinars/units-insider-episode-1",
+   "date": "2026-09-16T02:47:58",
+   "source": "NAA",
+   "desc": "units Insider \u2013 Episode 1\nnclement\nTue, 09/15/2026 - 22:47"
+  },
+  {
+   "title": "UNITS Magazine August/September 2026",
+   "link": "https://naahq.org/units-magazine-augustseptember-2026",
+   "date": "2026-07-31T05:28:08",
+   "source": "NAA",
+   "desc": "UNITS Magazine August/September 2026\nnclement\nFri, 07/31/2026 - 01:28\n\n  \n  \n    \n                        \n          \n  \n    \n      \n      \n    \n  \n\n  \n    \n      \n      \n            units August/September 2026\nthe Magazine of the National Apartment Association\n\n      \n    \n  \n\n        \n            "
+  },
+  {
+   "title": "UNITS Magazine July 2026",
+   "link": "https://naahq.org/news/units/2026-july",
+   "date": "2026-06-29T05:04:37",
+   "source": "NAA",
+   "desc": "UNITS Magazine July 2026\nnclement\nMon, 06/29/2026 - 01:04\n\n  \n    \n      \n  \n    \n      \n      \n\n\n    \n  \n\n  \n    \n      \n      \n  \n    Issue Date\n              Wed, 07/01/2026 - 12:00\n\n          \n\n    \n  \n\n  \n    \n      \n      \n  \n    Featured Article\n              Centralization: How Property Mana"
+  },
+  {
+   "title": "Units Magazine: June 2026",
+   "link": "https://naahq.org/news/units/2026-june",
+   "date": "2026-05-28T18:26:35",
+   "source": "NAA",
+   "desc": "Units Magazine: June 2026\ndgriffin@naahq.org\nThu, 05/28/2026 - 14:26\n\n  \n    \n      \n  \n    \n      \n      \n\n\n    \n  \n\n  \n    \n      \n      \n  \n    Issue Date\n              Mon, 06/01/2026 - 12:00\n\n          \n\n    \n  \n\n  \n    \n      \n      \n  \n    Featured Article\n              Bot Deployment Begins "
   }
  ],
+ "news_local": [],
  "competitors": {
-  "Yardi": [
-   {
-    "title": "Yardi and CBRE on how AI is revolutionizing investment accounting - PERE",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzh5X3VUSFBPQnZERmI3VVZ0RnVFYW4xOEJyaENtOVczTmpvUGRBSmpoTEM4MXU0X1dGamVISWd2dGUyMDNLN280eUJmd2ZqZmJBZ1lyNlF3b2I4RXhqM2NqaXhwUzA3RV95SHBnUWMxcnNZNDdrb3F6THdzV05Ea2UwSWtYZXNQUFlYalZ5Z05KNnBfX1pWNEJXWF9sT2xtam9iQnhNZUtoSk9vUG9uNw?oc=5",
-    "date": "2026-11-02T01:55:23",
-    "source": "PERE",
-    "desc": "Yardi and CBRE on how AI is revolutionizing investment accounting\u00a0\u00a0PERE"
-   },
-   {
-    "title": "Canadian Apartment Rent Growth Hits Lowest Level Since 2020 - Connect CRE Canada",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTFRdW9rVjg5ZGFzX25YUVhTdzBfbktCRFNxZkFCYjdlYU1ocUNMR21NalhWWk1CemFLRmFGRTdqNE5CT1kyRnFLdVRUQjEyaFB4eWpkSmRTdVRnZEJlMlZaYlVXVDQ5Sl9VWXM0NVNyWThRWHo4M0dCemRrVmVHckRsYVMtZGxrQndIdjBkSURsMXU2d1RjWW9R?oc=5",
-    "date": "2026-10-31T09:07:01",
-    "source": "Connect CRE Canada",
-    "desc": "Canadian Apartment Rent Growth Hits Lowest Level Since 2020\u00a0\u00a0Connect CRE Canada"
-   },
-   {
-    "title": "Industrial Report: Construction Rebounds Despite Rising Development Costs - CommercialSearch",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanFVZ0dNbG1POHBmMzJmNGV4RUxyQkVlV0o2X1VYWGpNMVpXb1hENGdWTnhCN2tWcVlxSmNEQ01TWGNzQzI5R0F5OEJKajF5STFoOG5MQ0Mzc0QxQWVScm11ZW8zOWRqencxNlVNSUYyb3NlYlN2Z1lIN2JMbzRPcUJzOFFHYzAteUVsRnpwY3VIZnVwdFl2QzdFZ3Y3UDV3Y3oySHRMLXpzbFpIZUh5bA?oc=5",
-    "date": "2026-10-30T10:47:48",
-    "source": "CommercialSearch",
-    "desc": "Industrial Report: Construction Rebounds Despite Rising Development Costs\u00a0\u00a0CommercialSearch"
-   },
-   {
-    "title": "Yale Integrates Digital Key Technology With Yardi\u2019s RentCafe Resident App - Security Info Watch",
-    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQd0R5UU1YTHV4cDdTYldfOFZvdVVhcDJzNWZkZFhFeDhtM2FIWVAyU1N2SmpEQkUzSnpybGVNVVZsZzlrNmlvdUFwZFhQV2xDeWRvYXhnYVM1QWJyUzF2Umd1SlB4Z0lJeFZaSGlydHJGc2cxWHRUeU55bktXZ3lZNW8zUXF4ZXFDNXBtaHpmQ01feGU4ZXlvWWphQ19ieW1RVUlNY0R6RGg4YUtQUHVsYk1FdG5jTnU3R2lKTmJBZTN0ZnU0Zm5ROU1MWTJLOWFXaUgwdnRQX0haQ211N2ZsV2JMS0wxUGNYVGpkdDhCQk1qS285bUhoVC1BSDJpb0NWSldZUllsOWg5S1E2c2hJd3I1SzYtdw?oc=5",
-    "date": "2026-10-29T16:17:47",
-    "source": "Security Info Watch",
-    "desc": "Yale Integrates Digital Key Technology With Yardi\u2019s RentCafe Resident App\u00a0\u00a0Security Info Watch"
-   },
-   {
-    "title": "Recap: Bernie Devine of Yardi on AI-Driven Demand for Data Centres 2026 - Mingtiandi",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORllVVlJ5bDVmZjBRckk1Y2dIeWphSGdQc3J1WTQ3Z295eTEzZ3ZycEFrM0ZxLTlwMWVxUUl6Y3pKc2FNX05UdnNTRWNwcVNjS1VHcHlaNEpsQS12UEdXczlscmhlYmZwQWtWWjRTcUNJYk5ORjZ0VlFCd3JuWml5eEtKTVJXcHdzRlJRYUljUmpJU0djVlJmbjRreEhPQzJEY0hOd0ZWNA?oc=5",
-    "date": "2026-10-29T03:15:10",
-    "source": "Mingtiandi",
-    "desc": "Recap: Bernie Devine of Yardi on AI-Driven Demand for Data Centres 2026\u00a0\u00a0Mingtiandi"
-   },
-   {
-    "title": "JLL, DC Byte, Yardi Map APAC\u2019s Hyperscale Data Centre Race to 2030: MTD TV - Mingtiandi",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGFzNThYNWdzOTFDR0ZJNUptN3BIMURHY0hrU1FZQmxzeUtmVkF6MGZNRWk1cDN1NEd5aV81cDdrYU40bDBPbzJUWjl0MmZuVDNHVFQ3YmlYZGdvamJ3clh5enpYTk1QcFBsZ1U1b2x6OHl3eHNDZDNEWDdoYzVQeXFoUTRvc3B2ZE0zUnRheW8yeVROZ2lUVExKcGhyMTRCcmpUT3NYaEg2RlRQNWxSRnptUmdEOEdP?oc=5",
-    "date": "2026-10-27T13:37:38",
-    "source": "Mingtiandi",
-    "desc": "JLL, DC Byte, Yardi Map APAC\u2019s Hyperscale Data Centre Race to 2030: MTD TV\u00a0\u00a0Mingtiandi"
-   },
-   {
-    "title": "Self-Storage Construction Slows But Rent Recovery Remains Elusive - Globest",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGJkMjBSSkdqT1NQOW10aFE3X2VjUVU3cXZXVzBJMGpFX0F6RGljQmdBOEtMWWx0dk9vVGZ6RC1GcGdmYVVFTy1DWXFaTl9NVTBGdzI1b0dnMS04WXFaME41ZEhIMHJaU0Z3MmM1dExLUFBJZ2k4YWR2WGxMSkdPYmlkWXJZV056MHdzMW9GTk5nOGJHVmJuMjZYVzBWbk5hWlNZ?oc=5",
-    "date": "2026-10-27T10:43:04",
-    "source": "Globest",
-    "desc": "Self-Storage Construction Slows But Rent Recovery Remains Elusive\u00a0\u00a0Globest"
-   },
-   {
-    "title": "October 2026 Industrial Report: Volume of Construction Starts Rises Despite Ongoing Challenges - CommercialCafe",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UcERadEl3RDVrd1FPMjVvUmJKa3A2M1hibVRScmVjWW1GdHdBUGhKekVVLWRTNWRmU09XcmJadVZlVGEwbF8tTmZWRG51LUZraThlcGN2cU9od2lnajE2MEdUY2NZTXF6YjlmazJQdi0?oc=5",
-    "date": "2026-10-27T07:00:00",
-    "source": "CommercialCafe",
-    "desc": "October 2026 Industrial Report: Volume of Construction Starts Rises Despite Ongoing Challenges\u00a0\u00a0CommercialCafe"
-   },
-   {
-    "title": "Manhattan Office Vacancy Continues Falling as Shrinking Stock Lifts Coworking\u2019s Market Share - PropertyShark",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVTRHZndDRnVTbm42S2phRFNMUndCa1FET2NBeFQtam5NUENQY1gwVlg0cG91MlNHTHlZYWJ6MWhpcHl4dURvUmt5NFNHOFIyNGEyLTRybjNpZGYzeGxXa2ZKSWgtU2R2WHVOWDduMFNyTjQwanNMNDM0VGpZZWs2VmRGWXl0OE5PWFBDS2FKRkNOLWltVnZQV1JR?oc=5",
-    "date": "2026-10-27T05:57:08",
-    "source": "PropertyShark",
-    "desc": "Manhattan Office Vacancy Continues Falling as Shrinking Stock Lifts Coworking\u2019s Market Share\u00a0\u00a0PropertyShark"
-   },
-   {
-    "title": "JLL, DC Byte, Yardi Map APAC\u2019s Hyperscale Data Centre Race to 2030 - Mingtiandi",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHIxbW5OMnNLTW9BSnREXy02Qjc2Wk5hTkpEN0diaXc4dUJ2Tlkybmh3d1ktc1NlajJWT3dCUThPVzlOR0g0dXE3MDZLdktRUWhacFdJUjIzZVNMUkxlOTRUMFRmeWw3b3Q0ei12RS1HUWFGa19rLWZmaXBwVW96azNERHJVWE9taktHMTFrZWdYVjhwX2ZJdHBPb3NGdw?oc=5",
-    "date": "2026-10-27T03:00:10",
-    "source": "Mingtiandi",
-    "desc": "JLL, DC Byte, Yardi Map APAC\u2019s Hyperscale Data Centre Race to 2030\u00a0\u00a0Mingtiandi"
-   },
-   {
-    "title": "Sidero Labs demonstrates Talos Hypervisor and Talos Director live at TalosCon 2026 - Yahoo! Finance Canada",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTVwVVVMZGNuTmZ0Ukd6ZGRSNE4wVGlMUmd5cllJTmg2RHhvekRDdnpmZG9kaHJxQzNkSGZVbjVZNTk1dXdNQzA3MXRzclVvOVYxMDlTWnVxV2xBRTU3d0xrVXJya3VCQ1YxY0hlTHd6RGV0dkVrbGdNNHhBUlR6SDY0dnpuRjYwT0VZTC0zcktIOTli?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "Yahoo! Finance Canada",
-    "desc": "Sidero Labs demonstrates Talos Hypervisor and Talos Director live at TalosCon 2026\u00a0\u00a0Yahoo! Finance Canada"
-   },
-   {
-    "title": "Baltimore sues RentCafe, Yardi, Pennrose Management Co. over alleged junk fees - Multifamily Dive",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1l0Q0tMQ1pjZzl3TkwxQy1RUTBZaEp3N002SkRXczM5X2xqM3NVN2NVdWZ4VnhCU0g3c1FDR1FFX184Z2g2WkR3VFVJSnlubEVCYkRrRFptMHk0R21SNnVoN2V4cE45WGJZOVVDQkZ5RkxwazBkMGlWbDBMZXhkZXpGZWNNUURpNkFmMWQ3Zi1rWlhJZ2hDQVNGbGs?oc=5",
-    "date": "2026-10-22T07:00:00",
-    "source": "Multifamily Dive",
-    "desc": "Baltimore sues RentCafe, Yardi, Pennrose Management Co. over alleged junk fees\u00a0\u00a0Multifamily Dive"
-   },
-   {
-    "title": "Self Storage Rates Fall 1.8% as Supply Slows, Yardi Matrix Says - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXc1SFpFSUQyR01GNEJkSUFzY09pUUYzVUpnZ1d5TEFOYjEtYXpQZWJpNnFqVGJnOUZ3YTRHejBPRFk0TWxTeU5teXFwUjlWMGpwXzdnYWhQaTdxbWxBYnNvdzBmcUlOWk42Tk1tUkw0cU02ZjkzX0RLQVN2ZzJCdGs5cTJXUVJEQklvVm8xN3E?oc=5",
-    "date": "2026-10-22T07:00:00",
-    "source": "Yahoo Finance",
-    "desc": "Self Storage Rates Fall 1.8% as Supply Slows, Yardi Matrix Says\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "Yardi Picks Up the Rent Pricing Fight Where RealPage Left Off - Propmodo",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVqUm54N2Q0X1ByaDNlc2FGQ2lscEdEYzF0YkQwbzA0a0V4dVBWd3o2X0cwemRHdkcxSUJBT2p0eHRGVm85SzZ0WWV5YzUtazNaaUF5d2JMaWZYcl9CeTgwS2NiVFJZTUo5My1nSnJyUHdMa0pvT2VVODZvOUk4clpaMnI0Z1Z5eU9R?oc=5",
-    "date": "2026-10-21T07:00:00",
-    "source": "Propmodo",
-    "desc": "Yardi Picks Up the Rent Pricing Fight Where RealPage Left Off\u00a0\u00a0Propmodo"
-   },
-   {
-    "title": "Baltimore sues RentCafe operators, property manager over alleged hidden fees - WMAR 2 News Baltimore",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdGpySVFxeXluVndUYjMtMW5Sdm5FRk5uU1RBRTNsRjM2TU5xb2U5TF8tRmpCZ3hYbGpZQXVqaEs2Q2RvUXVaeWoySDZRbjU0NWhsd2JwbHYxWlZ4UGtVa1N4QWNpeTVnY2E0MWYtUEppVjRYUHVJa1d3eXBMWkFBNkh4X0d2LUJuMkpyMGZBektDcWltX3g4SXVnZmo3NGRvbTQzcDRaMkRibXBGYjBtNHhHVVVrdDBFN3U3bElBN2JQN0xGc2Jn?oc=5",
-    "date": "2026-10-20T07:00:00",
-    "source": "WMAR 2 News Baltimore",
-    "desc": "Baltimore sues RentCafe operators, property manager over alleged hidden fees\u00a0\u00a0WMAR 2 News Baltimore"
-   },
-   {
-    "title": "2026 Rent Growth - Multifamily Housing News",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KeE1hTlJ1bmotTFNLdW1wam9iMFFZY3BGdzZGQzdYVUxpSnl6ckZUYVFTNGpxTXJSZFdEc1B6TWg3VXBmTEM1X21rVzRablpFZE9PaUxObS1fT0QtZ213?oc=5",
-    "date": "2026-10-20T07:00:00",
-    "source": "Multifamily Housing News",
-    "desc": "2026 Rent Growth\u00a0\u00a0Multifamily Housing News"
-   },
-   {
-    "title": "Shrinking Pipeline Makes Room for Over-Supplied Markets to Increase Absorption in Following Years - CommercialCafe",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIcUxROFVvcEp6UXY5X05yNERsdDNuQTJlWVRfenZBc2lwNXhobllSenZTLWxRVjFUM0pPQk1CSWFuaUV0d0k3Sk9PTkVHR2x3REZzaVZDLXVVMGVxWFhiQmZaWXhOM1ZCVl9j?oc=5",
-    "date": "2026-10-20T07:00:00",
-    "source": "CommercialCafe",
-    "desc": "Shrinking Pipeline Makes Room for Over-Supplied Markets to Increase Absorption in Following Years\u00a0\u00a0CommercialCafe"
-   },
-   {
-    "title": "College Towns Finally Built More Student Housing\u2014Now, Some Have Too Much - Realtor.com",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXVkaVAwTF9EQ1MydVVaYWF1bkd0QVJINFozZ1djc1k4LV9DdUF5a2ZkX292SGszSXVrb2MtSWUxYnhKd3BqZlN5ZUdFcUR2YkFybjBGRk9kS2x4d3VPMXVtNEJJY0NpcHRwLTJ4SlQ1RkFCYmctQUhaLWpwYmpwQUdDZXBaUlFMSUE?oc=5",
-    "date": "2026-10-20T07:00:00",
-    "source": "Realtor.com",
-    "desc": "College Towns Finally Built More Student Housing\u2014Now, Some Have Too Much\u00a0\u00a0Realtor.com"
-   },
-   {
-    "title": "Judge denies Yardi\u2019s ask for summary judgement in rent price-fixing case - Multifamily Dive",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUVXMmxKTXV3NFY5THJ1SkxhY0RKQUhuZEFvUlpmTlNFUzdyWHgwZURKMUdYekN0d1ZhMUZlTGo1RFpPNXZYN1NyX0l1QzN0bW45cHp5ODAtLWM5UTROaFhpaWVBdWxOVFF2cFp4azNfdHVqbjVQbXpMNkQ1UF9IbXVkSnVXZnFoME5qVmVEZk9GX1dqcmVUVzYtWTd1cnpGdi1rRm90WQ?oc=5",
-    "date": "2026-10-19T07:00:00",
-    "source": "Multifamily Dive",
-    "desc": "Judge denies Yardi\u2019s ask for summary judgement in rent price-fixing case\u00a0\u00a0Multifamily Dive"
-   },
-   {
-    "title": "National Student Housing Report \u2013 October 2026 - Multifamily Housing News",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2hoQTg1Njd5LWRMRE90dGJyQkFlc0dMd0VWUnoxZVdiMF90SjJyRTZWVWFKVXhSMlNGV3JzanRqZlk1UW1LVTROZVVEb05SYTBKZTFXc2NXWW1hVTYzN2Vjd1lsTng0cDVGSHR4cVFCOEYtaVkxcG9fODVrTjVTb0FNVng?oc=5",
-    "date": "2026-10-19T07:00:00",
-    "source": "Multifamily Housing News",
-    "desc": "National Student Housing Report \u2013 October 2026\u00a0\u00a0Multifamily Housing News"
-   }
-  ],
-  "RealPage": [
-   {
-    "title": "- Realpage",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tSGZ3QUwwdVVpS3NtU2hlZUVDQUdaSTV4SG5MU1RHMDFKUENkYURBaF9ncHc0amkzNURPbDY4SDRocGlJbXpYTGs3ZExpaHJ4RXlwbnlQMzhYX2VnQkdNclNaRmhJM3llREpMWDhmckxYQ1F2a1Q0?oc=5",
-    "date": "2026-11-04T04:01:22",
-    "source": "Realpage",
-    "desc": "Realpage"
-   },
-   {
-    "title": "Realpage Rent-Pricing Case Resolved, With Settlement Reaching Nearly $360M - themortgagepoint.com",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcl9ZaGMwWTYzWjUyRDZ3bV93N1Z0QnE5R29HelNOU1FOY09NQzA4R1pTdWNWMVRzNVZ4SGJhUWI3eVVWMUJfOWJfZHVkZTFjcmlxa2NERHZrdVN6dC1SaHJKZlJTS0FNM1Y4Q1ZpRmNQdTdaQVdWZU10ZFEyRFRRdjZxU2o3OUstei1SRmVQR2dYb3VVSEV0T1dwYUxFZnVhZFV4c2d6b25BWG8?oc=5",
-    "date": "2026-11-03T23:27:28",
-    "source": "themortgagepoint.com",
-    "desc": "Realpage Rent-Pricing Case Resolved, With Settlement Reaching Nearly $360M\u00a0\u00a0themortgagepoint.com"
-   },
-   {
-    "title": "RealPage Antitrust Case Ends With Nearly $360M In Settlements For Renters - Bisnow",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0JkSmxXaFFDMTkxUXJaMXBlakViUERfS05ud2xpR3BRTlY2TGdpa0huSE9kMlZVeEpqY01PUU5Jd295bTNQTVZKMnF2bklYTnBsZFZhbmxEazRWeFF5R1JKUmNreWRwNUwtQXlLck1IM3lERFpnNTF1SE1YQng3NXdDTjlaanlHTTJxcFJlVWNZY0V0V0dMZmRFS1BtT19ONHZUWXNsMmQ5Ul9sNk5VUDFtN19ZYm8?oc=5",
-    "date": "2026-11-03T18:38:35",
-    "source": "Bisnow",
-    "desc": "RealPage Antitrust Case Ends With Nearly $360M In Settlements For Renters\u00a0\u00a0Bisnow"
-   },
-   {
-    "title": "Realpage rent-pricing case wraps with nearly $360M to renters - Multifamily Dive",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZUZvVTNJTjcxbmYzM3pjZnp2dXFVZGFfNTdHbC0tV1NoR3h3aVNkU1ZwYk1HV3h0NHFGNE5vUnNmbEpLajBDcF9uNGJnZG9SM3ZxaVpudVl2VktrdVBlMFpJNkVzVGRyMmQ0UVdHVkZFT0pwdVZGNGttS2xrZ3J3Z0xPZm5pT2ZlSWdHRw?oc=5",
-    "date": "2026-11-03T14:48:51",
-    "source": "Multifamily Dive",
-    "desc": "Realpage rent-pricing case wraps with nearly $360M to renters\u00a0\u00a0Multifamily Dive"
-   },
-   {
-    "title": "RealPage, Landlords Get DC Antitrust Trial Delayed - Law360",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcWZ5c3JuRi05eVE0YjF6QzBDblAtTWxWbVVPMElpZm9WVFMwZ0RYMjRSRHNicjJXTVppWFlaYlJaWTFFSHd5YUZ6TzFJVjdrUFNwYjl30gFWQVVfeXFMUGZxZnlzcm5GLTl5UTRiMXpDMENuUC1NbFZtVU8wSWlmb1ZUUzBnRFgyNFJEc2JyMldNWmlYWVpiUlpZMUVId3lhRnpPMUlWN2tQU3BiOXc?oc=5",
-    "date": "2026-11-02T19:37:00",
-    "source": "Law360",
-    "desc": "RealPage, Landlords Get DC Antitrust Trial Delayed\u00a0\u00a0Law360"
-   },
-   {
-    "title": "Paid Rent Between 2018 and 2025? Millions of US Renters Could Qualify for a Share of $359.9M Settlement - International Business Times UK",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1B0VFdKRGVIMkVFb0dqUjh2c2pqb2FURXRQUjJ6RFhCaldjdTRienJLWnl5cEphc0Z2SkdxX2I3LU5IMjVVR1hGODRWa3R2eWdCUWxqVlZNZm5iMHlpQlVKUm9TQ3FGYzJyby1QMUhyUnR6MGx3dnRjbVBTVUZFWDZTOVFMdw?oc=5",
-    "date": "2026-11-02T19:32:00",
-    "source": "International Business Times UK",
-    "desc": "Paid Rent Between 2018 and 2025? Millions of US Renters Could Qualify for a Share of $359.9M Settlement\u00a0\u00a0International Business Times UK"
-   },
-   {
-    "title": "Renters who leased an apartment between October 2018 and November 2025 can check whether they are in the RealPage settlement class - NewsBreak: Local News & Alerts",
-    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNmZURE80VWpzVkxtZjVJQW9IYjRtenZxTGV5cVhKNkN0YWx1RFZVbDRzSkxiU1VpTlRnQUhJX1Njb1hjTkJMYndwOFFUM1AzX0hHZUw5Q3dwT3NVcVpJX0RFU0FhMnUzdWo4Q2VHSVU3WHhCc0tWZDF1eHlSNUVNYXpwWWNOQW03RnJUQWdUcXI0Y2pka2czX2syZ2xzdXZPRjdVYi1KNFl6ZVdhNHlUQjJJYlRzb0o3bW02ODBjUktaczBZRmNERkNwYmJJdzljekxta3pWRXpnMnJRc2p5OVhvUnNSMC1KNVlyUWJWMDhDdS1YdTdLMFlXQWpjUlJpOTQtbm5tZkdOc21qNzRIaXBpWGhSbWpVc1dCVVZZYXdfVW51SEE?oc=5",
-    "date": "2026-10-31T15:26:39",
-    "source": "NewsBreak: Local News & Alerts",
-    "desc": "Renters who leased an apartment between October 2018 and November 2025 can check whether they are in the RealPage settlement class\u00a0\u00a0NewsBreak: Local News & Alerts"
-   },
-   {
-    "title": "RPM Living Lawsuit (Updated October 2026) - LawFold.com",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iQkdJZUdnQ0dzOUxuakhrQTdRZTg0a2VEWDR2QjZRYURxY25mVFRrV0lubE1iS1ZZTFVMMW1Tc2xxbXp2aDlEUm9ydy0ydFRu?oc=5",
-    "date": "2026-10-31T07:00:00",
-    "source": "LawFold.com",
-    "desc": "RPM Living Lawsuit (Updated October 2026)\u00a0\u00a0LawFold.com"
-   },
-   {
-    "title": "RealPage Says NY Can't Get Redo For Blocked Software Law - Law360",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV3pwYU5hdDhSREZHajg4UTRsbnVCQUY4TDRIOS1aTEtvMTUyVmRvbXBqbjRaOUVEYUUxV2E1ajM3anFBVE91ZENiZzFLd2xfd2dNc04teUVCVGtQcTZaTENlNlB6X0MxUGhhbUZSby1xdVZzSkRQRjZVSDhEZUdBMTAtRmdxWVJaTl9IXzN2T0NwTGVDaG92VU83SU1EbkEzaXlibWxUeUFjTzFaRGpjdWJObzI0Uzlpb3fSAXNBVV95cUxQZ05TT2VzdlJTOHMxOFZkOW95R2txLXF6eU4zWU5FNHJDeWR4dFNHbVN3aHpKVWNJMmhGUDlMVGpzd0UyUmh1YlpwOXowTk9ycmVVY19lb0dwTjNzY19Nd2hFNi04elBZQXpsYnFOQWFMcldR?oc=5",
-    "date": "2026-10-28T18:47:21",
-    "source": "Law360",
-    "desc": "RealPage Says NY Can't Get Redo For Blocked Software Law\u00a0\u00a0Law360"
-   },
-   {
-    "title": "U.S. Apartment Supply Update 3rd Quarter 2026 - Realpage",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yU2FjOU5PMjZLVi1WVEp5UGsyUnNIZk9XekM1ajJFaDhfZFRJT2xaYldxaGw2UHBRcXNrd21MaDlKTWZOckF3c1dGcWdZVG92Tk1KZmFyYmx3OW5GbWY3ampvSlhjYXBOSy1VUmdrcDdGb1NueWJxc1lSYWw?oc=5",
-    "date": "2026-10-22T07:00:00",
-    "source": "Realpage",
-    "desc": "U.S. Apartment Supply Update 3rd Quarter 2026\u00a0\u00a0Realpage"
-   },
-   {
-    "title": "Yardi Picks Up the Rent Pricing Fight Where RealPage Left Off - Propmodo",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVqUm54N2Q0X1ByaDNlc2FGQ2lscEdEYzF0YkQwbzA0a0V4dVBWd3o2X0cwemRHdkcxSUJBT2p0eHRGVm85SzZ0WWV5YzUtazNaaUF5d2JMaWZYcl9CeTgwS2NiVFJZTUo5My1nSnJyUHdMa0pvT2VVODZvOUk4clpaMnI0Z1Z5eU9R?oc=5",
-    "date": "2026-10-21T07:00:00",
-    "source": "Propmodo",
-    "desc": "Yardi Picks Up the Rent Pricing Fight Where RealPage Left Off\u00a0\u00a0Propmodo"
-   },
-   {
-    "title": "Pricing Algorithms Are Not Inherently Anticompetitive | Blogs | Oct 19, 2026 - Information Technology and Innovation Foundation",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWRaM2xuTWExbl8wZjRLSTlZMEQtRGRqdll2Ukh0NXByYlptU1NrTlZxbnRmSUVuOHpSSjFKU3kxQ3puQzN0YUhVMVVkVDNRcnFZZmRlS29FVUhmRGFIenU3cVRCYVRPcVF1UmNRTWtsOWNKNzZKNnl3MmFYRWJDTmw0S212S1JLSWFyMlRQYk85cHl1anNwMnF0Zw?oc=5",
-    "date": "2026-10-19T07:00:00",
-    "source": "Information Technology and Innovation Foundation",
-    "desc": "Pricing Algorithms Are Not Inherently Anticompetitive | Blogs | Oct 19, 2026\u00a0\u00a0Information Technology and Innovation Foundation"
-   },
-   {
-    "title": "Four days of early voting; more than 35,000 ballots cast - Nashville Banner",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRDhvTWRfblBfNTk2dE9KcjhfblVrX21uRjgxYldwaTFzR1RKakZEWUp6MGYzOFJUaFR2OVFGUzU3OUhjMWFQZzVRV2VIbEJRYUIzT0NWUWZpdFJCRXprVmNXemQ1VW5nZko3YldxclJsbWRieWhOSG90X01WV3ZGbkhrZ1NrT2JGVGc?oc=5",
-    "date": "2026-10-19T07:00:00",
-    "source": "Nashville Banner",
-    "desc": "Four days of early voting; more than 35,000 ballots cast\u00a0\u00a0Nashville Banner"
-   },
-   {
-    "title": "Landlords Approved for $360 Million Deals in RealPage Litigation - Bloomberg Law News",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0FORDhiSzVBdnFOaUoxYlY1MkVkTXR5R3YxejlMMVE1blJteHg2a2xMM2h0emJLcHdHMWtsZlg2bklmeVdoQ0U5RzY1RW5GRUpYTWtDWDVxY0J4VTRZeUN6eTdzX0NuR3F1cG1nV0xmdHVHc3REOWt3R0xIRGZWNzA0NHJkWlRET1RwTlVBNDExVkdYR2tHTjdnWVNabEktRHZiUTl3?oc=5",
-    "date": "2026-10-16T07:00:00",
-    "source": "Bloomberg Law News",
-    "desc": "Landlords Approved for $360 Million Deals in RealPage Litigation\u00a0\u00a0Bloomberg Law News"
-   },
-   {
-    "title": "Judge Gives Final OK To $360M In RealPage Class Deals - Law360",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk1WZzkyR3BVTTJjSVFJcGhQRV96SGxtV2puTkpoSzJzNDlaSFZzZUZRTW9EeGRhM3JtdG5rdGVTTGZRWXduVHUzMTdjNXhFdlpqVkVpZmdNa2xyYzdsRzhmU215Q2hpaEJVRXhURnI3SjZwMWprTHVKQk9JQzRGWVNTM0dGU3FoZjk0cWwxWWdHd1g1MjZHVjZqM21DSWZzeXZsMHo5MWU3WjVoWWFRTjNjYVHSAXNBVV95cUxQb2piNU9CY2ZKd1ZiSm5udGszalBLMkNiQlA3amFrd0F4N3JXd01HZTJDYXJSV0dlZzVkUGVHYW8weVVvYVdlcnRNQVd2ajVFWGI0MnZXQThKZXVUZUMxaFZTcFl2aHlHVktwOExnZE5ETEgw?oc=5",
-    "date": "2026-10-16T07:00:00",
-    "source": "Law360",
-    "desc": "Judge Gives Final OK To $360M In RealPage Class Deals\u00a0\u00a0Law360"
-   },
-   {
-    "title": "Landlords, US RealPage plaintiffs get final approval for $359m settlement package - MLex",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODI0UElXX2tDZk1MTkp6dURIWG82QlJld3djQmRiYTgyQlJZX3VUX2s3ZnBleHVjajlYLWs0WVFwWEJ4T3BtUDloWXZZaF85SFVUazFkNmJKNVJyX2JCdnVOd0FjdFdEVE1SS0taaHpiQWNfVWNPLUd3VzZRdXVFWm5MZmRzb0dBaWVudTFlZ2k5TkNNNll4NmZ0U1JLaGhmSi1UQ3Z2REFRRTBMSDlzUS13SmlnTkFyakotYXRHTdIBWkFVX3lxTE1sbmRET1MzYXpfd01xUnBCMmM3UWJnbE1iaUY2bDB5dkhkSVhpUHY5V2g1clREODNOSDlldkt3S05LcHZNWGZhMFJCamZ5WFJoTC1qZzcwRHJ5UQ?oc=5",
-    "date": "2026-10-16T07:00:00",
-    "source": "MLex",
-    "desc": "Landlords, US RealPage plaintiffs get final approval for $359m settlement package\u00a0\u00a0MLex"
-   },
-   {
-    "title": "Largest Apartment Transactions 3Q 2026 - Realpage",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OXJ0cVduTy05bEw2bkdGUmd0bmoyVDFIa0NUQ2c1VGFQYXBIUmxLNjNyWUNqUlhfbkFZdkdGTnd1cldPdEtpbEZKR21GTVV4NEZMRXBuLWFmY3BCUmJiMUhnNHZFMmlpQkRZVkZIcEFfSV9Pcy03cWJCSWYwQQ?oc=5",
-    "date": "2026-10-15T07:00:00",
-    "source": "Realpage",
-    "desc": "Largest Apartment Transactions 3Q 2026\u00a0\u00a0Realpage"
-   },
-   {
-    "title": "NY Asks Court To Undo RealPage's Software Law Injunction - Law360",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVC1kaVhsM2F2c0daOFNxVE5XOEVmZ3Z4WlBVZ2ZkaFFleExyMHJJZ3JCTnNTYlJsTmU1ZEk0YW5vRGpQS2ZZUWQwUjExZDJqTjNPbjJVcE9ESE1SNGtwTnpGcWYxVUN1Ny0xZF9CdklkdWttZU54QXpUVE5Udld3clUtek5PaVB1NHM2bXlyMmZiZ2RNQUtLTU14VHpjR0Z4T2JzSWhFNXI0eVlVNFJud1NobmhSTklmSlHSAXNBVV95cUxQQmpNb1ZPR2hkdXB4dVRvUGJ5MWlGblg2QW5jNFgtZ2pTQmFuY19rakl4aGRpX0M1WURfUEZWWHNNV1ltWUZzcWFfaHd3blJmQnJrQXhyQXlzWkZJMEotblo4bzNOSEdTeHlWUlFJV0NkckZz?oc=5",
-    "date": "2026-10-14T07:00:00",
-    "source": "Law360",
-    "desc": "NY Asks Court To Undo RealPage's Software Law Injunction\u00a0\u00a0Law360"
-   },
-   {
-    "title": "RealPage CEO Defends Halt to EliseAI Integration - The Real Deal",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSV9vR3k0UlZQby1hY0d2MkRwSmZzY1pwTWIyUUwyRFhxaWZJRlhKc0xDajBpZ1dZb3NxOGhTZlJQOG5qTldnZjFfNlFHWEd2T05QTXhMbnUtdGdYaW1vU0NxUW4zd2pZZHg5ZzhMRVd5cUs1dWlHcXV1bzRHUF9lX2hVTDgtdDdTMDZHaklTbWRkNDM3Skc0Wg?oc=5",
-    "date": "2026-10-13T07:00:00",
-    "source": "The Real Deal",
-    "desc": "RealPage CEO Defends Halt to EliseAI Integration\u00a0\u00a0The Real Deal"
-   },
-   {
-    "title": "Realpage, Funnel partner on front-office tech integration - Multifamily Dive",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdDJLY1diWXVQdnNkWXBObHhZN2xsOW9zUHB2aW8xUDZQbTJ6OWY2VUg3WlRZTmpyQmJVUDNfNnY1bzdFU3NvenF1eEF4MFJLLTVsbV9lTXhQNjdodE9OMGlnVkxGNXJ1YUNIc0hCU0dYVUgwRGVEb3ZnZ2oxY3ZkYzN2X050RmxKZzhlMDJTc0VKZ0YwSlVxV2xrLVNmcW9ISkZEVVAwaEpwXzVm?oc=5",
-    "date": "2026-10-13T07:00:00",
-    "source": "Multifamily Dive",
-    "desc": "Realpage, Funnel partner on front-office tech integration\u00a0\u00a0Multifamily Dive"
-   }
-  ],
-  "AppFolio": [
-   {
-    "title": "Owner Login - AppFolio - AppFolio",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQ2ZKY0hHa01vSUxSVGg0SkM1cWhlcDV4dFZzZzVUR0pmWDRrRnFybXJqN3FscnJPUDlkNkxIYnpVbFBFSDFpTURtalBxV1BHSVZ5ZkFLc3ZyMkV3YlhF?oc=5",
-    "date": "2026-11-03T22:18:59",
-    "source": "AppFolio",
-    "desc": "Owner Login - AppFolio\u00a0\u00a0AppFolio"
-   },
-   {
-    "title": "AppFolio Stock Q3 Earnings Beat Has The Bull Case Changed? - Simply Wall St",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGJGNGtuVDJ5VDNjVmluU3lkMVRkUUNTeEYyM09nN2d5dHhEZUl4TVRHMU5BdEJRSGdLVnVpam1CX1FpZjkxRDc3QmlGemJFdkdLdElNS2hWaU8wQUJveGRYcGRtaWhCYlB3aFdnYXpkTW11R250NndMRXhmbWU2SDZrQ21SY3dfSjdjRVE1R0thb0JFSFBLdGlZQVRYZkg2MmlGQU1jVGVxZUFkdnNEOTZzYWxvTGhqWU1iS2MxM016d9IBxwFBVV95cUxQbDJDMENxbDBUQjVhTldNTGd2dThEaTBJMVowaVB1NXAyeTBkS001b2ZuX1ZnYkJ4N3R0bmNyYjdLR1lOYm1CUkQzWkttMmozdjBJeHg3Zl9sVGxDeHhQdnZYT21OdThxcG82Rk5aSk9Ta2wxeW0wenp3VUY4TUZub2lTbEdQazVVR1pfYlFsV0tVc3lvUzFsU3VybWhRazlDSXZVOXRxVTNPTTBFUkJTWW51RklJblFwWF9GNjAtLS0wREY1Z3k4?oc=5",
-    "date": "2026-11-03T05:35:42",
-    "source": "Simply Wall St",
-    "desc": "AppFolio Stock Q3 Earnings Beat Has The Bull Case Changed?\u00a0\u00a0Simply Wall St"
-   },
-   {
-    "title": "Bounce Doesn't Last As Nasdaq Nears 200-Day Test; RealReal, Q2 Holdings, AppFolio In Focus - Investor's Business Daily",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2lVcDdhRVUyU3N2djFxZHB3UFV0OGNzX0QtMHRIN2J0Zzg4QWFNVXBCMTJkc0o4UkFiOC0xU0xJNGdJM2dQNUV0TlhtWEVtRkJ6YTFWdGdIcHJpOGZuM3NubmVRVm9LWE00LU9BNTRDNUZpUlVrSEcwelJjTVVyOVIxZlZObVZSSTJrMnZGQlR6RDA?oc=5",
-    "date": "2026-11-02T21:48:00",
-    "source": "Investor's Business Daily",
-    "desc": "Bounce Doesn't Last As Nasdaq Nears 200-Day Test; RealReal, Q2 Holdings, AppFolio In Focus\u00a0\u00a0Investor's Business Daily"
-   },
-   {
-    "title": "YA Resident Portal Login - AppFolio - AppFolio",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HeHBxQURDQjdQdmY2aTFGTDE5aVFBWkxSSHgyTDZfSDdzUWw0VDFEQkFBUm95WmRLNUZmaXc4d0tTS2Nna19MdHlrUWx0Q1I4TldCNkM3WmN0OHpSR0d2WW5OT0FCdEY0dzR3ZHBn?oc=5",
-    "date": "2026-11-02T02:05:39",
-    "source": "AppFolio",
-    "desc": "YA Resident Portal Login - AppFolio\u00a0\u00a0AppFolio"
-   },
-   {
-    "title": "- AppFolio",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTG9McXdYQk5jVlRNWTJXc1dGOHR3STdMbktNNGpSemxuaHBwbGNObWVqSWZNdHRTQ3o2NGxYZnkzTTBvb0NNRV80MHRiODVCcjIzM003Q0JTYXhDN1plQ0E1cWprc3JIYTR1UU5YamxjT1RmR3VFXzFkMko5SkVPbW5QLXJFRUFVcm5KakRXTEZHZC1PNmQtMU5XVU5Mak9aSG9zek1VU0pSQQ?oc=5",
-    "date": "2026-11-01T17:48:30",
-    "source": "AppFolio",
-    "desc": "AppFolio"
-   },
-   {
-    "title": "Resident Inspect Expands Virtual Property Inspections With AppFolio and Rentvine Integrations - USA Today",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUUE1blQ5LXdJcElIbS1QNmJ0LVRJWDJndE9FdXJUOXJ2cTNhbEQ1V0JXMHE4UWF4NGNJcVhsTGlmS0F6X2FqLTdFOG1GOVNpcml3czEyLTNxT0t6dXVRekZXYW0zMmV2Z2xEdEFlb1FhMjhyLUUtQjNkV2J3My0zekNrZmlCZ2FtcmdXQ3NKVl9FdTc2dTUwY0tmQ2ZGcHBXWlpDYTlfR1FKUTAtVUE0aGc2al9DU2xjeUowWEoxZnl0TC16UUg1NzJIMmdlTU9pcjZ6aWZZSTZTXy00TkE?oc=5",
-    "date": "2026-10-30T05:44:19",
-    "source": "USA Today",
-    "desc": "Resident Inspect Expands Virtual Property Inspections With AppFolio and Rentvine Integrations\u00a0\u00a0USA Today"
-   },
-   {
-    "title": "AppFolio (APPF) Lifts Guidance On Results While Fair Value Still Sits Higher - Simply Wall St",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUhTOVNLUFVXWGFvSVZnRENXcnBrRDJHOXlQY0N2NEZ2b2ZwalJ5c2xiVmVJVGdSbm04Zk8tZ1FDcUlNdHFlLWJlQ3BVaWV5QVBWZUJjYkNCY3pzVnBnVV92OU85Rk5zSjl3ME8wXzR4OWRFcFMwWFk0V2J1VENaSGhubXM0RngzSmxlQ0lVWFdrS0FNUlNpd3FObFBqWURzZmw2enhxVFFicWxxaGtEYUJXc25PYUozODl5b3l5cVRDV18yTVHSAcsBQVVfeXFMT2ZOR1BnazBiUDIyVmc3MnVIQWU2WmVLbEJYTnVmWGcwdk44V1FGblQwX3Jwakg0NklTc1FBdC1Wajg3TlRjVm54ekw4ci1UOHJHLS02NFBTVUN5X0gzcHAwVzc0QnJHU2xSbVo2d3N5WlVWc3Z3VVUtVnlKNG5rOE03Q1ExbjVlVVM5eHlQYW5PcDJwUVA4VmRXY3RleFVfNHM4b1FPQUJrVEJzRnpjUU90eG9lZ182dFhLWXFGZFlrWXltanJhWXdSX2M?oc=5",
-    "date": "2026-10-28T08:21:06",
-    "source": "Simply Wall St",
-    "desc": "AppFolio (APPF) Lifts Guidance On Results While Fair Value Still Sits Higher\u00a0\u00a0Simply Wall St"
-   },
-   {
-    "title": "AppFolio (NASDAQ:APPF) Stock Falls 4.3% - Time to Sell? - MarketBeat",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX05LTUVWMktRaGc0V0VWNHlOeWR5bDZTVkRTOUNtVWZfRTltVFlnNGVsQmdTTkM2X3V5OHJhSFBhV1FvTjZUdHhuR2ZSakR3SmhabjlpNHV1NFRGM3lvblB6M2VKTzYydzktX05lbXhCaktrT2tMRy1IU3luWVdBa3BlOC0ySUpfb0Z0RHJ3NHl6OFFacE9UQUctOWp6MXJqME1QUnRmVS1VMy1j?oc=5",
-    "date": "2026-10-27T16:05:58",
-    "source": "MarketBeat",
-    "desc": "AppFolio (NASDAQ:APPF) Stock Falls 4.3% - Time to Sell?\u00a0\u00a0MarketBeat"
-   },
-   {
-    "title": "AppFolio (APPF) Just Overtook the 50-Day Moving Average - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmI5aEZ1aUk2akVsRHV2RldKZVB3b0ptcEVnSEpDS2gzdkNwN1BEek9nMlNuQldiRkZmaFpvZWxwMTJNSGt4ZHNVNnNwbG13YUtrMklIYmxFM29SWGRVWU9lQTUzS2tZc1pvTU9PTzlWMFd6akFuOUo3aXV0WjBLXzhwUlhEVnpkX192YTE3Ymk1b2hkYjBHSmwxQQ?oc=5",
-    "date": "2026-10-27T12:30:02",
-    "source": "Yahoo Finance",
-    "desc": "AppFolio (APPF) Just Overtook the 50-Day Moving Average\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "Here's How Much a $1000 Investment in AppFolio Made 10 Years Ago Would Be Worth Today - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVFFcEdqV0lCbjhlS2JtNUpJRE9xMzlwTGtFaEhzaFBUclFmZVhFNGUzc202N0F6dmZYeUFuNTFnRGFOdm5WRnVNLTZ3eHBFR0F4SjdLbUVTWDFibW56emowdlJuSzdqRFRmRXd2OG9KT1h2MG50clBkUWN4LS13MUQtSXVoYXd2bXV4dVJZQ0E0SGlwenJzb3REOXBNenp3NFE?oc=5",
-    "date": "2026-10-27T11:30:02",
-    "source": "Yahoo Finance",
-    "desc": "Here's How Much a $1000 Investment in AppFolio Made 10 Years Ago Would Be Worth Today\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "Should Raised Revenue Outlook Require Action From AppFolio Stock Investors? - Simply Wall St",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTmd4SWpUQTF2R0E0VFplbkJZeWV5WDQ3ejJ0anhONUNyWHRrczJZcFllQmtSV1JUcW9LNkVFOExyemJMc2VWT09Hb2tiN2RGbkdxVlE3emxIMC1pY29xUldUSTJQZFpaeXAwVHh2ZXFOMURjWFpsamFzNGs1NFd2YnB0OG5SVDI2NG52cUhOVnFMSjhnVURobE9oTVFoWENZUHVNTEhsWVZWWWpac0FxNmFaNTRVSWxKSGJyUzVmRTNhZTAtNkHSAcsBQVVfeXFMT05tcFpLWm5XcTh6ZUZIVjZfaDJ3T1FZc2tGOHBXRjZ1bF9WbXJXOW9SU1JrUHlpbnBXV04xRUl2Q1VjTks4MU8yQVRGX1pVNGlLU0htVmpOQ2dGbl85ekpiVTJnVHBJTTMyalQ5WHUycTZHb2tTcmd2VFF3eW8yRmExTmxleGFRS2pmdVhMejNiTGoyUTd2czk1MVdyd1otRFREOUZKLVpwNVNxWGRSNENRaUZxRndhY2dtZW4xWVY1VF9wSl9nbFZicEk?oc=5",
-    "date": "2026-10-27T03:34:31",
-    "source": "Simply Wall St",
-    "desc": "Should Raised Revenue Outlook Require Action From AppFolio Stock Investors?\u00a0\u00a0Simply Wall St"
-   },
-   {
-    "title": "3 Reasons Why Growth Investors Shouldn't Overlook AppFolio (APPF) - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEFualZxWWlKajd6LVBXNFQycW9sRWR3WEQwVXYzQkN5TTRuWWJuRjR6OXhfTHdoOW9IeWdGOHpVb0QwbG84WkxhR3BPSGNqd0FtZTRQaUtnb08zbERwRGdjVXQ0NVhYOU1vNFhUVTJpTVdaXzBELW5YMGI0b3ZrZ1B2OTNCQVpRY0VnLTRQOGFvVlBOMEJ0N2pHNA?oc=5",
-    "date": "2026-10-26T07:00:00",
-    "source": "Yahoo Finance",
-    "desc": "3 Reasons Why Growth Investors Shouldn't Overlook AppFolio (APPF)\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "AppFolio Inc (APPF) Shares Fall 3.1% -- What GF Score of 86 Tells Investors - GuruFocus",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3VBM25BSFNjeTJReVpyUElFcHVsT1FHWmFUX1VhdWExZmViNVE5VjdJQjVha1o5Y1FqbGdHX2NGTkJhTXRCNjhxcFoxdy1qazZWV0xTdzBudnIyN2Yxbm1mM0NoUFprcDJTa1ZiTVNzUTc2cVdtUkRTQU1ROUVHUWR3VkM4enViMHlCTFBPOS1fbGNOUVlzWHYzSldFcVlMUFhKdThjU29HSzg?oc=5",
-    "date": "2026-10-23T22:53:20",
-    "source": "GuruFocus",
-    "desc": "AppFolio Inc (APPF) Shares Fall 3.1% -- What GF Score of 86 Tells Investors\u00a0\u00a0GuruFocus"
-   },
-   {
-    "title": "AppFolio, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkg5TEhtSjE5TDh2a2ZVU3dURkRQRnRJMmJ0VWtsQThOQ3hHNGlheVFyZ2RXajlIUkVwVmw1Q29XeEtRVE9MYkc0MEpyU3RXb19VSDNldGpfQnk0TmloRXdtUE1NUFk5bl9sSFlSSW93Znh5OXJybk5iQWxUdXptTi1yQ0lSbzExeUpZdkRKdWRDSUlMSHFSYXRR?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "Yahoo Finance",
-    "desc": "AppFolio, Inc. Q3 2026 Earnings Call Summary\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "AppFolio Inc (APPF) (Q3 2026) Earnings Call Highlights: Revenue Jumps 19% as AI Performers Gain ... - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMm80N1U3dzdIeUg2cVBOYzVleGtMSmcxT2tzRkhqZVNWNG11VnR1Y0xkRHJvNnpnYldOTGZ6dW5aZXVSM0xQQmt3SnVXd3FSMmtrQ1FqOUxNQTFucXFlbTMxOWVNa2dWYkJscWFfc3ZXMDRaeHllNm93MmEwZ1Y3VTA0a3NxR0VfMldxS2FhMjhhZFFs?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "Yahoo Finance",
-    "desc": "AppFolio Inc (APPF) (Q3 2026) Earnings Call Highlights: Revenue Jumps 19% as AI Performers Gain ...\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "UBS Adjusts AppFolio Price Target to $240 From $220, Maintains Neutral Rating - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzVNU0hYcnNUd3dsRmE1MU1DYklfam15UVpQbEZuZk5QTmdFNko0cWM4ODBNOHcwdUVfcUlXQU1KU2NQYVVrS0R0b3JDQ3hhbWRnZHhIUjc2eDk4dURILXA0b2loNFlWbFFJeFN6Qktad2JxWXh1eEJRTUh0WVdGcndZRVhGUlVuSnNmdG4zVThyUW9kXzFjeE9RX3hudUk?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "Yahoo Finance",
-    "desc": "UBS Adjusts AppFolio Price Target to $240 From $220, Maintains Neutral Rating\u00a0\u00a0Yahoo Finance"
-   },
-   {
-    "title": "AppFolio: Tailwinds Are Now Priced In After Recent Rebound (Downgrade) (NASDAQ:APPF) - Seeking Alpha",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWcxa2JuaE1MSTVSSDdVdGhJUWpGMnFmMVo4bU8wMkZ6T2tCQnZTUC1JVXFBS2o2UjBBWkZiazJISmwwaElhYW1kQ0ZBUGJCWVRXc3I1bXF2Zk01eHF0QlVXSTQtRFRtdndhRXR6LXRLNjBmTkpZUlQ5Z1hUOEUtTlpDN1RLZEU0V0pFaXlNTFZNTk5KWWdpdEhMeW8xTkd5SXVubk1HT29UblhW?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "Seeking Alpha",
-    "desc": "AppFolio: Tailwinds Are Now Priced In After Recent Rebound (Downgrade) (NASDAQ:APPF)\u00a0\u00a0Seeking Alpha"
-   },
-   {
-    "title": "AppFolio, Inc. Stock 12\u2011Month Price Target Raised to $250, Implies 15% Upside - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1JDRzhVbDhnaHJ0MzB2ZnJaTElCY0FNd3A4VHluV2FFQ1Bqcjk2ZWV0Z1BqbXNibDZ4YWlTZXRha2k4NkRRSWQ2VWhPcjRuNnZucjNyMUJnN0pveTFFNjBtTjNEeXh2WHdaR2g0cHkxaV8yemNPcF9wYjBPemk2Mm5pVUdWUFdXM3VGMmNjN1U1X28zYWNuMHROeU9NdmMtT2JVNDNNSUJDSVlCVDdXZUR4WnU2aTNQSFZLYTAwaHBMWDhKNWNDelJTang0ak0?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "TradingView",
-    "desc": "AppFolio, Inc. Stock 12\u2011Month Price Target Raised to $250, Implies 15% Upside\u00a0\u00a0TradingView"
-   },
-   {
-    "title": "Guggenheim maintains Buy rating on AppFolio, $239 price target - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcm9zcGs2OTJ3X3dpbGlHbEQzaWk1MjJETkNWLVN1WF9nd2gzU0tOejZYcUhDRUdWYzZNNGxBdFlscjRuWHF5LVBtaURMN1N3WlB4LXE5b3ZFXzBabjZ2V2p0Ym9zcHhrc0xsanNoNUtvbDNvTHJ4X3VyTEdMeVhVR0hCUWMtRzR3T1dESVlFSWtqN3JSNTQzS2ZCYVVfYTF1aURYVUdqYmJHM3MwY2xmSndkWDFsbnVGNEpXNFRxMA?oc=5",
-    "date": "2026-10-23T07:00:00",
-    "source": "TradingView",
-    "desc": "Guggenheim maintains Buy rating on AppFolio, $239 price target\u00a0\u00a0TradingView"
-   },
-   {
-    "title": "Earnings call transcript: AppFolio tops Q3 2026 estimates, shares slip after hours - Investing.com",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQel9lTXlxZTBDQjluRC1qREoyYUtEYkc2MWcwVVdsRDQ4d0djUWk5M25FM09QZlpvdWswSWkyU1RZaHA5WTQ4NFVZU240Yms0TUh1MzVOSXVuc1E0WTlmX1Uxa2g2UjlXQ1lxcW5HaWhNSktCeEZVVUFEQTE0UEJGcUozWEp5dDVUM3JPUG5YR3VMLTdXbE9YYWdFZWQyWGd0UXQ5SndSYVZEZFNaMGVvZ1pwVmRMUHhrRzhOZU91eFM4MEIzcHBDUlZGdENNdmZpZmc?oc=5",
-    "date": "2026-10-22T22:11:19",
-    "source": "Investing.com",
-    "desc": "Earnings call transcript: AppFolio tops Q3 2026 estimates, shares slip after hours\u00a0\u00a0Investing.com"
-   }
-  ]
+  "Yardi": [],
+  "RealPage": [],
+  "AppFolio": []
  },
  "market": [
   {
@@ -1096,7 +420,7 @@
  },
  "account_watch": {
   "config_hash": "50fb9d4b2593",
-  "generated": "2026-11-04T06:02:27.312670+00:00",
+  "generated": "2026-11-04T14:40:43.422797+00:00",
   "companies": [
    {
     "name": "A.J. Dwoskin & Associates",
@@ -1108,7 +432,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22A.J.+Dwoskin+%26+Associates%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1124,7 +448,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Abbitt+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1140,7 +464,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22ADCO+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1157,7 +481,7 @@
     "final_url": "https://alleghenypartners.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Allegheny+Partners%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1177,7 +501,7 @@
     "final_url": "https://allenandrocks.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Allen+%26+Rocks%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1194,7 +518,7 @@
     "final_url": "https://www.southernstovelofts.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Aneka+Guna%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1211,7 +535,7 @@
     "final_url": "https://www.arcdevco.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22ARC+Developers%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1230,7 +554,7 @@
     "final_url": "https://www.ariadevelopmentgroup.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Aria+Development+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -1262,7 +586,7 @@
     "final_url": "https://aulder.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Aulder+Capital%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -1292,7 +616,7 @@
     "final_url": "https://www.bfmgmt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22B%26F+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1309,20 +633,10 @@
     "final_url": "https://www.baldwinrealestatecorp.com/?utm_source=redirect&utm_campaign=mgmt",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Baldwin+Real+Estate%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "Baldwin real estate market steadies for August - Lagniappe Daily",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUmhaZG5LWlJYaUQtZTZPMkJ2eS04UlhOQXZrajdpV1AtcldSc2VEVmZtd3pxNHA2cWxKRGR3enBsLVlOaTF2dHRjY2wxNUkybkJIa3RJM0F3UlY2cHdpMTZtRjVuQ1lza29heW5qdlZVRjRORkRlLXFZLUZFQnctLTVXN0dJakp5LU9yOWgwcHdPLVcxM2hzMmFJRGhVRVRVQ2VXME1CSjZtTmFWVkh1YWplQW96TDdQWm9BRmNWR0xzZ0J0QjhiSm5PU3JfLU53VW94dWtGM3g?oc=5",
-      "date": "2026-09-24T07:00:00",
-      "source": "Lagniappe Daily",
-      "category": "Other",
-      "new": false,
-      "key": "5f098fc11ffe"
-     }
-    ],
+    "items": [],
     "seen": [
      "540f17360e43",
      "5f098fc11ffe",
@@ -1341,7 +655,7 @@
     "final_url": "https://www.thebarac.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Barac+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1358,7 +672,7 @@
     "final_url": "https://www.bayviewmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Bayview+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -1479,7 +793,7 @@
     "final_url": "https://bcimgmt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22BCI+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1491,12 +805,12 @@
     "status": "reachable",
     "news_page": "https://www.betterhousingcoalition.org/what-were-doing/featured/",
     "feed": "https://www.betterhousingcoalition.org/feed/",
-    "home_hash": "628af37e3146",
+    "home_hash": "1164aa734a4b",
     "error": null,
     "final_url": "https://www.betterhousingcoalition.org/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Better+Housing+Coalition%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": true,
     "items": [],
@@ -1514,7 +828,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22BLDG+Management+Co.%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1534,7 +848,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Blue+Jay+Property+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1551,7 +865,7 @@
     "final_url": "https://blueocean.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Blue+Ocean+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1569,7 +883,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Bond+New+York+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1586,7 +900,7 @@
     "final_url": "https://boydhomes.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Boyd+Homes%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1605,7 +919,7 @@
     "final_url": "https://www.clintwoodapartments.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Branford+Realty+Corporation%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1622,7 +936,7 @@
     "final_url": "https://www.briarmeads.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Briar+Meads+Capital%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1639,7 +953,7 @@
     "final_url": "https://brickstreetpm.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Brickstreet+Property+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1656,20 +970,10 @@
     "final_url": "https://www.bromco.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Bromley+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "How Nick Haines and Bromley Companies Built Midtown Tampa - TBBW",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUEtOV0d6Qlc5Yi01Zy1xMTJhU3A0bXU2QUdJekZKZGtqZU90cTREVUhBMmFMVTRUMGJtaUZ0NVJSTDJqSzdDamNPQUVoUEtYOHEwcFpZUEdMUUhOZFdfWGtSU09GcGty?oc=5",
-      "date": "2026-10-01T07:00:00",
-      "source": "TBBW",
-      "category": "Other",
-      "new": false,
-      "key": "b095921df21c"
-     }
-    ],
+    "items": [],
     "seen": [
      "b095921df21c",
      "b1c1658d0496"
@@ -1686,7 +990,7 @@
     "final_url": "https://buffalomanagementgroup.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Buffalo+Management+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1703,7 +1007,7 @@
     "final_url": "https://capinvestad.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Capital+Investment+Advisors%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1722,7 +1026,7 @@
     "final_url": "https://www.carlylepropertymanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Carlyle+Property+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1734,12 +1038,12 @@
     "status": "no news page",
     "news_page": null,
     "feed": null,
-    "home_hash": "d2b50fe8e405",
+    "home_hash": "342c9df49b02",
     "error": null,
     "final_url": "https://carydale.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Carydale+Apartments%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": true,
     "items": [],
@@ -1756,7 +1060,7 @@
     "final_url": "https://www.ciminelli.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Ciminelli+Real+Estate+Corporation%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1775,7 +1079,7 @@
     "final_url": "https://clachanproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Clachan+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1794,7 +1098,7 @@
     "final_url": "https://www.clarkwhitehill.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Clark+Whitehill+Enterprises%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1811,7 +1115,7 @@
     "final_url": "https://www.cogswellrealty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Cogswell+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1828,7 +1132,7 @@
     "final_url": "https://gingery.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Commodore+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1845,56 +1149,10 @@
     "final_url": "https://comstock.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Comstock%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "Comstock Lands $299M Refi for NoVa Office Towers - CommercialSearch",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVU40X2d6anEtX0wtcnE0bmNnX2dLc3RsTFRKV0hDWENVaGxUZVFFOFpnVzBWVzQ4RkpPWldEQkNjcHYxTGIyRzhtcHRzWGM4UWV4cDBUMVAta2Q1WndoNVpETE13RHVhOTRzT3dsUWZwemtOQkNlTHAxcmhNQThuRDdoMFVWUm1xVWtkS3kwdlZJZw?oc=5",
-      "date": "2026-11-03T13:59:56",
-      "source": "CommercialSearch",
-      "category": "Other",
-      "new": false,
-      "key": "6aab0d8199c6"
-     },
-     {
-      "title": "Comstock to Acquire 672-Unit Charlotte Multifamily Property - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXhwX2UzX1Z5WHA4cGJOc3A2ZUdJdGROUXYwR3kzTzNNT1Bkc1BmcG5XZWxmalJqakhoR3JieU1Od2FrSEpJMU9CRDZ6VkFDRUxCdkRKNVpwOGhURkpvYVo1S2pfRnVUSF9kYUNNX05mQnFqRkRNV2ZBVmFZQ1RiOER3NXZIV3BxcjhNQ3VmSWRocElhdE1VWlZoMExYVkk?oc=5",
-      "date": "2026-11-03T11:26:06",
-      "source": "citybiz",
-      "category": "Acquisition",
-      "new": false,
-      "key": "8c59d1cd2bdb"
-     },
-     {
-      "title": "Comstock Obtains $299.1M Refinancing for Office Towers at Reston Station in Northern Virginia - REBusinessOnline",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGl0Z1hnaGZaalBFZ0RGV2dZQTIwT3NkRmp2aXBHTjV1MnlQejlyWlVkcXN5X1BTT1RTcW9pX2lrN2FDNVlFNWRhZWtoZ1MzVWYxY0UycVJ6eXNUdkNZYjRTMkpoVVNQRlN3TTVYWm9EWkg5R3ItbHF4T1Z1TklocEZWOV9OUllJTjNlSkUyQ0pUa2g5MVFoRlJ4Tm90emhSSkhzU0FOU29qTmlGTjJNMzkzeUc3WkY3VklWaU56Zw?oc=5",
-      "date": "2026-11-02T15:47:25",
-      "source": "REBusinessOnline",
-      "category": "Other",
-      "new": false,
-      "key": "2136f0897035"
-     },
-     {
-      "title": "Comstock, SCG Development pitch 147 affordable units for latest Rockville project - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnBMLVFtSVg5X1VUd1k5aDlDaUVoMU9zR2xzUFM3OWFvV2l1THktTXlxWTNLZzdtQ3ZobVhSdmstNFViNF9TS3J5cDJVR2Y2OVdZR3ljcDE5cl9qbDQzUnVQWUtOT2lzS3NvZ2U2Mm0ydy1HdjRxRWo3TjNtSWZWWFZYanIxRm1TT1JjRDJkNHF6bUdkUWRiQ3dDczRONDlXY2NwSHZLOVE?oc=5",
-      "date": "2026-10-22T07:00:00",
-      "source": "The Business Journals",
-      "category": "Development",
-      "new": false,
-      "key": "fa0f0c11a2b1"
-     },
-     {
-      "title": "Judge Sides With Comstock In Fight Over Nearly 5 Acres In Downtown Herndon - Patch",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWFwV2gxUGFhUWhNb1VRNWw1R3BOc3F6YUs0bVJXSEk0a091UkxmcVd0VXlYakRFLUs5VjdQZ2EzRkFic1lIRHFhWDVJWXMyaDRyblNUVGdnTWYzS0dsNy1ONEt1Tlp4YWF6ekJLZUx4aFZPeGNvekFSUWQzMW44VnVTMnZXQzZrbTB6RGJCeUpGRHR1MmI0elpNYTMtWkVP?oc=5",
-      "date": "2026-09-29T07:00:00",
-      "source": "Patch",
-      "category": "Other",
-      "new": false,
-      "key": "234829b772dd"
-     }
-    ],
+    "items": [],
     "seen": [
      "1d9b3c036417",
      "2136f0897035",
@@ -1916,7 +1174,7 @@
     "final_url": "https://www.corsairmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Corsair+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1933,7 +1191,7 @@
     "final_url": "https://www.crestline-realty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Crestline+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1950,7 +1208,7 @@
     "final_url": "https://www.cscre.us/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22CSC+Real+Estate%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1966,7 +1224,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Dalan+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -1983,7 +1241,7 @@
     "final_url": "https://dechiaromd.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22DeChiaro+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2000,7 +1258,7 @@
     "final_url": "https://www.degeorgemanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22DeGeorge+Property+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2017,7 +1275,7 @@
     "final_url": "https://www.denstock.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Denstock+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2034,7 +1292,7 @@
     "final_url": "https://www.odrpm.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Dominion+Management+Services%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2051,7 +1309,7 @@
     "final_url": "https://www.dragas.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Dragas+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2071,7 +1329,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22E+%26+G+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2088,7 +1346,7 @@
     "final_url": "https://www.eakinpropertiesinc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Eakin+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2105,7 +1363,7 @@
     "final_url": "https://www.eastwoodmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Eastwood+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2122,7 +1380,7 @@
     "final_url": "https://ekrealtyllc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22EK+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2138,7 +1396,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22ELK+Investors%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2154,7 +1412,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Elmridge+Property+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2171,7 +1429,7 @@
     "final_url": "https://www.empiremanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Empire+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2188,82 +1446,10 @@
     "final_url": "https://www.esrtreit.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Empire+State+Realty+Trust%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
-     {
-      "title": "Empire State Realty Trust Q3 Earnings Call Highlights - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ1lnd0xpNTkySnBXNUZuY1M4SUsxNTNyeHZPQi1fRmtheTIyUlViR1BtQi1qLWlCdlFucVF5TllxeEQtbE81dHJVa25EaG85aFRZMmlnRENSNVB2bEFkcHZvcWY3cDhDOWl1MzI0LV9hTkl1MWFkR2pzQWJsNUhucUJKRW80RTZEUTBHS2RoMDVVbDlBcENOX0J5aXU3dnZ0U05TSFdrVWtTd0g3eUI1V2FWS1lGdEV0bEVQaXppUV9aUjlMaHQyeHd4UEl5SXZ4SGpwZ2F4ZFcwRjFDTng3bHBUODBUcWV6TG5XbDRLUTZrcHdO?oc=5",
-      "date": "2026-11-04T05:34:22",
-      "source": "MarketBeat",
-      "category": "Other",
-      "new": true,
-      "key": "0cabc7c1d662"
-     },
-     {
-      "title": "Electronic trading company leases full floor at Empire State Realty Trust Midtown property - Crain's New York",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3FSNUZmbWZfaXI3bkx2eHg3NXV6T3JJZWxWX3FPdmJydl9vdkVKNEpiYjZOSU1LQV92TGU4WjktU1hPb3N0eUJ4MzhqelJJZ1NnZF9SVUs3RjB0TkpVTER3UkF0V200T2M4UExxdUV5NHdPbFFud01RNGxfVTRCWEViem9tNm1va0ZlTlNDVGdTemJKQzUxLXRIS2NZNVFQeTgzRUxhYXk0a3dmV1B4T2JZdXZET0ps?oc=5",
-      "date": "2026-11-03T21:05:00",
-      "source": "Crain's New York",
-      "category": "Other",
-      "new": true,
-      "key": "e40ca8099449"
-     },
-     {
-      "title": "Empire State Realty Trust: Q3 Earnings Snapshot - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMDV1MGpfaVQ1MngtZF9TWWM0bWtMSk1hXzdpa21PQjhxWEhfNGRsTVhQRjA4TXFvZkJ2Sm0taEJZTGk1azN4T1ROTmZXenJIazZicWJGdGRsLXVJdDA4bEJtSFoxNzZBX002UDNiejMwWE9CbkJQQmcyanVNRV83ck5VbmEteDlfNVhEWHUwREVqcXpr?oc=5",
-      "date": "2026-11-03T04:28:00",
-      "source": "Yahoo Finance",
-      "category": "Other",
-      "new": false,
-      "key": "f09b7fe3a64a"
-     },
-     {
-      "title": "Empire State Realty Trust Achieves Highest GRESB Management Score... - Quantisnow",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWURRR2FHMU9rb0RDUWk2NGFjbFJGek1sOXQ3cnNKWXhjWWZqbXRrSVBmb2l4ZURyaE5kM285dVRwUXVTdmlzTUxFMVV3UUlXM1VFMWZxdHAySzF4V0pGaU9QU3A0VUxrcmhsTDZlTXhuMldXaUU1U3g5OFFlbV9HaE9HR0xMcGtnalJwWERJZmtLNjdibUVPZkdJX1otTGVRMmdPMGpraDdzc3Ju?oc=5",
-      "date": "2026-11-03T00:22:17",
-      "source": "Quantisnow",
-      "category": "Other",
-      "new": false,
-      "key": "23756efc06c5"
-     },
-     {
-      "title": "Empire State Realty Trust Signs Octaura for 28,914 Square Feet at 111 W. 33rd Street - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS3NFbUl6WktmQVRtckxBS3JQbHBTT1ZDNHo1d2VzQ1RaQ0FMOElDWkRYaTE2cGNlZklKZldyU1JoeU84QXp5emxHS1hpZ05EY0p2cUtrM1BfLUJLQnM2WEg1b1NKamFuM0w0bXQ1Ylhfd1R3dzdKQTFnVktLZFJEOUF1UmljelFVLU1udE9uUElqQmJqWGJObFhralJVS3VhbEgtR3NNSy1Kdk1NcVZtVXhzSHprcDJOU242aENzcXZzQ29UOHdFQnJMY3VwbEpXSzFOZEJuVQ?oc=5",
-      "date": "2026-11-03T00:03:00",
-      "source": "Business Wire",
-      "category": "Other",
-      "new": false,
-      "key": "7786207c195e"
-     },
-     {
-      "title": "Empire State Realty Trust Announces Third Quarter 2026 Results - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTdZYzJzUnh3TnRqVXM4cEFHYVpMOURFaDBfQUpsMDlvcWEyS0o5azVfLUpqOUM2NXdLZzNjVlRaNDlfR05feXJnU3BVSDVOWktIX1lRVXM3cjJQSkRJNldiTjBmNVFWb2Q0SDE4d1RHQ2pwcE1CY3FMU2Y0QS1pUjhtbmlmU0hjd3dELVVjTGpEX0lKRldLQzJic1h2S2RBakh1REZxTnRTTnVxbnczNGdzdHQxWGhUTkJN?oc=5",
-      "date": "2026-11-02T23:13:00",
-      "source": "Business Wire",
-      "category": "Other",
-      "new": false,
-      "key": "7148937750dc"
-     },
-     {
-      "title": "Empire State Realty Trust leads NYC office REITs with strong growth and valuation; BXP rated BUY at $70 target. - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV1Q5c2NhRE5UZjMwMnh3cVFFb2E5UEhyaDg2VUxSV0ZvV3lOZHYzbzdfeXBlRFBadUtWd183ZEJ5SXRTenhfY2dtNkJ0ZW9PNnprVjI5N1Fhc21pbFZpSks5VG9OYmxqUVpiOEc4THJRUGM4SDVMT05qS2N4WVljVDdVMU5zazJZV2c?oc=5",
-      "date": "2026-11-01T14:32:40",
-      "source": "Pluang",
-      "category": "Acquisition",
-      "new": false,
-      "key": "c3bd6c21a778"
-     },
-     {
-      "title": "Empire State Realty Trust: An Observatory Problem Makes This A Hold (NYSE:ESRT) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlBiSmZpYlQ4bTVJVWQ3TkpTV2E2aUNnZkJKZ3BEcjdEdFhVQ1pTS0NZOTJ6c0lzTVRaS2JocE51SGxWUkIwMDhBT29zYkdQRDM0UVRpX3V5STRKbzRpWmdKTUxXOVo0MThDbGlRVnVCQS1fWDlucEE3RU0wMEJIczMyVUV5N3NPSWlMZWJTbDJldDNoWHQyWTNIRTZDM2R4bmN1VGJaQUF0aWc?oc=5",
-      "date": "2026-10-21T07:00:00",
-      "source": "Seeking Alpha",
-      "category": "Other",
-      "new": false,
-      "key": "46fbe70704fd"
-     },
      {
       "title": "Common Tenant Challenges \u2014 and How Brokers Can Help",
       "link": "https://www.esrtreit.com/blog/leasing/common-tenant-challenges-and-how-brokers-can-help/",
@@ -2416,7 +1602,7 @@
     "final_url": "https://www.epoch.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Epoch+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2432,7 +1618,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22EPP+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2449,7 +1635,7 @@
     "final_url": "https://www.fallermgt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Faller+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2466,7 +1652,7 @@
     "final_url": "https://feldmanruel.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Feldman+Ruel%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -2499,7 +1685,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22First+Amherst+Development%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2516,7 +1702,7 @@
     "final_url": "https://firstequityassociates.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22First+Equity+Associates%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2533,7 +1719,7 @@
     "final_url": "https://www.firstprioritymgt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22First+Priority+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2550,7 +1736,7 @@
     "final_url": "https://firstpriseproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22First+Prise+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2567,7 +1753,7 @@
     "final_url": "https://robertsondevelop.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22FLX+Real+Estate+Management+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "site_flag": "5 spam/defacement-looking entries on the site's own feed or news page were hidden (site may be compromised)",
@@ -2604,7 +1790,7 @@
     "final_url": "https://www.foundstudy.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Found+Study%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2621,7 +1807,7 @@
     "final_url": "http://www.friedcompanies.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Fried+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2640,7 +1826,7 @@
     "final_url": "https://frontiercommunities.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Frontier+Management+of+New+York%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2657,7 +1843,7 @@
     "final_url": "https://www.gebhartproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Gebhart+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2673,7 +1859,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Gelman+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2690,19 +1876,10 @@
     "final_url": "https://www.genesisproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Genesis+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
-     {
-      "title": "Developer Genesis Properties cuts ribbon on new Pinnacle at Afton apartments on Southside - Richmond BizSense",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDV1Y3p1ZF9oZV8wRkZMOU5JMUVkbFQzYkJKbEVhcWpMdGZZeUpTRGplTTJGbExGMWRYQU1IZU1tZHdTUHZBX3QwbWtpU1JTdjZGNmVDWDRWemU4al9uWm01bTdpRkIwOTVwb1FLMEFZckZ2eVlFRTRFeklZTXE1SVdhQ2g2N2VYek81bXY0MVRUaUU5NVltRGxBX28xc2lnc3Y0bWwzNEZwZTlXQm12cWtQZ0NETXRhamhyaW5YeFB4eFFzVEJQaUdB?oc=5",
-      "date": "2026-10-16T07:00:00",
-      "source": "Richmond BizSense",
-      "category": "Development",
-      "new": false,
-      "key": "536ef629d2b4"
-     },
      {
       "title": "\u201cDeveloper Genesis Properties cuts Ribbon on new Pinnacle at Afton apartments on Southside.\u201d -Richmond BizSense",
       "link": "https://www.genesisproperties.com/news/developer-genesis-properties-cuts-ribbon-on-new-pinnacle-at-afton-apartments-on-southside-bizsense",
@@ -2769,7 +1946,7 @@
     "final_url": "https://www.gracepropertiesofva.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Grace+Properties+of+Virginia%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2786,7 +1963,7 @@
     "final_url": "https://www.gemc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Great+Eastern+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2803,7 +1980,7 @@
     "final_url": "https://www.greyshoremanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Greyshore+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2819,7 +1996,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Greystone+Rentals+NYC%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2836,7 +2013,7 @@
     "final_url": "https://www.gumenick.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Gumenick+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -2905,7 +2082,7 @@
     "final_url": "http://www.hakimian.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Hakimian+Management+Organization%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2922,7 +2099,7 @@
     "final_url": "https://harrison-lear.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Harrison+%26+Lear%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2939,7 +2116,7 @@
     "final_url": "https://helpdevco.org/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22HELP+Development%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2966,7 +2143,7 @@
     "final_url": "https://www.igordon.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22I.+Gordon+Apartment+Living%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -2983,7 +2160,7 @@
     "final_url": "https://www.jalexrentals.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22J+Alexander+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3000,7 +2177,7 @@
     "final_url": "https://www.jankowcompanies.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Jankow+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3016,7 +2193,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22K+%26+B+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3033,7 +2210,7 @@
     "final_url": "https://www.keelty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Keelty+Homes%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3050,7 +2227,7 @@
     "final_url": "https://kendev.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Kenmore+Development%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -3079,7 +2256,7 @@
     "final_url": "https://keshcapital.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Kesh+Capital%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3095,7 +2272,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22KEW+Management+Corporation%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3115,7 +2292,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Knott+Realty+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3132,7 +2309,7 @@
     "final_url": "https://www.krsholdings.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22KRS+Holdings%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -3256,7 +2433,7 @@
     "final_url": "https://lenkin.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Lenkin+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3273,7 +2450,7 @@
     "final_url": "https://www.lisamgmt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Lisa+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3289,7 +2466,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Malkin+Residential%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3305,7 +2482,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Manhattan+North+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3321,7 +2498,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Mark+IV+Enterprises%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3345,9 +2522,9 @@
     "final_url": "https://matchboxrealty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Matchbox+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
-    "home_changed": true,
+    "home_changed": false,
     "items": [
      {
       "title": "How to Actually Read Your Lease: A First-Time Renter\u2019s Guide",
@@ -3374,7 +2551,7 @@
     "final_url": "https://www.meddevelopers.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22MED+Developers%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3391,20 +2568,10 @@
     "final_url": "https://metroloft.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Metro+Loft+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "Metro Loft, David Werner Secure $231M Loan for Midtown East Residential Conversion - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUpma2hZcGhUX1U5MTJqaDVvbzJpc3VTMkVHTElMdmV5b0d1ZlhFSnBfNTMxMWlKSWlrbnd1emNreFRSSnJrd0VNMFBKYzdabzRHZ3duZ2RVWGZqWkx3Y05tNFQ1TXhialFBQnZYYUQySlhITk5OM3JVMUkzMU5OcTk3LVZ2aG1EX2VGQUVrNHlvNkpBcWJRdDdrSFpYZTNGdW9wbW00SVNGQ3JGaHlMOUp0U1B3RWc?oc=5",
-      "date": "2026-11-03T22:31:50",
-      "source": "Connect CRE",
-      "category": "Other",
-      "new": true,
-      "key": "2ceb8a5b8771"
-     }
-    ],
+    "items": [],
     "seen": [
      "2ceb8a5b8771"
     ]
@@ -3420,20 +2587,10 @@
     "final_url": "https://www.metropropertiesrichmond.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Metro+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "Manna Capital, Curbline buy west metro properties - Finance & Commerce",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDViLWRHTzl0U3FJMVVLR3hQMEN2WEo2bFloV3F1My0xRk5VcDlSUC1nSGF5dDhGZndKOHpHWjZzN3ZPT19Ia1pDQW11SVlpQUVXRmJNejZ5Nl9YQlN5eHdLcXpFMkRXb1I2Y0RaYUpIVWRvXzg1TGtHM1kwMU9qaDFiWU5TVWkwd2Rhcld3?oc=5",
-      "date": "2026-11-02T21:55:03",
-      "source": "Finance & Commerce",
-      "category": "Acquisition",
-      "new": false,
-      "key": "0e4f2dc6882f"
-     }
-    ],
+    "items": [],
     "seen": [
      "0e4f2dc6882f"
     ]
@@ -3449,7 +2606,7 @@
     "final_url": "https://www.midlandmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Midland+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3466,7 +2623,7 @@
     "final_url": "https://www.midwoodid.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Midwood+Investment+%26+Development%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3488,7 +2645,7 @@
     "final_url": "https://www.neighborhoodprops.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Neighborhood+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3500,12 +2657,12 @@
     "status": "reachable",
     "news_page": "https://www.northbaygroup.net/Press-Releases.aspx",
     "feed": null,
-    "home_hash": "e70e55ca9fc1",
+    "home_hash": "0458c756d003",
     "error": null,
     "final_url": "https://www.northbaygroup.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22North+Bay+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": true,
     "items": [
@@ -3533,7 +2690,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22North+York+Capital%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3545,14 +2702,14 @@
     "status": "reachable",
     "news_page": "https://livenovo.com/news/",
     "feed": "https://livenovo.com/feed/",
-    "home_hash": "364d6960d4c2",
+    "home_hash": "f98e2a73ccd6",
     "error": null,
     "final_url": "https://livenovo.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22NOVO+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
-    "home_changed": false,
+    "home_changed": true,
     "items": [],
     "seen": [
      "9be00df8ebf2",
@@ -3569,7 +2726,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Ohaven+Management+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3586,7 +2743,7 @@
     "final_url": "https://www.pagebrooke.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Page+Brooke+Developments%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3603,7 +2760,7 @@
     "final_url": "https://www.panamequities.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Pan+Am+Equities%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3621,7 +2778,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Park+Grove+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3640,20 +2797,10 @@
     "final_url": "https://www.pembrokerealty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Pembroke+Realty+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "Pembroke Realty Provides Updates on $300M Mall Redevelopment in Virginia Beach - REBusinessOnline",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0hUaTM0UlQ0VDl3MVhvQW5GclAwOHJHT1R5THdvMUJPcktIS3VNandUV2lmUUt0MFVBSkpFUUxCZzFQS0ozZ2ZpQWRUVUI4OG9UTUtQOFZOZld0anJaWFhwQmlHeGxuYXZVb251U1RGM1A4aldhYUNvTTlTeDA5bFZMdm5MczdtR0JFeXF2Y1RvVklDQnNCZVNaTVhVMFlEQmt3ZFNCRWpTVkk?oc=5",
-      "date": "2026-09-23T07:00:00",
-      "source": "REBusinessOnline",
-      "category": "Development",
-      "new": false,
-      "key": "173684890779"
-     }
-    ],
+    "items": [],
     "seen": [
      "173684890779",
      "45db8804dec1"
@@ -3670,7 +2817,7 @@
     "final_url": "https://www.perrelapartments.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Perrel+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3686,7 +2833,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Pine+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3703,7 +2850,7 @@
     "final_url": "https://www.promarkpartners.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Promark+Partners%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3722,7 +2869,7 @@
     "final_url": "https://www.prospectm.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Prospect+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3738,29 +2885,10 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22PRP+Real+Assets%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
-    "items": [
-     {
-      "title": "US manager PRP Real Assets buys Hyundai distribution centre for $67m - IPE Real Assets",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1VWZHMtY2djUkV3d0EtYkh3SlFoT1R6NEhHZ1liMHdtbThGUmRNSUE1eTJMSkh3cGNfWlFISzcxTjdibGJvcG5FM1NSenQ2UERmWXJLaUNvcF9qeE1ZS21USEZUWGo1RnZOTUhwbDlFM3dydWNubWJaWERES1lVcUs1QkxTLTVuNEZFdnBvNVU1Vkw1NC04UXljSXZudUM0eGMzNUFRNXRlYnVzcnZvSnJKRVBNX2M?oc=5",
-      "date": "2026-09-22T07:00:00",
-      "source": "IPE Real Assets",
-      "category": "Acquisition",
-      "new": false,
-      "key": "a74d3e0eb1d6"
-     },
-     {
-      "title": "PRP Real Assets sells Broadcom Corporate Campus to Broadcom for $325m - Institutional Real Estate, Inc.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEZVVzJIaThXdkY3MUZCUFlXWjlfUUh5TDc1cFVFZXhEY0toWjZGbDhMbVp1bkxocFhab09CQ1p3ZktFOVRUdnVBcklmVGtyYmYxb05OTkI5M2V3UWV1X2tOSzQxbXFMc25QTWJuNUZKaTV3aWg0SXlXUlJtdUlkZVRvUkcyOUV1cjBGcmIxWFlvSVE3bXc?oc=5",
-      "date": "2026-09-09T07:00:00",
-      "source": "Institutional Real Estate, Inc.",
-      "category": "Acquisition",
-      "new": false,
-      "key": "2c6f84c3a191"
-     }
-    ],
+    "items": [],
     "seen": [
      "0705e4c0279d",
      "1c08f358ab48",
@@ -3786,7 +2914,7 @@
     "final_url": "https://www.quadrangledevelopment.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Quadrangle+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3803,7 +2931,7 @@
     "final_url": "https://topazhouse.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Rakusin+%26+Becker+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3820,7 +2948,7 @@
     "final_url": "https://rchcapitalpartners.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22RCH+Capital+Partners%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3837,7 +2965,7 @@
     "final_url": "https://www.realestatedimensions.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Real+Estate+Dimensions%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3853,7 +2981,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Real+NY+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3870,7 +2998,7 @@
     "final_url": "https://ragny.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Red+Apple+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -3889,7 +3017,7 @@
     "final_url": "https://renaudconsulting.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Renaud+Consulting%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -3899,7 +3027,7 @@
       "date": "2026-11-03T21:48:41",
       "source": "Renaud Consulting (site feed)",
       "category": "Other",
-      "new": true,
+      "new": false,
       "key": "59febabd9a44"
      },
      {
@@ -3908,7 +3036,7 @@
       "date": "2026-11-03T21:29:02",
       "source": "Renaud Consulting (site feed)",
       "category": "Other",
-      "new": true,
+      "new": false,
       "key": "ca69126cdb71"
      },
      {
@@ -3917,7 +3045,7 @@
       "date": "2026-11-03T18:58:11",
       "source": "Renaud Consulting (site feed)",
       "category": "Other",
-      "new": true,
+      "new": false,
       "key": "6a7967151644"
      },
      {
@@ -4016,7 +3144,7 @@
     "final_url": "https://rinnier.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Rinnier+Development+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4033,7 +3161,7 @@
     "final_url": "https://riverview-companies.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22River+View+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4049,7 +3177,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Rolling+Park+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4066,7 +3194,7 @@
     "final_url": "https://www.rpfralininc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22RP+Fralin%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4083,7 +3211,7 @@
     "final_url": "https://www.thesabagroup.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Saba+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4099,7 +3227,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Savarino+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4116,7 +3244,7 @@
     "final_url": "http://www.sentprop.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Sentinel+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4133,7 +3261,7 @@
     "final_url": "https://www.sermarmanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Sermar+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4150,7 +3278,7 @@
     "final_url": "https://www.shaoolmgt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Shaool+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4167,7 +3295,7 @@
     "final_url": "https://www.shorecp.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Shore+Assets%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4184,7 +3312,7 @@
     "final_url": "https://sjgproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22SJG+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4201,7 +3329,7 @@
     "final_url": "https://sjpproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22SJP+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -4384,7 +3512,7 @@
     "final_url": "https://skylightrep.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Skylight+Real+Estate+Partners%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4405,7 +3533,7 @@
     "final_url": "https://www.spaxel.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Spaxel%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4422,7 +3550,7 @@
     "final_url": "https://www.srmgmtco.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22SR+Management+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4439,7 +3567,7 @@
     "final_url": "https://www.stewartlangleyproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Stewart+Langley+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4456,7 +3584,7 @@
     "final_url": "https://www.storchrealty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Storch+Realty%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "site_flag": "5 spam/defacement-looking entries on the site's own feed or news page were hidden (site may be compromised)",
@@ -4476,7 +3604,7 @@
     "final_url": "https://SummitSeniorLife.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Summit+Senior+Living%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4493,7 +3621,7 @@
     "final_url": "https://www.symphonymgmt.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Symphony+Property+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4505,12 +3633,12 @@
     "status": "reachable",
     "news_page": null,
     "feed": "https://tauberproperties.com/feed/",
-    "home_hash": "dca2390c5c67",
+    "home_hash": "7df991636ec1",
     "error": null,
     "final_url": "https://tauberproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Tauber+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": true,
     "items": [],
@@ -4527,7 +3655,7 @@
     "final_url": "https://www.thebdcgroup.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22The+BDC+Group%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -4618,7 +3746,7 @@
     "final_url": "https://www.thedowntownapts.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22The+Downtown%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4645,7 +3773,7 @@
     "final_url": "https://www.thornhillproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Thornhill+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4662,7 +3790,7 @@
     "final_url": "https://www.tomlinproperty.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Tomlin+%26+Associates%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4679,7 +3807,7 @@
     "final_url": "https://towercompanies.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Tower+Companies%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4691,14 +3819,14 @@
     "status": "reachable",
     "news_page": "https://townehousing.com/lead-based-paint-remediation/",
     "feed": "https://townehousing.com/feed/",
-    "home_hash": "faf3f3aeac09",
+    "home_hash": "776da128f88a",
     "error": null,
     "final_url": "https://townehousing.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Towne+Housing+Real+Estate%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
-    "home_changed": false,
+    "home_changed": true,
     "items": [],
     "seen": [
      "38120ef3a710"
@@ -4715,7 +3843,7 @@
     "final_url": "https://www.triumphrealestate.nyc/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Triumph+Real+Estate+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4732,7 +3860,7 @@
     "final_url": "https://www.u-apts.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22University+Apartments%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4749,7 +3877,7 @@
     "final_url": "https://supportworkshousing.org/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Virginia+Supportive+Housing%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4767,7 +3895,7 @@
     "error": null,
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22W.S.+Carnes%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4784,7 +3912,7 @@
     "final_url": "https://www.waoproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22WAO+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4801,7 +3929,7 @@
     "final_url": "https://washcomanagement.net/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Washco+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4818,7 +3946,7 @@
     "final_url": "http://www.whhtrice.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22WHH+Trice+%26+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4835,7 +3963,7 @@
     "final_url": "https://www.thewhitmoreco.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Whitmore+Company%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4852,7 +3980,7 @@
     "final_url": "https://internsdc.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Washington+Intern+Student+Housing%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+%28Maryland+OR+Virginia+OR+%22Washington%2C+D.C.%22+OR+%22New+York%22+OR+Baltimore+OR+Richmond+OR+Buffalo+OR+Rochester+OR+Norfolk%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4869,7 +3997,7 @@
     "final_url": "https://www.wyseproperties.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Wyse+Properties%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [
@@ -4898,7 +4026,7 @@
     "final_url": "https://zuckermangravelymanagement.com/",
     "google_news": {
      "url": "https://news.google.com/rss/search?q=%22Zuckerman+Gravely+Management%22+%28apartments+OR+multifamily+OR+housing+OR+%22real+estate%22+OR+property+OR+development%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
-     "ok": true
+     "ok": false
     },
     "home_changed": false,
     "items": [],
@@ -4907,8 +4035,8 @@
   ],
   "summary": {
    "companies": 153,
-   "with_items": 23,
-   "items": 103,
+   "with_items": 16,
+   "items": 82,
    "reachable": 66,
    "no_news_page": 58,
    "unreachable": 28,
